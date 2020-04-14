@@ -1,0 +1,1917 @@
+Folding 20 structures using sequence /Users/eliza/Documents/e_projects/yasara/2luz/2luz_it2_nefSt/2luz_it2_nefSt.fasta and restraints `/Users/eliza/Documents/e_projects/yasara/2luz/2luz_it2_nefSt/2luz_it2_nefSt.nef`, keeping best 10
+  Structure 001 has energy 6461.196  kJ/mol , including 6555.550  kJ/mol  restraint violations
+  Structure 002 has energy 44603.320  kJ/mol , including 42217.292  kJ/mol  restraint violations
+  Structure 003 has energy 5614.033  kJ/mol , including 5757.076  kJ/mol  restraint violations
+  Structure 004 has energy 501.452  kJ/mol , including 995.925  kJ/mol  restraint violations
+  Structure 005 has energy 6583.192  kJ/mol , including 6445.039  kJ/mol  restraint violations
+  Structure 006 has energy 2924.632  kJ/mol , including 3083.970  kJ/mol  restraint violations
+  Structure 007 has energy 2848.574  kJ/mol , including 3222.726  kJ/mol  restraint violations
+  Structure 008 has energy 1399.494  kJ/mol , including 1827.330  kJ/mol  restraint violations
+  Structure 009 has energy 5732.269  kJ/mol , including 5576.960  kJ/mol  restraint violations
+  Structure 010 has energy 2769.168  kJ/mol , including 2900.161  kJ/mol  restraint violations
+  Structure 011 has energy 17747.358  kJ/mol , including 16942.704  kJ/mol  restraint violations
+    Replacing structure 002
+  Structure 012 has energy 2463.963  kJ/mol , including 2713.239  kJ/mol  restraint violations
+    Replacing structure 002
+  Structure 013 has energy 7230.176  kJ/mol , including 6925.985  kJ/mol  restraint violations
+  Structure 014 has energy 3948.769  kJ/mol , including 4107.499  kJ/mol  restraint violations
+    Replacing structure 005
+  Structure 015 has energy 31806.261  kJ/mol , including 29594.320  kJ/mol  restraint violations
+  Structure 016 has energy 2814.606  kJ/mol , including 3076.104  kJ/mol  restraint violations
+    Replacing structure 001
+  Structure 017 has energy 630.309  kJ/mol , including 1089.521  kJ/mol  restraint violations
+    Replacing structure 009
+  Structure 018 has energy 3431.631  kJ/mol , including 3803.518  kJ/mol  restraint violations
+    Replacing structure 003
+  Structure 019 has energy 11871.865  kJ/mol , including 11445.480  kJ/mol  restraint violations
+  Structure 020 has energy 20498.079  kJ/mol , including 19431.094  kJ/mol  restraint violations
+In vacuo refinement:
+  Ensemble structure 001:
+    Violation energy is 3518.57, best so far 3518.57  kJ/mol , 0 failures recently.
+    Violation energy is 2318.72, best so far 2318.72  kJ/mol , 0 failures recently.
+    Violation energy is 2005.57, best so far 2005.57  kJ/mol , 0 failures recently.
+    Violation energy is 2058.74, best so far 2005.57  kJ/mol , 1 failures recently.
+    Violation energy is 1647.13, best so far 1647.13  kJ/mol , 0 failures recently.
+    Violation energy is 1799.31, best so far 1647.13  kJ/mol , 1 failures recently.
+    Violation energy is 1632.80, best so far 1632.80  kJ/mol , 0 failures recently.
+    Violation energy is 1592.17, best so far 1592.17  kJ/mol , 0 failures recently.
+    Violation energy is 1717.54, best so far 1592.17  kJ/mol , 1 failures recently.
+    Violation energy is 1570.85, best so far 1570.85  kJ/mol , 0 failures recently.
+    Violation energy is 1544.80, best so far 1544.80  kJ/mol , 0 failures recently.
+    Violation energy is 2107.37, best so far 1544.80  kJ/mol , 1 failures recently.
+    Violation energy is 1605.72, best so far 1544.80  kJ/mol , 2 failures recently.
+    Violation energy is 1373.58, best so far 1373.58  kJ/mol , 0 failures recently.
+    Violation energy is 1450.63, best so far 1373.58  kJ/mol , 1 failures recently.
+    Violation energy is 1444.09, best so far 1373.58  kJ/mol , 2 failures recently.
+    Violation energy is 1407.74, best so far 1373.58  kJ/mol , 3 failures recently.
+    Violation energy is 1824.38, best so far 1373.58  kJ/mol , 4 failures recently.
+    Violation energy is 1655.73, best so far 1373.58  kJ/mol , 1 failures recently.
+    Violation energy is 1899.72, best so far 1373.58  kJ/mol , 2 failures recently.
+    Violation energy is 1764.40, best so far 1373.58  kJ/mol , 3 failures recently.
+    Violation energy is 1568.42, best so far 1373.58  kJ/mol , 4 failures recently.
+    Cycle 1: Violation energy is 234.46  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 228.06  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 206.82  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 308.14  kJ/mol 
+    Cycle 1: Violation energy is 172.61  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 247.78  kJ/mol 
+    Cycle 1: Violation energy is 186.49  kJ/mol 
+    Cycle 1: Violation energy is 187.74  kJ/mol 
+    Cycle 1: Violation energy is 202.69  kJ/mol 
+    Cycle 1: Violation energy is 223.43  kJ/mol 
+    Cycle 1: Violation energy is 213.66  kJ/mol 
+    Cycle 1: Violation energy is 241.74  kJ/mol 
+    Cycle 1: Violation energy is 224.96  kJ/mol 
+  Ensemble structure 002:
+    Violation energy is 14564.51, best so far 14564.51  kJ/mol , 0 failures recently.
+    Violation energy is 7444.58, best so far 7444.58  kJ/mol , 0 failures recently.
+    Violation energy is 4813.66, best so far 4813.66  kJ/mol , 0 failures recently.
+    Violation energy is 3686.08, best so far 3686.08  kJ/mol , 0 failures recently.
+    Violation energy is 3784.46, best so far 3686.08  kJ/mol , 1 failures recently.
+    Violation energy is 3685.19, best so far 3685.19  kJ/mol , 0 failures recently.
+    Violation energy is 3675.95, best so far 3675.95  kJ/mol , 0 failures recently.
+    Violation energy is 3457.12, best so far 3457.12  kJ/mol , 0 failures recently.
+    Violation energy is 3087.09, best so far 3087.09  kJ/mol , 0 failures recently.
+    Violation energy is 3055.02, best so far 3055.02  kJ/mol , 0 failures recently.
+    Violation energy is 3575.58, best so far 3055.02  kJ/mol , 1 failures recently.
+    Violation energy is 3524.63, best so far 3055.02  kJ/mol , 2 failures recently.
+    Violation energy is 3210.13, best so far 3055.02  kJ/mol , 3 failures recently.
+    Violation energy is 3022.36, best so far 3022.36  kJ/mol , 0 failures recently.
+    Violation energy is 3316.71, best so far 3022.36  kJ/mol , 1 failures recently.
+    Violation energy is 3421.57, best so far 3022.36  kJ/mol , 2 failures recently.
+    Violation energy is 3015.54, best so far 3015.54  kJ/mol , 0 failures recently.
+    Violation energy is 3261.33, best so far 3015.54  kJ/mol , 1 failures recently.
+    Violation energy is 3270.78, best so far 3015.54  kJ/mol , 2 failures recently.
+    Violation energy is 3468.36, best so far 3015.54  kJ/mol , 3 failures recently.
+    Violation energy is 3995.52, best so far 3015.54  kJ/mol , 4 failures recently.
+    Violation energy is 3008.77, best so far 3008.77  kJ/mol , 0 failures recently.
+    Violation energy is 3391.22, best so far 3008.77  kJ/mol , 1 failures recently.
+    Violation energy is 3215.45, best so far 3008.77  kJ/mol , 2 failures recently.
+    Violation energy is 3153.98, best so far 3008.77  kJ/mol , 3 failures recently.
+    Violation energy is 3118.93, best so far 3008.77  kJ/mol , 4 failures recently.
+    Cycle 1: Violation energy is 768.75  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 879.55  kJ/mol 
+    Cycle 1: Violation energy is 918.42  kJ/mol 
+    Cycle 1: Violation energy is 803.96  kJ/mol 
+    Cycle 1: Violation energy is 803.88  kJ/mol 
+    Cycle 1: Violation energy is 913.69  kJ/mol 
+    Cycle 1: Violation energy is 810.77  kJ/mol 
+    Cycle 1: Violation energy is 957.08  kJ/mol 
+    Cycle 1: Violation energy is 943.44  kJ/mol 
+  Ensemble structure 003:
+    Violation energy is 9571.10, best so far 9571.10  kJ/mol , 0 failures recently.
+    Violation energy is 9582.26, best so far 9571.10  kJ/mol , 1 failures recently.
+    Violation energy is 6745.36, best so far 6745.36  kJ/mol , 0 failures recently.
+    Violation energy is 6458.01, best so far 6458.01  kJ/mol , 0 failures recently.
+    Violation energy is 3739.58, best so far 3739.58  kJ/mol , 0 failures recently.
+    Violation energy is 4211.75, best so far 3739.58  kJ/mol , 1 failures recently.
+    Violation energy is 3226.57, best so far 3226.57  kJ/mol , 0 failures recently.
+    Violation energy is 3395.65, best so far 3226.57  kJ/mol , 1 failures recently.
+    Violation energy is 3125.17, best so far 3125.17  kJ/mol , 0 failures recently.
+    Violation energy is 3370.24, best so far 3125.17  kJ/mol , 1 failures recently.
+    Violation energy is 2841.61, best so far 2841.61  kJ/mol , 0 failures recently.
+    Violation energy is 2802.79, best so far 2802.79  kJ/mol , 0 failures recently.
+    Violation energy is 2696.11, best so far 2696.11  kJ/mol , 0 failures recently.
+    Violation energy is 2752.75, best so far 2696.11  kJ/mol , 1 failures recently.
+    Violation energy is 2861.68, best so far 2696.11  kJ/mol , 2 failures recently.
+    Violation energy is 3235.21, best so far 2696.11  kJ/mol , 3 failures recently.
+    Violation energy is 2773.47, best so far 2696.11  kJ/mol , 4 failures recently.
+    Violation energy is 2595.40, best so far 2595.40  kJ/mol , 0 failures recently.
+    Violation energy is 2968.51, best so far 2595.40  kJ/mol , 1 failures recently.
+    Violation energy is 2477.08, best so far 2477.08  kJ/mol , 0 failures recently.
+    Violation energy is 2385.42, best so far 2385.42  kJ/mol , 0 failures recently.
+    Violation energy is 2943.72, best so far 2385.42  kJ/mol , 1 failures recently.
+    Violation energy is 2435.00, best so far 2385.42  kJ/mol , 2 failures recently.
+    Violation energy is 2555.03, best so far 2385.42  kJ/mol , 3 failures recently.
+    Violation energy is 2780.31, best so far 2385.42  kJ/mol , 4 failures recently.
+    Cycle 1: Violation energy is 615.70  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 710.07  kJ/mol 
+    Cycle 1: Violation energy is 610.98  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 671.98  kJ/mol 
+    Cycle 1: Violation energy is 707.68  kJ/mol 
+    Cycle 1: Violation energy is 644.12  kJ/mol 
+    Cycle 1: Violation energy is 714.92  kJ/mol 
+    Cycle 1: Violation energy is 631.97  kJ/mol 
+    Cycle 1: Violation energy is 794.53  kJ/mol 
+    Cycle 1: Violation energy is 756.07  kJ/mol 
+    Cycle 1: Violation energy is 832.99  kJ/mol 
+  Ensemble structure 004:
+    Violation energy is 4302.69, best so far 4302.69  kJ/mol , 0 failures recently.
+    Violation energy is 3663.14, best so far 3663.14  kJ/mol , 0 failures recently.
+    Violation energy is 2229.89, best so far 2229.89  kJ/mol , 0 failures recently.
+    Violation energy is 1859.87, best so far 1859.87  kJ/mol , 0 failures recently.
+    Violation energy is 1928.64, best so far 1859.87  kJ/mol , 1 failures recently.
+    Violation energy is 1659.14, best so far 1659.14  kJ/mol , 0 failures recently.
+    Violation energy is 1507.27, best so far 1507.27  kJ/mol , 0 failures recently.
+    Violation energy is 1747.19, best so far 1507.27  kJ/mol , 1 failures recently.
+    Violation energy is 1984.83, best so far 1507.27  kJ/mol , 2 failures recently.
+    Violation energy is 2062.15, best so far 1507.27  kJ/mol , 3 failures recently.
+    Violation energy is 1880.07, best so far 1507.27  kJ/mol , 4 failures recently.
+    Violation energy is 1696.92, best so far 1507.27  kJ/mol , 1 failures recently.
+    Violation energy is 1572.54, best so far 1507.27  kJ/mol , 2 failures recently.
+    Violation energy is 1768.49, best so far 1507.27  kJ/mol , 3 failures recently.
+    Violation energy is 1726.72, best so far 1507.27  kJ/mol , 4 failures recently.
+    Cycle 1: Violation energy is 229.33  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 227.57  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 203.90  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 191.68  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 181.03  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 170.01  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 146.08  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 183.91  kJ/mol 
+    Cycle 1: Violation energy is 172.22  kJ/mol 
+    Cycle 1: Violation energy is 205.45  kJ/mol 
+    Cycle 1: Violation energy is 191.75  kJ/mol 
+    Cycle 1: Violation energy is 158.17  kJ/mol 
+    Cycle 1: Violation energy is 262.00  kJ/mol 
+    Cycle 1: Violation energy is 199.59  kJ/mol 
+    Cycle 1: Violation energy is 209.56  kJ/mol 
+  Ensemble structure 005:
+    Violation energy is 8873.85, best so far 8873.85  kJ/mol , 0 failures recently.
+    Violation energy is 7402.08, best so far 7402.08  kJ/mol , 0 failures recently.
+    Violation energy is 7649.13, best so far 7402.08  kJ/mol , 1 failures recently.
+    Violation energy is 6065.05, best so far 6065.05  kJ/mol , 0 failures recently.
+    Violation energy is 6821.47, best so far 6065.05  kJ/mol , 1 failures recently.
+    Violation energy is 5441.63, best so far 5441.63  kJ/mol , 0 failures recently.
+    Violation energy is 6250.53, best so far 5441.63  kJ/mol , 1 failures recently.
+    Violation energy is 5891.04, best so far 5441.63  kJ/mol , 2 failures recently.
+    Violation energy is 5268.72, best so far 5268.72  kJ/mol , 0 failures recently.
+    Violation energy is 5657.57, best so far 5268.72  kJ/mol , 1 failures recently.
+    Violation energy is 5224.78, best so far 5224.78  kJ/mol , 0 failures recently.
+    Violation energy is 5552.47, best so far 5224.78  kJ/mol , 1 failures recently.
+    Violation energy is 5492.22, best so far 5224.78  kJ/mol , 2 failures recently.
+    Violation energy is 5412.16, best so far 5224.78  kJ/mol , 3 failures recently.
+    Violation energy is 4921.81, best so far 4921.81  kJ/mol , 0 failures recently.
+    Violation energy is 4978.02, best so far 4921.81  kJ/mol , 1 failures recently.
+    Violation energy is 4985.99, best so far 4921.81  kJ/mol , 2 failures recently.
+    Violation energy is 5611.36, best so far 4921.81  kJ/mol , 3 failures recently.
+    Violation energy is 5291.72, best so far 4921.81  kJ/mol , 4 failures recently.
+    Violation energy is 4347.27, best so far 4347.27  kJ/mol , 0 failures recently.
+    Violation energy is 4381.07, best so far 4347.27  kJ/mol , 1 failures recently.
+    Violation energy is 4682.50, best so far 4347.27  kJ/mol , 2 failures recently.
+    Violation energy is 4796.35, best so far 4347.27  kJ/mol , 3 failures recently.
+    Violation energy is 4586.28, best so far 4347.27  kJ/mol , 4 failures recently.
+    Cycle 1: Violation energy is 1378.88  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1424.24  kJ/mol 
+    Cycle 1: Violation energy is 1515.75  kJ/mol 
+    Cycle 1: Violation energy is 1651.33  kJ/mol 
+    Cycle 1: Violation energy is 1569.36  kJ/mol 
+    Cycle 1: Violation energy is 1503.54  kJ/mol 
+    Cycle 1: Violation energy is 1710.36  kJ/mol 
+    Cycle 1: Violation energy is 1377.11  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1335.24  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1488.82  kJ/mol 
+    Cycle 1: Violation energy is 1441.78  kJ/mol 
+    Cycle 1: Violation energy is 1588.03  kJ/mol 
+    Cycle 1: Violation energy is 1312.87  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1332.34  kJ/mol 
+    Cycle 1: Violation energy is 1534.80  kJ/mol 
+    Cycle 1: Violation energy is 1378.04  kJ/mol 
+    Cycle 1: Violation energy is 1241.95  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1308.34  kJ/mol 
+    Cycle 1: Violation energy is 1455.35  kJ/mol 
+    Cycle 1: Violation energy is 1327.79  kJ/mol 
+    Cycle 1: Violation energy is 1291.94  kJ/mol 
+    Cycle 1: Violation energy is 1263.24  kJ/mol 
+    Cycle 1: Violation energy is 1237.48  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1289.78  kJ/mol 
+    Cycle 1: Violation energy is 1496.48  kJ/mol 
+    Cycle 1: Violation energy is 1488.58  kJ/mol 
+    Cycle 1: Violation energy is 1463.29  kJ/mol 
+    Cycle 1: Violation energy is 1684.04  kJ/mol 
+    Cycle 1: Violation energy is 1394.98  kJ/mol 
+    Cycle 1: Violation energy is 1343.81  kJ/mol 
+    Cycle 1: Violation energy is 1525.88  kJ/mol 
+  Ensemble structure 006:
+    Violation energy is 7460.24, best so far 7460.24  kJ/mol , 0 failures recently.
+    Violation energy is 8066.70, best so far 7460.24  kJ/mol , 1 failures recently.
+    Violation energy is 6662.50, best so far 6662.50  kJ/mol , 0 failures recently.
+    Violation energy is 6692.48, best so far 6662.50  kJ/mol , 1 failures recently.
+    Violation energy is 5754.75, best so far 5754.75  kJ/mol , 0 failures recently.
+    Violation energy is 4709.99, best so far 4709.99  kJ/mol , 0 failures recently.
+    Violation energy is 4222.31, best so far 4222.31  kJ/mol , 0 failures recently.
+    Violation energy is 5493.37, best so far 4222.31  kJ/mol , 1 failures recently.
+    Violation energy is 4282.57, best so far 4222.31  kJ/mol , 2 failures recently.
+    Violation energy is 4732.74, best so far 4222.31  kJ/mol , 3 failures recently.
+    Violation energy is 4569.60, best so far 4222.31  kJ/mol , 4 failures recently.
+    Violation energy is 4249.53, best so far 4222.31  kJ/mol , 1 failures recently.
+    Violation energy is 4306.55, best so far 4222.31  kJ/mol , 2 failures recently.
+    Violation energy is 4356.75, best so far 4222.31  kJ/mol , 3 failures recently.
+    Violation energy is 3925.45, best so far 3925.45  kJ/mol , 0 failures recently.
+    Violation energy is 4171.18, best so far 3925.45  kJ/mol , 1 failures recently.
+    Violation energy is 4540.30, best so far 3925.45  kJ/mol , 2 failures recently.
+    Violation energy is 4818.91, best so far 3925.45  kJ/mol , 3 failures recently.
+    Violation energy is 3940.18, best so far 3925.45  kJ/mol , 4 failures recently.
+    Cycle 1: Violation energy is 1043.10  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 878.49  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1004.93  kJ/mol 
+    Cycle 1: Violation energy is 842.73  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 675.51  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 905.05  kJ/mol 
+    Cycle 1: Violation energy is 780.43  kJ/mol 
+    Cycle 1: Violation energy is 757.73  kJ/mol 
+    Cycle 1: Violation energy is 835.88  kJ/mol 
+    Cycle 1: Violation energy is 862.12  kJ/mol 
+    Cycle 1: Violation energy is 752.70  kJ/mol 
+    Cycle 1: Violation energy is 785.07  kJ/mol 
+    Cycle 1: Violation energy is 826.38  kJ/mol 
+  Ensemble structure 007:
+    Violation energy is 6878.55, best so far 6878.55  kJ/mol , 0 failures recently.
+    Violation energy is 3499.56, best so far 3499.56  kJ/mol , 0 failures recently.
+    Violation energy is 2941.02, best so far 2941.02  kJ/mol , 0 failures recently.
+    Violation energy is 2769.02, best so far 2769.02  kJ/mol , 0 failures recently.
+    Violation energy is 2822.11, best so far 2769.02  kJ/mol , 1 failures recently.
+    Violation energy is 2914.76, best so far 2769.02  kJ/mol , 2 failures recently.
+    Violation energy is 2840.88, best so far 2769.02  kJ/mol , 3 failures recently.
+    Violation energy is 2603.99, best so far 2603.99  kJ/mol , 0 failures recently.
+    Violation energy is 2552.57, best so far 2552.57  kJ/mol , 0 failures recently.
+    Violation energy is 2369.85, best so far 2369.85  kJ/mol , 0 failures recently.
+    Violation energy is 2610.14, best so far 2369.85  kJ/mol , 1 failures recently.
+    Violation energy is 2235.20, best so far 2235.20  kJ/mol , 0 failures recently.
+    Violation energy is 2888.50, best so far 2235.20  kJ/mol , 1 failures recently.
+    Violation energy is 2600.13, best so far 2235.20  kJ/mol , 2 failures recently.
+    Violation energy is 1927.93, best so far 1927.93  kJ/mol , 0 failures recently.
+    Violation energy is 1921.90, best so far 1921.90  kJ/mol , 0 failures recently.
+    Violation energy is 1708.60, best so far 1708.60  kJ/mol , 0 failures recently.
+    Violation energy is 1919.97, best so far 1708.60  kJ/mol , 1 failures recently.
+    Violation energy is 1644.61, best so far 1644.61  kJ/mol , 0 failures recently.
+    Violation energy is 1583.93, best so far 1583.93  kJ/mol , 0 failures recently.
+    Violation energy is 1766.19, best so far 1583.93  kJ/mol , 1 failures recently.
+    Violation energy is 1813.00, best so far 1583.93  kJ/mol , 2 failures recently.
+    Violation energy is 1656.87, best so far 1583.93  kJ/mol , 3 failures recently.
+    Violation energy is 1521.22, best so far 1521.22  kJ/mol , 0 failures recently.
+    Violation energy is 1610.61, best so far 1521.22  kJ/mol , 1 failures recently.
+    Violation energy is 1359.73, best so far 1359.73  kJ/mol , 0 failures recently.
+    Violation energy is 2236.67, best so far 1359.73  kJ/mol , 1 failures recently.
+    Violation energy is 1852.60, best so far 1359.73  kJ/mol , 2 failures recently.
+    Violation energy is 1792.59, best so far 1359.73  kJ/mol , 3 failures recently.
+    Violation energy is 1960.68, best so far 1359.73  kJ/mol , 4 failures recently.
+    Violation energy is 1679.19, best so far 1359.73  kJ/mol , 1 failures recently.
+    Violation energy is 1767.50, best so far 1359.73  kJ/mol , 2 failures recently.
+    Violation energy is 1758.83, best so far 1359.73  kJ/mol , 3 failures recently.
+    Violation energy is 1663.74, best so far 1359.73  kJ/mol , 4 failures recently.
+    Cycle 1: Violation energy is 202.98  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 191.63  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 135.89  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 159.38  kJ/mol 
+    Cycle 1: Violation energy is 163.52  kJ/mol 
+    Cycle 1: Violation energy is 142.85  kJ/mol 
+    Cycle 1: Violation energy is 154.03  kJ/mol 
+    Cycle 1: Violation energy is 130.61  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 149.38  kJ/mol 
+    Cycle 1: Violation energy is 126.51  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 129.08  kJ/mol 
+    Cycle 1: Violation energy is 182.31  kJ/mol 
+    Cycle 1: Violation energy is 213.81  kJ/mol 
+    Cycle 1: Violation energy is 127.99  kJ/mol 
+    Cycle 1: Violation energy is 171.43  kJ/mol 
+    Cycle 1: Violation energy is 178.86  kJ/mol 
+    Cycle 1: Violation energy is 161.57  kJ/mol 
+    Cycle 1: Violation energy is 197.69  kJ/mol 
+  Ensemble structure 008:
+    Violation energy is 4233.51, best so far 4233.51  kJ/mol , 0 failures recently.
+    Violation energy is 3824.60, best so far 3824.60  kJ/mol , 0 failures recently.
+    Violation energy is 4111.17, best so far 3824.60  kJ/mol , 1 failures recently.
+    Violation energy is 3470.87, best so far 3470.87  kJ/mol , 0 failures recently.
+    Violation energy is 3421.78, best so far 3421.78  kJ/mol , 0 failures recently.
+    Violation energy is 4051.13, best so far 3421.78  kJ/mol , 1 failures recently.
+    Violation energy is 3118.04, best so far 3118.04  kJ/mol , 0 failures recently.
+    Violation energy is 2900.16, best so far 2900.16  kJ/mol , 0 failures recently.
+    Violation energy is 3328.33, best so far 2900.16  kJ/mol , 1 failures recently.
+    Violation energy is 3328.70, best so far 2900.16  kJ/mol , 2 failures recently.
+    Violation energy is 3198.82, best so far 2900.16  kJ/mol , 3 failures recently.
+    Violation energy is 3134.09, best so far 2900.16  kJ/mol , 4 failures recently.
+    Violation energy is 3144.97, best so far 2900.16  kJ/mol , 1 failures recently.
+    Violation energy is 3143.62, best so far 2900.16  kJ/mol , 2 failures recently.
+    Violation energy is 3127.03, best so far 2900.16  kJ/mol , 3 failures recently.
+    Violation energy is 2769.98, best so far 2769.98  kJ/mol , 0 failures recently.
+    Violation energy is 3010.86, best so far 2769.98  kJ/mol , 1 failures recently.
+    Violation energy is 3156.32, best so far 2769.98  kJ/mol , 2 failures recently.
+    Violation energy is 2972.66, best so far 2769.98  kJ/mol , 3 failures recently.
+    Violation energy is 2819.64, best so far 2769.98  kJ/mol , 4 failures recently.
+    Cycle 1: Violation energy is 874.20  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1071.25  kJ/mol 
+    Cycle 1: Violation energy is 976.04  kJ/mol 
+    Cycle 1: Violation energy is 672.77  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 707.53  kJ/mol 
+    Cycle 1: Violation energy is 831.02  kJ/mol 
+    Cycle 1: Violation energy is 786.88  kJ/mol 
+    Cycle 1: Violation energy is 818.27  kJ/mol 
+    Cycle 1: Violation energy is 828.14  kJ/mol 
+    Cycle 1: Violation energy is 747.02  kJ/mol 
+    Cycle 1: Violation energy is 613.42  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 722.21  kJ/mol 
+    Cycle 1: Violation energy is 815.72  kJ/mol 
+    Cycle 1: Violation energy is 803.84  kJ/mol 
+    Cycle 1: Violation energy is 725.76  kJ/mol 
+    Cycle 1: Violation energy is 642.06  kJ/mol 
+    Cycle 1: Violation energy is 621.44  kJ/mol 
+    Cycle 1: Violation energy is 631.01  kJ/mol 
+    Cycle 1: Violation energy is 907.32  kJ/mol 
+  Ensemble structure 009:
+    Violation energy is 3256.34, best so far 3256.34  kJ/mol , 0 failures recently.
+    Violation energy is 2423.84, best so far 2423.84  kJ/mol , 0 failures recently.
+    Violation energy is 2058.59, best so far 2058.59  kJ/mol , 0 failures recently.
+    Violation energy is 2218.59, best so far 2058.59  kJ/mol , 1 failures recently.
+    Violation energy is 2435.25, best so far 2058.59  kJ/mol , 2 failures recently.
+    Violation energy is 2560.27, best so far 2058.59  kJ/mol , 3 failures recently.
+    Violation energy is 2502.81, best so far 2058.59  kJ/mol , 4 failures recently.
+    Violation energy is 2229.64, best so far 2058.59  kJ/mol , 1 failures recently.
+    Violation energy is 2234.61, best so far 2058.59  kJ/mol , 2 failures recently.
+    Violation energy is 2028.47, best so far 2028.47  kJ/mol , 0 failures recently.
+    Violation energy is 2170.56, best so far 2028.47  kJ/mol , 1 failures recently.
+    Violation energy is 2145.07, best so far 2028.47  kJ/mol , 2 failures recently.
+    Violation energy is 2208.77, best so far 2028.47  kJ/mol , 3 failures recently.
+    Violation energy is 2503.71, best so far 2028.47  kJ/mol , 4 failures recently.
+    Cycle 1: Violation energy is 320.91  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 314.97  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 355.63  kJ/mol 
+    Cycle 1: Violation energy is 340.42  kJ/mol 
+    Cycle 1: Violation energy is 317.78  kJ/mol 
+    Cycle 1: Violation energy is 351.32  kJ/mol 
+    Cycle 1: Violation energy is 324.59  kJ/mol 
+    Cycle 1: Violation energy is 314.67  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 330.26  kJ/mol 
+    Cycle 1: Violation energy is 335.75  kJ/mol 
+    Cycle 1: Violation energy is 388.31  kJ/mol 
+    Cycle 1: Violation energy is 313.34  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 323.10  kJ/mol 
+    Cycle 1: Violation energy is 301.30  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 365.27  kJ/mol 
+    Cycle 1: Violation energy is 304.82  kJ/mol 
+    Cycle 1: Violation energy is 352.94  kJ/mol 
+    Cycle 1: Violation energy is 334.43  kJ/mol 
+    Cycle 1: Violation energy is 318.58  kJ/mol 
+    Cycle 1: Violation energy is 414.02  kJ/mol 
+    Cycle 1: Violation energy is 364.93  kJ/mol 
+    Cycle 1: Violation energy is 318.25  kJ/mol 
+  Ensemble structure 010:
+    Violation energy is 7586.03, best so far 7586.03  kJ/mol , 0 failures recently.
+    Violation energy is 7803.99, best so far 7586.03  kJ/mol , 1 failures recently.
+    Violation energy is 7319.16, best so far 7319.16  kJ/mol , 0 failures recently.
+    Violation energy is 7849.23, best so far 7319.16  kJ/mol , 1 failures recently.
+    Violation energy is 7054.36, best so far 7054.36  kJ/mol , 0 failures recently.
+    Violation energy is 6987.23, best so far 6987.23  kJ/mol , 0 failures recently.
+    Violation energy is 7324.24, best so far 6987.23  kJ/mol , 1 failures recently.
+    Violation energy is 5997.73, best so far 5997.73  kJ/mol , 0 failures recently.
+    Violation energy is 7104.69, best so far 5997.73  kJ/mol , 1 failures recently.
+    Violation energy is 6124.09, best so far 5997.73  kJ/mol , 2 failures recently.
+    Violation energy is 6574.15, best so far 5997.73  kJ/mol , 3 failures recently.
+    Violation energy is 6327.83, best so far 5997.73  kJ/mol , 4 failures recently.
+    Violation energy is 5861.60, best so far 5861.60  kJ/mol , 0 failures recently.
+    Violation energy is 5640.82, best so far 5640.82  kJ/mol , 0 failures recently.
+    Violation energy is 5945.62, best so far 5640.82  kJ/mol , 1 failures recently.
+    Violation energy is 5655.75, best so far 5640.82  kJ/mol , 2 failures recently.
+    Violation energy is 6080.81, best so far 5640.82  kJ/mol , 3 failures recently.
+    Violation energy is 6074.28, best so far 5640.82  kJ/mol , 4 failures recently.
+    Cycle 1: Violation energy is 1778.96  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1670.18  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 2292.08  kJ/mol 
+    Cycle 1: Violation energy is 1704.75  kJ/mol 
+    Cycle 1: Violation energy is 1662.24  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1709.83  kJ/mol 
+    Cycle 1: Violation energy is 1928.80  kJ/mol 
+    Cycle 1: Violation energy is 2073.05  kJ/mol 
+    Cycle 1: Violation energy is 1598.18  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1639.45  kJ/mol 
+    Cycle 1: Violation energy is 2058.52  kJ/mol 
+    Cycle 1: Violation energy is 1732.29  kJ/mol 
+    Cycle 1: Violation energy is 1418.40  kJ/mol 
+      Best energy so far, this is the new candidate for explicit solvent refinement.
+    Cycle 1: Violation energy is 1610.89  kJ/mol 
+    Cycle 1: Violation energy is 2033.69  kJ/mol 
+    Cycle 1: Violation energy is 1782.60  kJ/mol 
+    Cycle 1: Violation energy is 1727.10  kJ/mol 
+    Cycle 1: Violation energy is 1907.07  kJ/mol 
+    Cycle 1: Violation energy is 1966.12  kJ/mol 
+    Cycle 1: Violation energy is 1844.38  kJ/mol 
+    Cycle 1: Violation energy is 1826.60  kJ/mol 
+Explicit solvent refinement:
+  Ensemble structure 001:
+    Cycle 0/4: Violation energy is 394.73  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 448.65  kJ/mol 
+    Cycle 1/4: Violation energy is 593.87  kJ/mol 
+    Cycle 2/4: Violation energy is 485.29  kJ/mol 
+    Cycle 3/4: Violation energy is 478.32  kJ/mol 
+  Ensemble structure 002:
+    Cycle 0/4: Violation energy is 1864.93  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 1867.88  kJ/mol 
+    Cycle 1/4: Violation energy is 2033.88  kJ/mol 
+    Cycle 2/4: Violation energy is 1859.72  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 1967.60  kJ/mol 
+    Cycle 1/4: Violation energy is 1964.25  kJ/mol 
+    Cycle 2/4: Violation energy is 1898.11  kJ/mol 
+    Cycle 3/4: Violation energy is 1796.58  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 1911.92  kJ/mol 
+    Cycle 1/4: Violation energy is 1677.81  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 1947.88  kJ/mol 
+    Cycle 1/4: Violation energy is 1723.37  kJ/mol 
+    Cycle 2/4: Violation energy is 1671.21  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 1871.37  kJ/mol 
+    Cycle 1/4: Violation energy is 1703.58  kJ/mol 
+    Cycle 2/4: Violation energy is 1693.84  kJ/mol 
+    Cycle 3/4: Violation energy is 1788.50  kJ/mol 
+  Ensemble structure 003:
+    Cycle 0/4: Violation energy is 1444.83  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 1644.33  kJ/mol 
+    Cycle 1/4: Violation energy is 1620.60  kJ/mol 
+    Cycle 2/4: Violation energy is 1732.76  kJ/mol 
+    Cycle 3/4: Violation energy is 1877.10  kJ/mol 
+  Ensemble structure 004:
+    Cycle 0/4: Violation energy is 394.74  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 559.06  kJ/mol 
+    Cycle 1/4: Violation energy is 431.89  kJ/mol 
+    Cycle 2/4: Violation energy is 444.55  kJ/mol 
+    Cycle 3/4: Violation energy is 488.11  kJ/mol 
+  Ensemble structure 005:
+    Cycle 0/4: Violation energy is 2962.39  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 3579.12  kJ/mol 
+    Cycle 1/4: Violation energy is 3343.82  kJ/mol 
+    Cycle 2/4: Violation energy is 3368.35  kJ/mol 
+    Cycle 3/4: Violation energy is 3775.43  kJ/mol 
+  Ensemble structure 006:
+    Cycle 0/4: Violation energy is 2224.87  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 2294.81  kJ/mol 
+    Cycle 1/4: Violation energy is 2330.15  kJ/mol 
+    Cycle 2/4: Violation energy is 2301.20  kJ/mol 
+    Cycle 3/4: Violation energy is 2485.07  kJ/mol 
+  Ensemble structure 007:
+    Cycle 0/4: Violation energy is 273.60  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 290.71  kJ/mol 
+    Cycle 1/4: Violation energy is 299.23  kJ/mol 
+    Cycle 2/4: Violation energy is 218.75  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 299.80  kJ/mol 
+    Cycle 1/4: Violation energy is 193.19  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 249.92  kJ/mol 
+    Cycle 1/4: Violation energy is 256.20  kJ/mol 
+    Cycle 2/4: Violation energy is 237.08  kJ/mol 
+    Cycle 3/4: Violation energy is 316.09  kJ/mol 
+  Ensemble structure 008:
+    Cycle 0/4: Violation energy is 1373.02  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 1707.16  kJ/mol 
+    Cycle 1/4: Violation energy is 1619.42  kJ/mol 
+    Cycle 2/4: Violation energy is 1545.40  kJ/mol 
+    Cycle 3/4: Violation energy is 1601.52  kJ/mol 
+  Ensemble structure 009:
+    Cycle 0/4: Violation energy is 625.26  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 761.36  kJ/mol 
+    Cycle 1/4: Violation energy is 670.03  kJ/mol 
+    Cycle 2/4: Violation energy is 775.60  kJ/mol 
+    Cycle 3/4: Violation energy is 720.12  kJ/mol 
+  Ensemble structure 010:
+    Cycle 0/4: Violation energy is 4786.55  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 4417.08  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 4466.44  kJ/mol 
+    Cycle 1/4: Violation energy is 4630.84  kJ/mol 
+    Cycle 2/4: Violation energy is 4569.05  kJ/mol 
+    Cycle 3/4: Violation energy is 4373.81  kJ/mol 
+      Best energy so far, this is the new member of the final ensemble.
+    Cycle 0/4: Violation energy is 4488.19  kJ/mol 
+    Cycle 1/4: Violation energy is 4558.83  kJ/mol 
+    Cycle 2/4: Violation energy is 4727.07  kJ/mol 
+    Cycle 3/4: Violation energy is 4667.15  kJ/mol 
+Ensemble analysis:
+  Ensemble structure 1:
+    Total energy                   -79037.914  kJ/mol 
+      Restraint violation energy:  108.897  kJ/mol 
+        Distance restraints:       108.897  kJ/mol 
+          Maximum violation:       0.498 A
+        Dihedral angle restraints: 0.000  kJ/mol 
+          Maximum violation:       0.000 degrees
+        RDC restraints:            0.000  kJ/mol 
+          Maximum violation:       0.000 Hz
+      Force field energy:          -79146.811  kJ/mol 
+        Internal solute energy:    -40646.059  kJ/mol 
+        Electrostatic solv.energy: -39219.557  kJ/mol 
+        Van der Waals solv.energy: 718.805  kJ/mol 
+    Model Quality Z-score:         -1.686
+    Backbone RMSD from average:    2.546 A
+    List of violated restraints:
+
+      Obj Number Class   Atom/Residue 1   Atom/Residue 2    d      d-     d+    Scale   dNow   dViol  E[kJ/mol]
+      =========================================================================================================
+        1    835 2luz.mr  H   ALA   32  A-1HD  PRO   33  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        1   2512 2luz.mr 1HB  ARG  165  A-1HG  GLN  168  A 4.000  2.200  2.000  25.0   6.001   0.001      0.000
+        1   1808 2luz.mr #HD2 LEU  101  A-2HB  LEU  109  A 4.000  2.200  1.000  25.0   5.007   0.007      0.006
+        1   1616 2luz.mr #HD1 ILE   85  A- H   LEU   99  A 4.000  2.200  2.000  25.0   6.008   0.008      0.007
+        1    383 2luz.mr 1HG  ARG   13  A- HA  ARG   14  A 4.000  2.200  1.000  25.0   5.010   0.010      0.011
+        1   2243 2luz.mr 2HB  LEU  133  A-1HB  LEU  136  A 4.000  2.200  1.000  25.0   5.013   0.013      0.018
+        1   1838 2luz.mr 2HG  GLU  103  A- H   GLU  104  A 4.000  2.200  1.000  25.0   5.013   0.013      0.019
+        1     43 2luz.mr  H   THR   42  A- O   TRP   38  A 1.700  0.000  0.600  25.0   2.320   0.020      0.041
+        1   1495 2luz.mr #HD1 LEU   75  A- HA  ILE   85  A 4.000  2.200  1.000  25.0   5.024   0.024      0.062
+        1   2114 2luz.mr  H   GLU  124  A-1HG  GLU  124  A 4.000  2.200  1.000  25.0   1.775  -0.025      0.067
+        1    365 2luz.mr  H   ARG   13  A-2HG  ARG   13  A 4.000  2.200  1.000  25.0   5.026   0.026      0.068
+        1   1849 2luz.mr  HA  GLU  104  A- H   GLY  107  A 4.000  2.200  1.000  25.0   5.026   0.026      0.073
+        1    843 2luz.mr #HB  ALA   32  A-2HD  PRO   33  A 3.000  1.200  0.500  25.0   3.527   0.027      0.074
+        1   2692 2luz.mr  HA  SER  180  A- H   GLY  181  A 3.000  1.200  0.500  25.0   3.529   0.029      0.088
+        1   2147 2luz.mr 1HA  GLY  126  A- HZ3 TRP  174  A 4.000  2.200  1.000  25.0   5.029   0.029      0.090
+        1   2443 2luz.mr  HA  GLU  158  A- H   SER  160  A 4.000  2.200  2.000  25.0   6.030   0.030      0.095
+        1     29 2luz.mr  H   ARG   29  A- O   ALA    6  A 1.700  0.000  0.600  25.0   2.331   0.031      0.103
+        1   2102 2luz.mr #HG1 VAL  123  A- HA  ALA  175  A 3.000  1.200  0.500  25.0   3.533   0.033      0.112
+        1   1506 2luz.mr  H   ARG   76  A- HB  THR   84  A 4.000  2.200  1.000  25.0   1.767  -0.033      0.113
+        1   1985 2luz.mr #HG2 THR  116  A-1HB  MET  121  A 3.000  1.200  0.500  25.0   3.533   0.033      0.117
+        1   1714 2luz.mr 2HB  PRO   93  A- H   ASP   94  A 4.000  2.200  1.000  25.0   5.033   0.033      0.117
+        1   1213 2luz.mr #HD1 ILE   52  A- HA  LEU   66  A 4.000  2.200  1.000  25.0   5.033   0.033      0.117
+        1   2306 2luz.mr  H   PHE  139  A-#HD1 LEU  144  A 4.000  2.200  1.000  25.0   5.035   0.035      0.131
+        1   1775 2luz.mr #HD1 LEU   99  A-#HD2 LEU  110  A 2.000  0.200  0.700  25.0   2.736   0.036      0.132
+        1   2385 2luz.mr  HB  VAL  149  A- H   ASP  152  A 3.000  1.200  0.500  25.0   3.536   0.036      0.137
+        1   1642 2luz.mr  HE1 TRP   87  A- HE# TYR   89  A 4.000  2.200  1.000  25.0   5.037   0.037      0.140
+        1    445 2luz.mr #HD1 ILE   16  A- HB  THR  117  A 4.000  2.200  1.000  25.0   5.037   0.037      0.141
+        1   1701 2luz.mr  HA  LYS   92  A-1HD  LYS   92  A 3.000  1.200  0.500  25.0   3.538   0.038      0.149
+        1   1685 2luz.mr  HE# TYR   89  A-#HG  LYS   92  A 4.000  2.200  1.000  25.0   5.038   0.038      0.149
+        1   1265 2luz.mr 1HB  LYS   55  A- H   GLY   56  A 3.000  1.200  0.500  25.0   3.541   0.041      0.177
+        1   1537 2luz.mr 1HB  GLU   78  A-#HG  ARG   81  A 4.000  2.200  1.000  25.0   5.041   0.041      0.179
+        1   1646 2luz.mr 1HB  TRP   87  A- H   SER   95  A 4.000  2.200  1.000  25.0   5.042   0.042      0.184
+        1   2024 2luz.mr 1HB  GLU  119  A- H   GLN  120  A 3.000  1.200  0.500  25.0   3.543   0.043      0.194
+        1   1491 2luz.mr 1HB  LEU   75  A- HB  THR   84  A 4.000  2.200  1.000  25.0   5.047   0.047      0.228
+        1   2450 2luz.mr  H   SER  160  A-1HG  MET  164  A 4.000  2.200  1.000  25.0   5.047   0.047      0.229
+        1   1708 2luz.mr #HE  LYS   92  A-#HE  MET  121  A 4.000  2.200  2.000  25.0   6.047   0.047      0.231
+        1    163 2luz.mr  H   ARG  165  A- O   PRO  161  A 1.700  0.000  0.600  25.0   2.350   0.050      0.266
+        1    170 2luz.mr  N   GLN  168  A- O   MET  164  A 2.700  0.000  0.600  25.0   3.351   0.051      0.275
+        1   2393 2luz.mr 1HB  PRO  150  A- H   GLU  151  A 3.000  1.200  0.500  25.0   3.553   0.053      0.297
+        1    270 2luz.mr 1HG  ARG    9  A- HA  TRP  174  A 4.000  2.200  2.000  25.0   6.054   0.054      0.302
+        1   2684 2luz.mr  H   HIS  179  A-2HB  HIS  179  A 3.000  1.200  0.500  25.0   3.554   0.054      0.306
+        1    123 2luz.mr  H   VAL  123  A- O   GLU  119  A 1.700  0.000  0.600  25.0   2.355   0.055      0.316
+        1   2510 2luz.mr 1HB  ARG  165  A-1HD  ARG  165  A 3.000  1.200  0.500  25.0   3.556   0.056      0.331
+        1   2498 2luz.mr #HE  MET  164  A-1HE2 GLN  168  A 4.000  2.200  2.000  25.0   6.061   0.061      0.387
+        1   1581 2luz.mr #HD2 LEU   83  A- H   LEU   99  A 4.000  2.200  1.000  25.0   5.062   0.062      0.397
+        1    731 2luz.mr 1HG  ARG   27  A-#HD2 LEU  109  A 3.000  1.200  0.500  25.0   3.569   0.069      0.493
+        1   2487 2luz.mr #HE  MET  163  A- H   SER  167  A 4.000  2.200  2.000  25.0   6.077   0.077      0.623
+        1    894 2luz.mr #HG1 VAL   34  A- H   GLU   36  A 4.000  2.200  1.000  25.0   5.079   0.079      0.656
+        1    390 2luz.mr  HA  ARG   14  A-2HG  ARG   14  A 3.000  1.200  0.500  25.0   3.580   0.080      0.667
+        1    169 2luz.mr  H   GLN  168  A- O   MET  164  A 1.700  0.000  0.600  25.0   2.382   0.082      0.697
+        1   1484 2luz.mr  HA  LEU   75  A-#HD2 LEU   75  A 3.000  1.200  0.500  25.0   3.594   0.094      0.930
+        1   1178 2luz.mr  HH2 TRP   50  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.098   0.098      0.997
+        1    273 2luz.mr 1HG  ARG    9  A-#HD1 LEU  177  A 3.000  1.200  0.500  25.0   3.600   0.100      1.046
+        1    714 2luz.mr 1HD  ARG   27  A-#HD1 LEU  109  A 4.000  2.200  1.000  25.0   5.107   0.107      1.198
+        1   1334 2luz.mr  H   ASN   63  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.111   0.111      1.292
+        1   2616 2luz.mr 1HB  TRP  174  A- H   LEU  177  A 4.000  2.200  1.000  25.0   5.111   0.111      1.293
+        1    302 2luz.mr  H   LEU   11  A-#HD1 LEU  177  A 4.000  2.200  1.000  25.0   5.114   0.114      1.367
+        1   2163 2luz.mr #HG1 VAL  127  A-1HB  GLU  130  A 4.000  2.200  1.000  25.0   5.116   0.116      1.412
+        1   1643 2luz.mr  HE3 TRP   87  A-#HE  MET  121  A 4.000  2.200  2.000  25.0   6.117   0.117      1.431
+        1    799 2luz.mr  HD# TYR   30  A- HG  LEU  110  A 4.000  2.200  1.000  25.0   5.122   0.122      1.566
+        1   1712 2luz.mr  HA  PRO   93  A- H   ASP   94  A 3.000  1.200  0.500  25.0   3.626   0.126      1.653
+        1   2617 2luz.mr 1HB  TRP  174  A- H   VAL  178  A 4.000  2.200  1.000  25.0   5.148   0.148      2.287
+        1   1707 2luz.mr 1HD  LYS   92  A-1HD  PRO   93  A 4.000  2.200  1.000  25.0   5.158   0.158      2.604
+        1     71 2luz.mr  H   ARG   76  A- O   THR   84  A 1.700  0.000  0.600  25.0   2.463   0.163      2.788
+        1   2112 2luz.mr #HG2 VAL  123  A- HD2 HIS  179  A 4.000  2.200  1.000  25.0   5.164   0.164      2.803
+        1   2125 2luz.mr 1HG  GLU  124  A- HA  VAL  125  A 4.000  2.200  1.000  25.0   5.175   0.175      3.209
+        1   1617 2luz.mr #HD1 ILE   85  A-1HB  LEU   99  A 4.000  2.200  1.000  25.0   5.183   0.183      3.494
+        1   1700 2luz.mr  H   LYS   92  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.685   0.185      3.575
+        1    814 2luz.mr  HE# TYR   30  A-#HD1 LEU  133  A 4.000  2.200  1.000  25.0   5.192   0.192      3.870
+        1   2488 2luz.mr #HE  MET  163  A-#HB  SER  167  A 4.000  2.200  2.000  25.0   6.195   0.195      3.993
+        1   1494 2luz.mr #HD1 LEU   75  A-#HG2 THR   84  A 3.000  1.200  0.500  25.0   3.698   0.198      4.115
+        1   2514 2luz.mr 1HG  ARG  165  A-1HG  GLU  169  A 4.000  2.200  1.000  25.0   5.206   0.206      4.444
+        1   1055 2luz.mr 1HB  CYS   41  A-#HD1 LEU   99  A 3.000  1.200  0.500  25.0   3.745   0.245      6.260
+        1    770 2luz.mr #HD  ARG   29  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.765   0.265      7.332
+        1   1681 2luz.mr  HD# TYR   89  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.780   0.280      8.203
+        1   1540 2luz.mr  HA  PRO   79  A-1HB  PRO   80  A 4.000  2.200  1.000  25.0   5.498   0.498     25.926
+      Of 76 listed distance restraints, 76 (100.00%) are violated with a total energy of 108.897 kJ/mol
+ 
+  Ensemble structure 2:
+    Total energy                   -78503.947  kJ/mol 
+      Restraint violation energy:  135.460  kJ/mol 
+        Distance restraints:       135.460  kJ/mol 
+          Maximum violation:       0.434 A
+        Dihedral angle restraints: 0.000  kJ/mol 
+          Maximum violation:       0.000 degrees
+        RDC restraints:            0.000  kJ/mol 
+          Maximum violation:       0.000 Hz
+      Force field energy:          -78639.407  kJ/mol 
+        Internal solute energy:    -39654.506  kJ/mol 
+        Electrostatic solv.energy: -39886.495  kJ/mol 
+        Van der Waals solv.energy: 901.593  kJ/mol 
+    Model Quality Z-score:         -1.816
+    Backbone RMSD from average:    2.447 A
+    List of violated restraints:
+
+      Obj Number Class   Atom/Residue 1   Atom/Residue 2    d      d-     d+    Scale   dNow   dViol  E[kJ/mol]
+      =========================================================================================================
+        2   1265 2luz.mr 1HB  LYS   55  A- H   GLY   56  A 3.000  1.200  0.500  25.0   3.505   0.005      0.002
+        2    145 2luz.mr  H   ASP  134  A- O   GLU  130  A 1.700  0.000  0.600  25.0   2.305   0.005      0.002
+        2   2393 2luz.mr 1HB  PRO  150  A- H   GLU  151  A 3.000  1.200  0.500  25.0   3.506   0.006      0.004
+        2    172 2luz.mr  N   GLU  169  A- O   ARG  165  A 2.700  0.000  0.600  25.0   2.693  -0.007      0.006
+        2     67 2luz.mr  H   GLY   72  A- O   PHE   64  A 1.700  0.000  0.600  25.0   2.310   0.010      0.010
+        2    123 2luz.mr  H   VAL  123  A- O   GLU  119  A 1.700  0.000  0.600  25.0   2.311   0.011      0.013
+        2   1540 2luz.mr  HA  PRO   79  A-1HB  PRO   80  A 4.000  2.200  1.000  25.0   5.014   0.014      0.020
+        2   1383 2luz.mr  H   LEU   66  A- HA  SER   71  A 4.000  2.200  1.000  25.0   5.018   0.018      0.032
+        2   1985 2luz.mr #HG2 THR  116  A-1HB  MET  121  A 3.000  1.200  0.500  25.0   3.518   0.018      0.036
+        2   2415 2luz.mr #HB  ALA  153  A- H   ALA  154  A 3.000  1.200  0.500  25.0   3.520   0.020      0.041
+        2    445 2luz.mr #HD1 ILE   16  A- HB  THR  117  A 4.000  2.200  1.000  25.0   5.021   0.021      0.046
+        2   1526 2luz.mr  H   GLU   78  A-2HB  PRO   79  A 4.000  2.200  2.000  25.0   6.023   0.023      0.054
+        2     56 2luz.mr  N   LEU   58  A- O   ASN   63  A 2.700  0.000  0.600  25.0   3.323   0.023      0.057
+        2   1567 2luz.mr 1HG  ARG   82  A- H   LEU   99  A 4.000  2.200  2.000  25.0   6.023   0.023      0.057
+        2    584 2luz.mr #HD1 ILE   24  A- HA  GLU  113  A 4.000  2.200  2.000  25.0   6.025   0.025      0.066
+        2    726 2luz.mr #HB  ARG   27  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.532   0.032      0.106
+        2    799 2luz.mr  HD# TYR   30  A- HG  LEU  110  A 4.000  2.200  1.000  25.0   5.034   0.034      0.124
+        2   2534 2luz.mr 2HG1 ILE  166  A- HA  SER  167  A 4.000  2.200  2.000  25.0   6.035   0.035      0.129
+        2   2037 2luz.mr 2HB  GLN  120  A- H   MET  121  A 3.000  1.200  0.500  25.0   3.537   0.037      0.144
+        2   2391 2luz.mr #HG2 VAL  149  A- H   ASP  152  A 4.000  2.200  1.000  25.0   1.759  -0.041      0.174
+        2   1187 2luz.mr  HZ3 TRP   50  A- HE# PHE   51  A 4.000  2.200  1.000  25.0   5.041   0.041      0.179
+        2   2123 2luz.mr 1HB  GLU  124  A- H   VAL  125  A 3.000  1.200  0.500  25.0   3.543   0.043      0.194
+        2   2529 2luz.mr  HB  ILE  166  A-1HG  GLU  169  A 4.000  2.200  2.000  25.0   6.049   0.049      0.249
+        2   1543 2luz.mr 2HB  PRO   79  A- HA  PRO   80  A 4.000  2.200  1.000  25.0   5.049   0.049      0.253
+        2   2119 2luz.mr  HA  GLU  124  A- HB  VAL  127  A 3.000  1.200  0.500  25.0   3.554   0.054      0.300
+        2   1356 2luz.mr  HD# PHE   64  A-#HD1 LEU   66  A 4.000  2.200  1.000  25.0   5.063   0.063      0.411
+        2   1448 2luz.mr #HB  SER   71  A- HB  VAL   88  A 4.000  2.200  1.000  25.0   5.063   0.063      0.420
+        2   1707 2luz.mr 1HD  LYS   92  A-1HD  PRO   93  A 4.000  2.200  1.000  25.0   5.064   0.064      0.428
+        2   2385 2luz.mr  HB  VAL  149  A- H   ASP  152  A 3.000  1.200  0.500  25.0   3.565   0.065      0.436
+        2    399 2luz.mr  HE  ARG   14  A- H   THR   15  A 4.000  2.200  1.000  25.0   5.065   0.065      0.438
+        2   1777 2luz.mr #HD1 LEU   99  A- H   LEU  112  A 4.000  2.200  1.000  25.0   5.070   0.070      0.509
+        2   1213 2luz.mr #HD1 ILE   52  A- HA  LEU   66  A 4.000  2.200  1.000  25.0   5.082   0.082      0.707
+        2    998 2luz.mr  HE1 TRP   38  A-1HB  PRO   79  A 4.000  2.200  1.000  25.0   5.086   0.086      0.769
+        2   2359 2luz.mr  H   LEU  144  A-1HD  PRO  145  A 4.000  2.200  1.000  25.0   5.093   0.093      0.898
+        2   2504 2luz.mr  HA  ARG  165  A-1HG  ARG  165  A 3.000  1.200  0.500  25.0   3.595   0.095      0.946
+        2   1503 2luz.mr #HD2 LEU   75  A-1HB  SER   86  A 3.000  1.200  0.500  25.0   3.608   0.108      1.224
+        2   1700 2luz.mr  H   LYS   92  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.611   0.111      1.280
+        2   2496 2luz.mr #HE  MET  164  A- H   ARG  165  A 4.000  2.200  1.000  25.0   5.119   0.119      1.480
+        2   1302 2luz.mr 1HB  LEU   58  A-1HG  ARG   59  A 4.000  2.200  1.000  25.0   5.122   0.122      1.562
+        2   1150 2luz.mr 1HB  ASN   48  A-1HG  GLU   53  A 4.000  2.200  1.000  25.0   5.122   0.122      1.569
+        2     55 2luz.mr  H   LEU   58  A- O   ASN   63  A 1.700  0.000  0.600  25.0   2.426   0.126      1.670
+        2   2243 2luz.mr 2HB  LEU  133  A-1HB  LEU  136  A 4.000  2.200  1.000  25.0   5.130   0.130      1.777
+        2   2551 2luz.mr 1HB  GLN  168  A-1HE2 GLN  168  A 4.000  2.200  1.000  25.0   5.133   0.133      1.848
+        2   2501 2luz.mr  H   ARG  165  A-1HB  ARG  165  A 3.000  1.200  0.500  25.0   3.635   0.135      1.917
+        2    367 2luz.mr  H   ARG   13  A-1HD  ARG   13  A 4.000  2.200  1.000  25.0   5.161   0.161      2.718
+        2   2514 2luz.mr 1HG  ARG  165  A-1HG  GLU  169  A 4.000  2.200  1.000  25.0   5.163   0.163      2.770
+        2   1377 2luz.mr #HB  ALA   65  A-#HB  SER   71  A 3.000  1.200  0.500  25.0   3.674   0.174      3.155
+        2    731 2luz.mr 1HG  ARG   27  A-#HD2 LEU  109  A 3.000  1.200  0.500  25.0   3.680   0.180      3.395
+        2   2616 2luz.mr 1HB  TRP  174  A- H   LEU  177  A 4.000  2.200  1.000  25.0   5.183   0.183      3.495
+        2    770 2luz.mr #HD  ARG   29  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.691   0.191      3.810
+        2    461 2luz.mr #HG1 ILE   16  A- H   ALA   21  A 3.000  1.200  0.500  25.0   3.700   0.200      4.189
+        2   1001 2luz.mr  HE3 TRP   38  A-#HD1 LEU   99  A 4.000  2.200  1.000  25.0   5.205   0.205      4.384
+        2   2147 2luz.mr 1HA  GLY  126  A- HZ3 TRP  174  A 4.000  2.200  1.000  25.0   5.221   0.221      5.107
+        2   2617 2luz.mr 1HB  TRP  174  A- H   VAL  178  A 4.000  2.200  1.000  25.0   5.242   0.242      6.138
+        2   2532 2luz.mr #HD1 ILE  166  A-1HG  ARG  170  A 4.000  2.200  2.000  25.0   6.269   0.269      7.541
+        2   2511 2luz.mr 1HB  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.778   0.278      8.110
+        2   1808 2luz.mr #HD2 LEU  101  A-2HB  LEU  109  A 4.000  2.200  1.000  25.0   5.282   0.282      8.345
+        2   1334 2luz.mr  H   ASN   63  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.287   0.287      8.606
+        2   1328 2luz.mr  H   GLY   61  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.310   0.310     10.057
+        2   1178 2luz.mr  HH2 TRP   50  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.329   0.329     11.341
+        2    659 2luz.mr  H   ILE   26  A- HA  GLU  113  A 4.000  2.200  1.000  25.0   5.434   0.434     19.708
+      Of 61 listed distance restraints, 61 (100.00%) are violated with a total energy of 135.456 kJ/mol
+ 
+  Ensemble structure 3:
+    Total energy                   -77252.957  kJ/mol 
+      Restraint violation energy:  134.224  kJ/mol 
+        Distance restraints:       134.224  kJ/mol 
+          Maximum violation:       0.473 A
+        Dihedral angle restraints: 0.000  kJ/mol 
+          Maximum violation:       0.000 degrees
+        RDC restraints:            0.000  kJ/mol 
+          Maximum violation:       0.000 Hz
+      Force field energy:          -77387.180  kJ/mol 
+        Internal solute energy:    -39578.397  kJ/mol 
+        Electrostatic solv.energy: -38477.161  kJ/mol 
+        Van der Waals solv.energy: 668.377  kJ/mol 
+    Model Quality Z-score:         -1.927
+    Backbone RMSD from average:    3.529 A
+    List of violated restraints:
+
+      Obj Number Class   Atom/Residue 1   Atom/Residue 2    d      d-     d+    Scale   dNow   dViol  E[kJ/mol]
+      =========================================================================================================
+        3   1707 2luz.mr 1HD  LYS   92  A-1HD  PRO   93  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        3   2197 2luz.mr  H   GLU  130  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        3   2485 2luz.mr #HE  MET  163  A-#HD1 ILE  166  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        3   2415 2luz.mr #HB  ALA  153  A- H   ALA  154  A 3.000  1.200  0.500  25.0   3.502   0.002      0.000
+        3     43 2luz.mr  H   THR   42  A- O   TRP   38  A 1.700  0.000  0.600  25.0   2.306   0.006      0.003
+        3     61 2luz.mr  H   PHE   64  A- O   GLY   72  A 1.700  0.000  0.600  25.0   2.306   0.006      0.004
+        3   2119 2luz.mr  HA  GLU  124  A- HB  VAL  127  A 3.000  1.200  0.500  25.0   3.508   0.008      0.007
+        3    302 2luz.mr  H   LEU   11  A-#HD1 LEU  177  A 4.000  2.200  1.000  25.0   5.013   0.013      0.017
+        3    123 2luz.mr  H   VAL  123  A- O   GLU  119  A 1.700  0.000  0.600  25.0   2.313   0.013      0.019
+        3   1838 2luz.mr 2HG  GLU  103  A- H   GLU  104  A 4.000  2.200  1.000  25.0   5.016   0.016      0.027
+        3    835 2luz.mr  H   ALA   32  A-1HD  PRO   33  A 4.000  2.200  1.000  25.0   5.016   0.016      0.028
+        3    858 2luz.mr 2HB  PRO   33  A- H   GLU   36  A 4.000  2.200  1.000  25.0   5.018   0.018      0.034
+        3   1001 2luz.mr  HE3 TRP   38  A-#HD1 LEU   99  A 4.000  2.200  1.000  25.0   5.019   0.019      0.039
+        3    322 2luz.mr 1HB  LEU   11  A-#HD1 ILE   25  A 4.000  2.200  1.000  25.0   5.020   0.020      0.042
+        3     41 2luz.mr  H   CYS   41  A- O   VAL   37  A 1.700  0.000  0.600  25.0   2.321   0.021      0.048
+        3    771 2luz.mr #HD  ARG   29  A- H   TYR   30  A 4.000  2.200  1.000  25.0   5.024   0.024      0.059
+        3   1077 2luz.mr 1HD  PRO   44  A-#HD1 LEU   58  A 4.000  2.200  1.000  25.0   5.024   0.024      0.060
+        3   2024 2luz.mr 1HB  GLU  119  A- H   GLN  120  A 3.000  1.200  0.500  25.0   3.525   0.025      0.063
+        3   1385 2luz.mr  H   LEU   66  A- H   GLY   72  A 4.000  2.200  2.000  25.0   6.025   0.025      0.068
+        3    217 2luz.mr #HG2 THR    7  A-#HB  ARG   27  A 4.000  2.200  1.000  25.0   5.027   0.027      0.078
+        3   1040 2luz.mr #HB  ALA   40  A-#HD1 ILE  140  A 3.000  1.200  0.500  25.0   3.531   0.031      0.098
+        3   1808 2luz.mr #HD2 LEU  101  A-2HB  LEU  109  A 4.000  2.200  1.000  25.0   5.032   0.032      0.105
+        3   2347 2luz.mr 1HG  ARG  141  A- H   GLY  142  A 4.000  2.200  1.000  25.0   5.033   0.033      0.117
+        3     80 2luz.mr  N   THR   84  A- O   ARG   76  A 2.700  0.000  0.600  25.0   3.334   0.034      0.122
+        3   2393 2luz.mr 1HB  PRO  150  A- H   GLU  151  A 3.000  1.200  0.500  25.0   3.539   0.039      0.161
+        3   1418 2luz.mr 2HB  ASN   69  A- H   ALA   70  A 4.000  2.200  1.000  25.0   1.760  -0.040      0.167
+        3    770 2luz.mr #HD  ARG   29  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.542   0.042      0.187
+        3   1881 2luz.mr  HG1 THR  108  A- H   LEU  109  A 4.000  2.200  1.000  25.0   5.043   0.043      0.197
+        3   1854 2luz.mr 1HB  GLU  104  A-2HB  LEU  109  A 4.000  2.200  1.000  25.0   5.046   0.046      0.221
+        3   1685 2luz.mr  HE# TYR   89  A-#HG  LYS   92  A 4.000  2.200  1.000  25.0   5.047   0.047      0.236
+        3    823 2luz.mr  HA  ASP   31  A- H   GLY  107  A 4.000  2.200  1.000  25.0   5.048   0.048      0.238
+        3   1064 2luz.mr #HG2 THR   42  A-#HD1 LEU   99  A 4.000  2.200  1.000  25.0   5.051   0.051      0.268
+        3    169 2luz.mr  H   GLN  168  A- O   MET  164  A 1.700  0.000  0.600  25.0   2.352   0.052      0.288
+        3   1343 2luz.mr 2HB  ASN   63  A- HA  ASP   73  A 4.000  2.200  1.000  25.0   5.054   0.054      0.307
+        3    808 2luz.mr  HD# TYR   30  A-#HG2 VAL   37  A 3.000  1.200  0.500  25.0   3.555   0.055      0.311
+        3   2147 2luz.mr 1HA  GLY  126  A- HZ3 TRP  174  A 4.000  2.200  1.000  25.0   5.056   0.056      0.325
+        3    886 2luz.mr #HG1 VAL   34  A- HA  GLU  103  A 4.000  2.200  1.000  25.0   5.058   0.058      0.358
+        3   1677 2luz.mr  HD# TYR   89  A-#HG  GLU   90  A 4.000  2.200  1.000  25.0   5.059   0.059      0.362
+        3   1461 2luz.mr 1HB  ASP   73  A-#HD2 LEU   75  A 3.000  1.200  0.500  25.0   3.560   0.060      0.370
+        3   2459 2luz.mr  HA  PRO  161  A-#HE  MET  164  A 4.000  2.200  1.000  25.0   5.061   0.061      0.392
+        3   2300 2luz.mr #HE  MET  138  A-2HB  ASP  143  A 4.000  2.200  1.000  25.0   5.066   0.066      0.451
+        3   2123 2luz.mr 1HB  GLU  124  A- H   VAL  125  A 3.000  1.200  0.500  25.0   3.568   0.068      0.481
+        3   1332 2luz.mr  H   GLY   62  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.069   0.069      0.495
+        3   2359 2luz.mr  H   LEU  144  A-1HD  PRO  145  A 4.000  2.200  1.000  25.0   5.072   0.072      0.535
+        3   1342 2luz.mr 1HB  ASN   63  A- HA  ASP   73  A 4.000  2.200  1.000  25.0   5.073   0.073      0.562
+        3   2514 2luz.mr 1HG  ARG  165  A-1HG  GLU  169  A 4.000  2.200  1.000  25.0   5.074   0.074      0.579
+        3   1235 2luz.mr #HG2 ILE   52  A- H   GLY   68  A 4.000  2.200  1.000  25.0   5.075   0.075      0.589
+        3     73 2luz.mr  H   GLU   78  A- O   ARG   82  A 1.700  0.000  0.600  25.0   2.377   0.077      0.614
+        3   2102 2luz.mr #HG1 VAL  123  A- HA  ALA  175  A 3.000  1.200  0.500  25.0   3.581   0.081      0.682
+        3   2684 2luz.mr  H   HIS  179  A-2HB  HIS  179  A 3.000  1.200  0.500  25.0   3.588   0.088      0.808
+        3    799 2luz.mr  HD# TYR   30  A- HG  LEU  110  A 4.000  2.200  1.000  25.0   5.091   0.091      0.866
+        3   2616 2luz.mr 1HB  TRP  174  A- H   LEU  177  A 4.000  2.200  1.000  25.0   5.097   0.097      0.984
+        3    445 2luz.mr #HD1 ILE   16  A- HB  THR  117  A 4.000  2.200  1.000  25.0   5.101   0.101      1.072
+        3   1178 2luz.mr  HH2 TRP   50  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.110   0.110      1.259
+        3     71 2luz.mr  H   ARG   76  A- O   THR   84  A 1.700  0.000  0.600  25.0   2.415   0.115      1.388
+        3    751 2luz.mr 1HE2 GLN   28  A-#HD1 LEU  133  A 4.000  2.200  1.000  25.0   5.116   0.116      1.412
+        3   2551 2luz.mr 1HB  GLN  168  A-1HE2 GLN  168  A 4.000  2.200  1.000  25.0   5.117   0.117      1.424
+        3    936 2luz.mr #HB  GLU   36  A-#HD1 ILE  140  A 4.000  2.200  1.000  25.0   5.117   0.117      1.433
+        3    273 2luz.mr 1HG  ARG    9  A-#HD1 LEU  177  A 3.000  1.200  0.500  25.0   3.621   0.121      1.541
+        3   1985 2luz.mr #HG2 THR  116  A-1HB  MET  121  A 3.000  1.200  0.500  25.0   3.623   0.123      1.583
+        3   2504 2luz.mr  HA  ARG  165  A-1HG  ARG  165  A 3.000  1.200  0.500  25.0   3.626   0.126      1.671
+        3   1747 2luz.mr #HG1 VAL   97  A- H   LEU   99  A 4.000  2.200  1.000  25.0   5.137   0.137      1.954
+        3   1523 2luz.mr 1HB  CYS   77  A-#HD1 LEU   83  A 4.000  2.200  1.000  25.0   5.137   0.137      1.973
+        3   2501 2luz.mr  H   ARG  165  A-1HB  ARG  165  A 3.000  1.200  0.500  25.0   3.639   0.139      2.011
+        3   1503 2luz.mr #HD2 LEU   75  A-1HB  SER   86  A 3.000  1.200  0.500  25.0   3.642   0.142      2.110
+        3   1334 2luz.mr  H   ASN   63  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.164   0.164      2.819
+        3     79 2luz.mr  H   THR   84  A- O   ARG   76  A 1.700  0.000  0.600  25.0   2.473   0.173      3.135
+        3   2511 2luz.mr 1HB  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.679   0.179      3.354
+        3   1700 2luz.mr  H   LYS   92  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.684   0.184      3.556
+        3    904 2luz.mr #HG2 VAL   34  A- HA  SER  102  A 3.000  1.200  0.500  25.0   3.694   0.194      3.951
+        3   1643 2luz.mr  HE3 TRP   87  A-#HE  MET  121  A 4.000  2.200  2.000  25.0   6.212   0.212      4.682
+        3   2617 2luz.mr 1HB  TRP  174  A- H   VAL  178  A 4.000  2.200  1.000  25.0   5.224   0.224      5.236
+        3   1598 2luz.mr #HG2 THR   84  A-#HG  GLU   98  A 4.000  2.200  1.000  25.0   5.248   0.248      6.419
+        3   1328 2luz.mr  H   GLY   61  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.295   0.295      9.127
+        3   1681 2luz.mr  HD# TYR   89  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.893   0.393     16.145
+        3   1617 2luz.mr #HD1 ILE   85  A-1HB  LEU   99  A 4.000  2.200  1.000  25.0   5.420   0.420     18.481
+        3   1540 2luz.mr  HA  PRO   79  A-1HB  PRO   80  A 4.000  2.200  1.000  25.0   5.473   0.473     23.418
+      Of 77 listed distance restraints, 77 (100.00%) are violated with a total energy of 134.223 kJ/mol
+ 
+  Ensemble structure 4:
+    Total energy                   -76898.381  kJ/mol 
+      Restraint violation energy:  108.948  kJ/mol 
+        Distance restraints:       108.948  kJ/mol 
+          Maximum violation:       0.499 A
+        Dihedral angle restraints: 0.000  kJ/mol 
+          Maximum violation:       0.000 degrees
+        RDC restraints:            0.000  kJ/mol 
+          Maximum violation:       0.000 Hz
+      Force field energy:          -77007.330  kJ/mol 
+        Internal solute energy:    -39229.706  kJ/mol 
+        Electrostatic solv.energy: -38314.199  kJ/mol 
+        Van der Waals solv.energy: 536.575  kJ/mol 
+    Model Quality Z-score:         -2.100
+    Backbone RMSD from average:    2.147 A
+    List of violated restraints:
+
+      Obj Number Class   Atom/Residue 1   Atom/Residue 2    d      d-     d+    Scale   dNow   dViol  E[kJ/mol]
+      =========================================================================================================
+        4    769 2luz.mr #HD  ARG   29  A-1HG  GLU  104  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        4   1616 2luz.mr #HD1 ILE   85  A- H   LEU   99  A 4.000  2.200  2.000  25.0   6.002   0.002      0.000
+        4   2498 2luz.mr #HE  MET  164  A-1HE2 GLN  168  A 4.000  2.200  2.000  25.0   6.003   0.003      0.001
+        4   2565 2luz.mr  HA  ARG  170  A- HE  ARG  170  A 4.000  2.200  1.000  25.0   5.004   0.004      0.002
+        4   2347 2luz.mr 1HG  ARG  141  A- H   GLY  142  A 4.000  2.200  1.000  25.0   5.005   0.005      0.003
+        4   2359 2luz.mr  H   LEU  144  A-1HD  PRO  145  A 4.000  2.200  1.000  25.0   5.006   0.006      0.003
+        4   1565 2luz.mr #HD  ARG   82  A-1HB  ARG  100  A 4.000  2.200  1.000  25.0   5.007   0.007      0.004
+        4   2037 2luz.mr 2HB  GLN  120  A- H   MET  121  A 3.000  1.200  0.500  25.0   3.507   0.007      0.006
+        4   1415 2luz.mr  HA  ASN   69  A- HD# TYR   89  A 4.000  2.200  1.000  25.0   5.008   0.008      0.007
+        4   1295 2luz.mr  H   LEU   58  A-1HG  ARG   59  A 4.000  2.200  2.000  25.0   6.010   0.010      0.010
+        4   1698 2luz.mr  H   LYS   92  A-1HB  LYS   92  A 3.000  1.200  0.500  25.0   3.510   0.010      0.010
+        4    835 2luz.mr  H   ALA   32  A-1HD  PRO   33  A 4.000  2.200  1.000  25.0   5.013   0.013      0.017
+        4    191 2luz.mr  H   HIS  179  A- O   ALA  175  A 1.700  0.000  0.600  25.0   2.313   0.013      0.019
+        4   1947 2luz.mr #HD2 LEU  112  A-#HD2 LEU  133  A 3.000  1.200  0.500  25.0   3.514   0.014      0.021
+        4   1080 2luz.mr 1HG  PRO   44  A-#HD1 LEU   58  A 4.000  2.200  1.000  25.0   5.014   0.014      0.021
+        4     79 2luz.mr  H   THR   84  A- O   ARG   76  A 1.700  0.000  0.600  25.0   2.317   0.017      0.030
+        4   2113 2luz.mr  H   GLU  124  A-1HB  GLU  124  A 3.000  1.200  0.500  25.0   3.517   0.017      0.030
+        4   1343 2luz.mr 1HB  ASN   63  A- HA  ASP   73  A 4.000  2.200  1.000  25.0   5.017   0.017      0.030
+        4    169 2luz.mr  H   GLN  168  A- O   MET  164  A 1.700  0.000  0.600  25.0   2.317   0.017      0.031
+        4     74 2luz.mr  N   GLU   78  A- O   ARG   82  A 2.700  0.000  0.600  25.0   3.318   0.018      0.032
+        4     15 2luz.mr  H   ARG   22  A- O   THR  116  A 1.700  0.000  0.600  25.0   2.318   0.018      0.035
+        4   2568 2luz.mr  HA  ARG  170  A- H   TRP  174  A 4.000  2.200  1.000  25.0   5.020   0.020      0.044
+        4   1985 2luz.mr #HG2 THR  116  A-1HB  MET  121  A 3.000  1.200  0.500  25.0   3.521   0.021      0.047
+        4   1316 2luz.mr 1HG  ARG   59  A-1HA  GLY   62  A 4.000  2.200  2.000  25.0   6.024   0.024      0.058
+        4   1881 2luz.mr  HG1 THR  108  A- H   LEU  109  A 4.000  2.200  1.000  25.0   5.025   0.025      0.066
+        4     73 2luz.mr  H   GLU   78  A- O   ARG   82  A 1.700  0.000  0.600  25.0   2.326   0.026      0.069
+        4   1854 2luz.mr 1HB  GLU  104  A-2HB  LEU  109  A 4.000  2.200  1.000  25.0   5.026   0.026      0.070
+        4   2385 2luz.mr  HB  VAL  149  A- H   ASP  152  A 3.000  1.200  0.500  25.0   3.528   0.028      0.081
+        4    751 2luz.mr 2HE2 GLN   28  A-#HD1 LEU  133  A 4.000  2.200  1.000  25.0   5.028   0.028      0.082
+        4   2497 2luz.mr #HE  MET  164  A-2HE2 GLN  168  A 4.000  2.200  2.000  25.0   6.029   0.029      0.086
+        4    966 2luz.mr #HG2 VAL   37  A- HA  THR  108  A 4.000  2.200  1.000  25.0   5.029   0.029      0.090
+        4   2415 2luz.mr #HB  ALA  153  A- H   ALA  154  A 3.000  1.200  0.500  25.0   3.530   0.030      0.095
+        4   1673 2luz.mr 1HB  TYR   89  A-1HD  LYS   92  A 4.000  2.200  1.000  25.0   5.030   0.030      0.096
+        4    689 2luz.mr #HD1 ILE   26  A-1HE2 GLN   28  A 4.000  2.200  2.000  25.0   6.031   0.031      0.103
+        4   1838 2luz.mr 2HG  GLU  103  A- H   GLU  104  A 4.000  2.200  1.000  25.0   5.032   0.032      0.105
+        4   1808 2luz.mr #HD2 LEU  101  A-2HB  LEU  109  A 4.000  2.200  1.000  25.0   5.034   0.034      0.119
+        4    814 2luz.mr  HE# TYR   30  A-#HD1 LEU  133  A 4.000  2.200  1.000  25.0   5.035   0.035      0.125
+        4   2402 2luz.mr 1HB  GLU  151  A-#HB  ALA  153  A 4.000  2.200  1.000  25.0   5.035   0.035      0.127
+        4   1274 2luz.mr  H   GLY   56  A-#HD1 LEU   58  A 4.000  2.200  1.000  25.0   5.035   0.035      0.128
+        4   1077 2luz.mr 1HD  PRO   44  A-#HD1 LEU   58  A 4.000  2.200  1.000  25.0   5.037   0.037      0.143
+        4   2508 2luz.mr  HA  ARG  165  A-1HG  GLN  168  A 3.000  1.200  0.500  25.0   3.540   0.040      0.167
+        4   2024 2luz.mr 1HB  GLU  119  A- H   GLN  120  A 3.000  1.200  0.500  25.0   3.541   0.041      0.180
+        4   2531 2luz.mr #HD1 ILE  166  A-1HG  GLU  169  A 4.000  2.200  2.000  25.0   6.042   0.042      0.181
+        4   1679 2luz.mr  HD# TYR   89  A-1HD  LYS   92  A 4.000  2.200  1.000  25.0   5.045   0.045      0.208
+        4   2513 2luz.mr 1HG  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.545   0.045      0.214
+        4   1945 2luz.mr #HD2 LEU  112  A- HG  LEU  133  A 4.000  2.200  2.000  25.0   6.047   0.047      0.235
+        4   2418 2luz.mr #HB  ALA  154  A- H   GLU  155  A 3.000  1.200  0.500  25.0   3.548   0.048      0.238
+        4   1560 2luz.mr 1HB  ARG   82  A- H   LEU   99  A 4.000  2.200  2.000  25.0   6.049   0.049      0.246
+        4    407 2luz.mr 1HD  ARG   14  A- H   THR   15  A 4.000  2.200  1.000  25.0   5.052   0.052      0.278
+        4   1700 2luz.mr  H   LYS   92  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.553   0.053      0.288
+        4   1699 2luz.mr  H   LYS   92  A-1HD  LYS   92  A 4.000  2.200  1.000  25.0   5.053   0.053      0.297
+        4   1503 2luz.mr #HD2 LEU   75  A-1HB  SER   86  A 3.000  1.200  0.500  25.0   3.555   0.055      0.313
+        4   2120 2luz.mr  HA  GLU  124  A-#HG1 VAL  127  A 4.000  2.200  1.000  25.0   5.057   0.057      0.335
+        4   2450 2luz.mr  H   SER  160  A-1HG  MET  164  A 4.000  2.200  1.000  25.0   5.057   0.057      0.343
+        4   1007 2luz.mr  HH2 TRP   38  A-#HD2 LEU   83  A 4.000  2.200  1.000  25.0   5.059   0.059      0.370
+        4    999 2luz.mr  HE1 TRP   38  A-#HG  PRO   79  A 4.000  2.200  1.000  25.0   5.060   0.060      0.381
+        4   1055 2luz.mr 1HB  CYS   41  A-#HD1 LEU   99  A 3.000  1.200  0.500  25.0   3.563   0.063      0.417
+        4   1235 2luz.mr #HG2 ILE   52  A- H   GLY   68  A 4.000  2.200  1.000  25.0   5.068   0.068      0.488
+        4   1523 2luz.mr 1HB  CYS   77  A-#HD1 LEU   83  A 4.000  2.200  1.000  25.0   5.070   0.070      0.513
+        4   1054 2luz.mr 1HB  CYS   41  A-#HG2 THR   42  A 3.000  1.200  0.500  25.0   3.571   0.071      0.530
+        4    994 2luz.mr  HD1 TRP   38  A-1HB  PRO   80  A 4.000  2.200  2.000  25.0   6.073   0.073      0.550
+        4    445 2luz.mr #HD1 ILE   16  A- HB  THR  117  A 4.000  2.200  1.000  25.0   5.074   0.074      0.576
+        4   2616 2luz.mr 1HB  TRP  174  A- H   LEU  177  A 4.000  2.200  1.000  25.0   5.076   0.076      0.599
+        4   1777 2luz.mr #HD1 LEU   99  A- H   LEU  112  A 4.000  2.200  1.000  25.0   5.078   0.078      0.638
+        4   1515 2luz.mr 1HB  ARG   76  A- HB  THR   84  A 4.000  2.200  1.000  25.0   5.081   0.081      0.679
+        4   2046 2luz.mr  HA  MET  121  A-1HG  GLU  124  A 4.000  2.200  1.000  25.0   5.082   0.082      0.702
+        4     43 2luz.mr  H   THR   42  A- O   TRP   38  A 1.700  0.000  0.600  25.0   2.382   0.082      0.710
+        4   2511 2luz.mr 1HB  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.585   0.085      0.763
+        4   1303 2luz.mr #HD2 LEU   58  A- H   ARG   59  A 4.000  2.200  1.000  25.0   5.089   0.089      0.830
+        4    770 2luz.mr #HD  ARG   29  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.592   0.092      0.883
+        4    886 2luz.mr #HG1 VAL   34  A- HA  GLU  103  A 4.000  2.200  1.000  25.0   5.092   0.092      0.893
+        4   2617 2luz.mr 1HB  TRP  174  A- H   VAL  178  A 4.000  2.200  1.000  25.0   5.095   0.095      0.943
+        4    799 2luz.mr  HD# TYR   30  A- HG  LEU  110  A 4.000  2.200  1.000  25.0   5.103   0.103      1.116
+        4   1311 2luz.mr  H   ARG   59  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.112   0.112      1.310
+        4    993 2luz.mr  HD1 TRP   38  A-#HG2 THR   42  A 4.000  2.200  1.000  25.0   5.114   0.114      1.358
+        4   2417 2luz.mr  HA  ALA  154  A- H   GLU  155  A 3.000  1.200  0.500  25.0   3.619   0.119      1.479
+        4   1328 2luz.mr  H   GLY   61  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.120   0.120      1.494
+        4   1001 2luz.mr  HE3 TRP   38  A-#HD1 LEU   99  A 4.000  2.200  1.000  25.0   5.130   0.130      1.764
+        4   1064 2luz.mr #HG2 THR   42  A-#HD1 LEU   99  A 4.000  2.200  1.000  25.0   5.135   0.135      1.913
+        4   1178 2luz.mr  HH2 TRP   50  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.139   0.139      2.026
+        4   2167 2luz.mr #HG1 VAL  127  A-1HB  ARG  170  A 3.000  1.200  0.500  25.0   3.797   0.297      9.257
+        4   2123 2luz.mr 1HB  GLU  124  A- H   VAL  125  A 3.000  1.200  0.500  25.0   3.818   0.318     10.575
+        4   1540 2luz.mr  HA  PRO   79  A-1HB  PRO   80  A 4.000  2.200  1.000  25.0   5.359   0.359     13.467
+        4   2119 2luz.mr  HA  GLU  124  A- HB  VAL  127  A 3.000  1.200  0.500  25.0   3.939   0.439     20.133
+        4   2567 2luz.mr  HA  ARG  170  A-#HB  ALA  173  A 3.000  1.200  0.500  25.0   3.999   0.499     26.018
+      Of 85 listed distance restraints, 85 (100.00%) are violated with a total energy of 108.943 kJ/mol
+ 
+  Ensemble structure 5:
+    Total energy                   -76324.158  kJ/mol 
+      Restraint violation energy:  74.338  kJ/mol 
+        Distance restraints:       74.338  kJ/mol 
+          Maximum violation:       0.495 A
+        Dihedral angle restraints: 0.000  kJ/mol 
+          Maximum violation:       0.000 degrees
+        RDC restraints:            0.000  kJ/mol 
+          Maximum violation:       0.000 Hz
+      Force field energy:          -76398.496  kJ/mol 
+        Internal solute energy:    -40723.446  kJ/mol 
+        Electrostatic solv.energy: -36069.331  kJ/mol 
+        Van der Waals solv.energy: 394.281  kJ/mol 
+    Model Quality Z-score:         -2.342
+    Backbone RMSD from average:    3.255 A
+    List of violated restraints:
+
+      Obj Number Class   Atom/Residue 1   Atom/Residue 2    d      d-     d+    Scale   dNow   dViol  E[kJ/mol]
+      =========================================================================================================
+        5   2297 2luz.mr 1HB  MET  138  A-1HB  LEU  144  A 4.000  2.200  1.000  25.0   5.000   0.000      0.000
+        5    835 2luz.mr  H   ALA   32  A-1HD  PRO   33  A 4.000  2.200  1.000  25.0   5.000   0.000      0.000
+        5     87 2luz.mr  H   SER   95  A- O   TRP   87  A 1.700  0.000  0.600  25.0   2.301   0.001      0.000
+        5   2112 2luz.mr #HG2 VAL  123  A- HD2 HIS  179  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        5   1392 2luz.mr 1HB  LEU   66  A-#HB  ALA   70  A 4.000  2.200  2.000  25.0   6.001   0.001      0.000
+        5    858 2luz.mr 2HB  PRO   33  A- H   GLU   36  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        5    191 2luz.mr  H   HIS  179  A- O   ALA  175  A 1.700  0.000  0.600  25.0   2.301   0.001      0.000
+        5   1540 2luz.mr  HA  PRO   79  A-1HB  PRO   80  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        5   1491 2luz.mr 1HB  LEU   75  A- HB  THR   84  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        5   1124 2luz.mr  H   ILE   47  A-1HD  PRO   54  A 4.000  2.200  2.000  25.0   6.002   0.002      0.000
+        5    169 2luz.mr  H   GLN  168  A- O   MET  164  A 1.700  0.000  0.600  25.0   2.302   0.002      0.000
+        5   1561 2luz.mr 2HB  ARG   82  A- H   LEU   99  A 4.000  2.200  2.000  25.0   6.002   0.002      0.000
+        5    927 2luz.mr 1HB  ASP   35  A- H   SER   39  A 4.000  2.200  2.000  25.0   6.002   0.002      0.000
+        5   1571 2luz.mr  H   LEU   83  A-1HB  LEU   99  A 4.000  2.200  1.000  25.0   5.002   0.002      0.000
+        5   2398 2luz.mr  H   GLU  151  A- H   ASP  152  A 3.000  1.200  0.500  25.0   1.798  -0.002      0.000
+        5   1413 2luz.mr  H   ASN   69  A- H   ALA   70  A 4.000  2.200  1.000  25.0   1.798  -0.002      0.000
+        5   2102 2luz.mr #HG1 VAL  123  A- HA  ALA  175  A 3.000  1.200  0.500  25.0   3.502   0.002      0.001
+        5   2485 2luz.mr #HE  MET  163  A-#HD1 ILE  166  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+        5   2449 2luz.mr  H   SER  160  A-#HE  MET  164  A 4.000  2.200  2.000  25.0   6.003   0.003      0.001
+        5   1189 2luz.mr  HZ  PHE   51  A- HH2 TRP  129  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+        5    123 2luz.mr  H   VAL  123  A- O   GLU  119  A 1.700  0.000  0.600  25.0   2.303   0.003      0.001
+        5   1699 2luz.mr  H   LYS   92  A-1HD  LYS   92  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+        5     55 2luz.mr  H   LEU   58  A- O   ASN   63  A 1.700  0.000  0.600  25.0   2.303   0.003      0.001
+        5     76 2luz.mr  N   ARG   82  A- O   GLU   78  A 2.700  0.000  0.600  25.0   3.303   0.003      0.001
+        5     54 2luz.mr  N   LYS   55  A- O   ALA   65  A 2.700  0.000  0.600  25.0   2.697  -0.003      0.001
+        5     65 2luz.mr  H   SER   71  A- O   VAL   88  A 1.700  0.000  0.600  25.0   2.304   0.004      0.001
+        5   1276 2luz.mr 1HA  GLY   56  A- H   ASP   57  A 3.000  1.200  0.500  25.0   1.796  -0.004      0.002
+        5    461 2luz.mr #HG1 ILE   16  A- H   ALA   21  A 3.000  1.200  0.500  25.0   3.504   0.004      0.002
+        5   1560 2luz.mr 1HB  ARG   82  A- H   LEU   99  A 4.000  2.200  2.000  25.0   6.004   0.004      0.002
+        5    880 2luz.mr  HB  VAL   34  A-1HG  GLU  103  A 3.000  1.200  0.500  25.0   3.504   0.004      0.002
+        5   1327 2luz.mr  H   GLY   61  A- HB  ILE   74  A 4.000  2.200  1.000  25.0   1.795  -0.005      0.003
+        5   1241 2luz.mr 1HG  GLU   53  A- HA  PRO   54  A 4.000  2.200  1.000  25.0   5.005   0.005      0.003
+        5   2450 2luz.mr  H   SER  160  A-1HG  MET  164  A 4.000  2.200  1.000  25.0   5.005   0.005      0.003
+        5     43 2luz.mr  H   THR   42  A- O   TRP   38  A 1.700  0.000  0.600  25.0   2.305   0.005      0.003
+        5     63 2luz.mr  H   ALA   65  A- O   LYS   55  A 1.700  0.000  0.600  25.0   2.305   0.005      0.003
+        5   2559 2luz.mr  HA  GLU  169  A-1HG  GLU  172  A 4.000  2.200  1.000  25.0   5.005   0.005      0.003
+        5   2027 2luz.mr 1HG  GLU  119  A- H   GLN  120  A 4.000  2.200  1.000  25.0   5.005   0.005      0.003
+        5   2551 2luz.mr 1HB  GLN  168  A-1HE2 GLN  168  A 4.000  2.200  1.000  25.0   5.006   0.006      0.004
+        5    332 2luz.mr #HD1 LEU   11  A- H   GLY  181  A 4.000  2.200  2.000  25.0   6.006   0.006      0.004
+        5   1239 2luz.mr  H   GLU   53  A-1HD  PRO   54  A 4.000  2.200  1.000  25.0   5.006   0.006      0.004
+        5   2408 2luz.mr  HA  ASP  152  A- H   ALA  153  A 3.000  1.200  0.500  25.0   3.506   0.006      0.004
+        5   1461 2luz.mr 1HB  ASP   73  A-#HD2 LEU   75  A 3.000  1.200  0.500  25.0   3.506   0.006      0.004
+        5     67 2luz.mr  H   GLY   72  A- O   PHE   64  A 1.700  0.000  0.600  25.0   2.306   0.006      0.004
+        5   2123 2luz.mr 1HB  GLU  124  A- H   VAL  125  A 3.000  1.200  0.500  25.0   3.506   0.006      0.004
+        5   1150 2luz.mr 1HB  ASN   48  A-1HG  GLU   53  A 4.000  2.200  1.000  25.0   5.007   0.007      0.005
+        5   1219 2luz.mr #HD1 ILE   52  A- HA  ASN   69  A 4.000  2.200  1.000  25.0   5.007   0.007      0.006
+        5   2498 2luz.mr #HE  MET  164  A-1HE2 GLN  168  A 4.000  2.200  2.000  25.0   6.007   0.007      0.006
+        5    823 2luz.mr  HA  ASP   31  A- H   GLY  107  A 4.000  2.200  1.000  25.0   5.008   0.008      0.006
+        5     60 2luz.mr  N   GLY   62  A- O   ARG   59  A 2.700  0.000  0.600  25.0   2.692  -0.008      0.006
+        5   1676 2luz.mr  HD# TYR   89  A- H   GLU   90  A 4.000  2.200  1.000  25.0   1.791  -0.009      0.008
+        5   2487 2luz.mr #HE  MET  163  A- H   SER  167  A 4.000  2.200  2.000  25.0   6.009   0.009      0.008
+        5   2513 2luz.mr 1HG  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.509   0.009      0.009
+        5   2645 2luz.mr  H   LEU  177  A-2HB  LEU  177  A 3.000  1.200  0.500  25.0   3.509   0.009      0.009
+        5    324 2luz.mr #HD1 LEU   11  A-1HB  LEU  177  A 4.000  2.200  1.000  25.0   5.010   0.010      0.010
+        5    321 2luz.mr 1HB  LEU   11  A-#HG2 ILE   24  A 4.000  2.200  2.000  25.0   6.010   0.010      0.010
+        5   2531 2luz.mr #HD1 ILE  166  A-1HG  GLU  169  A 4.000  2.200  2.000  25.0   6.010   0.010      0.011
+        5   2309 2luz.mr  HA  PHE  139  A-2HB  LEU  144  A 4.000  2.200  1.000  25.0   5.010   0.010      0.011
+        5   1232 2luz.mr #HG2 ILE   52  A- H   GLN   67  A 3.000  1.200  0.500  25.0   1.789  -0.011      0.012
+        5   1178 2luz.mr  HH2 TRP   50  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.011   0.011      0.014
+        5     69 2luz.mr  H   ILE   74  A- O   GLY   62  A 1.700  0.000  0.600  25.0   2.312   0.012      0.014
+        5   1439 2luz.mr  H   SER   71  A- HA  TRP   87  A 4.000  2.200  1.000  25.0   5.012   0.012      0.016
+        5     75 2luz.mr  H   ARG   82  A- O   GLU   78  A 1.700  0.000  0.600  25.0   2.312   0.012      0.016
+        5   2028 2luz.mr 1HG  GLU  119  A-#HG1 VAL  178  A 3.000  1.200  0.500  25.0   3.512   0.012      0.016
+        5   2117 2luz.mr  HA  GLU  124  A-1HG  GLU  124  A 3.000  1.200  0.500  25.0   3.513   0.013      0.018
+        5   1310 2luz.mr  H   ARG   59  A- H   ASN   63  A 4.000  2.200  1.000  25.0   5.013   0.013      0.019
+        5     59 2luz.mr  H   GLY   62  A- O   ARG   59  A 1.700  0.000  0.600  25.0   2.313   0.013      0.019
+        5    799 2luz.mr  HD# TYR   30  A- HG  LEU  110  A 4.000  2.200  1.000  25.0   5.014   0.014      0.020
+        5   1700 2luz.mr  H   LYS   92  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.515   0.015      0.024
+        5    688 2luz.mr #HD1 ILE   26  A-2HE2 GLN   28  A 4.000  2.200  2.000  25.0   6.016   0.016      0.026
+        5   2684 2luz.mr  H   HIS  179  A-2HB  HIS  179  A 3.000  1.200  0.500  25.0   3.516   0.016      0.026
+        5   1214 2luz.mr #HD1 ILE   52  A-1HB  LEU   66  A 4.000  2.200  1.000  25.0   5.016   0.016      0.027
+        5    769 2luz.mr #HD  ARG   29  A-1HG  GLU  104  A 4.000  2.200  1.000  25.0   5.016   0.016      0.028
+        5   1390 2luz.mr 1HB  LEU   66  A-1HB  ASN   69  A 4.000  2.200  1.000  25.0   5.016   0.016      0.028
+        5    591 2luz.mr #HD1 ILE   24  A- HZ2 TRP  174  A 4.000  2.200  1.000  25.0   5.017   0.017      0.029
+        5     57 2luz.mr  H   GLY   61  A- O   ILE   74  A 1.700  0.000  0.600  25.0   2.317   0.017      0.029
+        5    243 2luz.mr  H   ARG    9  A-#HD1 LEU  177  A 4.000  2.200  1.000  25.0   5.017   0.017      0.032
+        5   2617 2luz.mr 1HB  TRP  174  A- H   VAL  178  A 4.000  2.200  1.000  25.0   5.018   0.018      0.034
+        5   2616 2luz.mr 1HB  TRP  174  A- H   LEU  177  A 4.000  2.200  1.000  25.0   5.019   0.019      0.036
+        5   1191 2luz.mr  HZ  PHE   51  A-#HD1 LEU   66  A 4.000  2.200  1.000  25.0   5.019   0.019      0.038
+        5   2511 2luz.mr 1HB  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.520   0.020      0.040
+        5   2262 2luz.mr  HE# PHE  135  A-#HE  MET  138  A 4.000  2.200  1.000  25.0   5.021   0.021      0.048
+        5     68 2luz.mr  N   GLY   72  A- O   PHE   64  A 2.700  0.000  0.600  25.0   3.322   0.022      0.052
+        5   2113 2luz.mr  H   GLU  124  A-1HB  GLU  124  A 3.000  1.200  0.500  25.0   3.523   0.023      0.054
+        5   2302 2luz.mr #HE  MET  138  A-#HD1 LEU  144  A 4.000  2.200  1.000  25.0   5.023   0.023      0.055
+        5   1212 2luz.mr  HB  ILE   52  A-#HD1 LEU   66  A 4.000  2.200  1.000  25.0   5.026   0.026      0.068
+        5   1645 2luz.mr  HZ2 TRP   87  A-#HE  MET  121  A 4.000  2.200  1.000  25.0   5.026   0.026      0.071
+        5   1306 2luz.mr #HD2 LEU   58  A- H   ALA   65  A 4.000  2.200  2.000  25.0   6.026   0.026      0.072
+        5    322 2luz.mr 1HB  LEU   11  A-#HD1 ILE   25  A 4.000  2.200  1.000  25.0   5.033   0.033      0.113
+        5   1637 2luz.mr  HD1 TRP   87  A-#HG2 VAL   97  A 4.000  2.200  1.000  25.0   5.038   0.038      0.149
+        5   1198 2luz.mr  HD# PHE   51  A-#HD2 LEU   66  A 4.000  2.200  1.000  25.0   5.038   0.038      0.152
+        5   1448 2luz.mr #HB  SER   71  A- HB  VAL   88  A 4.000  2.200  1.000  25.0   5.038   0.038      0.154
+        5   1777 2luz.mr #HD1 LEU   99  A- H   LEU  112  A 4.000  2.200  1.000  25.0   5.039   0.039      0.160
+        5   1453 2luz.mr  H   ASP   73  A-#HD1 ILE   74  A 4.000  2.200  2.000  25.0   6.043   0.043      0.190
+        5   1840 2luz.mr #HB  GLU  103  A- H   GLY  105  A 4.000  2.200  1.000  25.0   5.044   0.044      0.200
+        5   1192 2luz.mr  HZ  PHE   51  A-#HD2 LEU   66  A 4.000  2.200  2.000  25.0   6.044   0.044      0.207
+        5   1265 2luz.mr 1HB  LYS   55  A- H   GLY   56  A 3.000  1.200  0.500  25.0   3.545   0.045      0.213
+        5   1281 2luz.mr 1HA  GLY   56  A- HA  PHE   64  A 3.000  1.200  0.500  25.0   3.551   0.051      0.276
+        5   1332 2luz.mr  H   GLY   62  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.052   0.052      0.287
+        5   1340 2luz.mr  HA  ASN   63  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.054   0.054      0.302
+        5   1428 2luz.mr #HB  ALA   70  A- HA  TRP   87  A 4.000  2.200  1.000  25.0   5.058   0.058      0.356
+        5   1055 2luz.mr 1HB  CYS   41  A-#HD1 LEU   99  A 3.000  1.200  0.500  25.0   3.559   0.059      0.366
+        5   1287 2luz.mr  H   ASP   57  A- H   ASN   63  A 4.000  2.200  1.000  25.0   5.061   0.061      0.383
+        5   2486 2luz.mr #HE  MET  163  A-#HG2 ILE  166  A 3.000  1.200  0.500  25.0   3.564   0.064      0.427
+        5   1371 2luz.mr  HA  ALA   65  A-#HB  SER   71  A 4.000  2.200  1.000  25.0   5.065   0.065      0.447
+        5   1215 2luz.mr #HD1 ILE   52  A-#HD1 LEU   66  A 4.000  2.200  1.000  25.0   5.066   0.066      0.459
+        5   1372 2luz.mr  HA  ALA   65  A- H   GLY   72  A 4.000  2.200  1.000  25.0   5.078   0.078      0.644
+        5   1197 2luz.mr  HD# PHE   51  A-#HD1 LEU   66  A 4.000  2.200  1.000  25.0   5.108   0.108      1.209
+        5   1305 2luz.mr #HD2 LEU   58  A- HD# PHE   64  A 4.000  2.200  2.000  25.0   6.109   0.109      1.250
+        5   1249 2luz.mr 2HG  PRO   54  A-#HD2 LEU   66  A 4.000  2.200  1.000  25.0   5.110   0.110      1.269
+        5   1268 2luz.mr 1HB  LYS   55  A-#HB  ALA   65  A 4.000  2.200  1.000  25.0   5.119   0.119      1.480
+        5   1333 2luz.mr  H   GLY   62  A-#HG2 ILE   74  A 4.000  2.200  1.000  25.0   5.126   0.126      1.651
+        5   1396 2luz.mr #HD1 LEU   66  A- HH2 TRP   87  A 4.000  2.200  1.000  25.0   5.126   0.126      1.653
+        5   1235 2luz.mr #HG2 ILE   52  A- H   GLY   68  A 4.000  2.200  1.000  25.0   5.136   0.136      1.929
+        5   1395 2luz.mr #HD1 LEU   66  A-#HB  ALA   70  A 4.000  2.200  1.000  25.0   5.152   0.152      2.428
+        5   1355 2luz.mr  HD# PHE   64  A- HG  LEU   66  A 4.000  2.200  1.000  25.0   5.195   0.195      3.984
+        5   1204 2luz.mr  HE# PHE   51  A-#HD1 LEU   66  A 3.000  1.200  0.500  25.0   3.837   0.337     11.855
+        5   1357 2luz.mr  HD# PHE   64  A-#HD2 LEU   66  A 4.000  2.200  1.000  25.0   5.357   0.357     13.313
+        5   1307 2luz.mr #HD2 LEU   58  A-#HD1 ILE   74  A 3.000  1.200  0.500  25.0   3.995   0.495     25.679
+      Of 118 listed distance restraints, 118 (100.00%) are violated with a total energy of 74.338 kJ/mol
+ 
+  Ensemble structure 6:
+    Total energy                   -75309.652  kJ/mol 
+      Restraint violation energy:  44.935  kJ/mol 
+        Distance restraints:       44.935  kJ/mol 
+          Maximum violation:       0.494 A
+        Dihedral angle restraints: 0.000  kJ/mol 
+          Maximum violation:       0.000 degrees
+        RDC restraints:            0.000  kJ/mol 
+          Maximum violation:       0.000 Hz
+      Force field energy:          -75354.587  kJ/mol 
+        Internal solute energy:    -40113.958  kJ/mol 
+        Electrostatic solv.energy: -35653.466  kJ/mol 
+        Van der Waals solv.energy: 412.837  kJ/mol 
+    Model Quality Z-score:         -2.670
+    Backbone RMSD from average:    2.483 A
+    List of violated restraints:
+
+      Obj Number Class   Atom/Residue 1   Atom/Residue 2    d      d-     d+    Scale   dNow   dViol  E[kJ/mol]
+      =========================================================================================================
+        6    189 2luz.mr  H   VAL  178  A- O   TRP  174  A 1.700  0.000  0.600  25.0   1.700  -0.000      0.000
+        6   2313 2luz.mr 2HB  PHE  139  A-#HD1 LEU  144  A 4.000  2.200  2.000  25.0   6.000   0.000      0.000
+        6    786 2luz.mr 2HB  TYR   30  A- H   THR  108  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        6     52 2luz.mr  N   PHE   51  A- O   ILE   47  A 2.700  0.000  0.600  25.0   3.301   0.001      0.000
+        6   2450 2luz.mr  H   SER  160  A-1HG  MET  164  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        6   2640 2luz.mr  HA  ALA  176  A-2HB  HIS  179  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        6     51 2luz.mr  H   PHE   51  A- O   ILE   47  A 1.700  0.000  0.600  25.0   2.301   0.001      0.000
+        6   2119 2luz.mr  HA  GLU  124  A- HB  VAL  127  A 3.000  1.200  0.500  25.0   3.502   0.002      0.000
+        6   1246 2luz.mr  HA  PRO   54  A-#HD2 LEU   66  A 4.000  2.200  1.000  25.0   1.798  -0.002      0.000
+        6   2147 2luz.mr 1HA  GLY  126  A- HZ3 TRP  174  A 4.000  2.200  1.000  25.0   5.002   0.002      0.000
+        6   2345 2luz.mr 1HB  ARG  141  A- H   ASP  143  A 4.000  2.200  1.000  25.0   5.002   0.002      0.000
+        6    867 2luz.mr  H   VAL   34  A-2HG  GLU  103  A 4.000  2.200  1.000  25.0   5.002   0.002      0.001
+        6   2625 2luz.mr  HA  ALA  175  A-#HG2 VAL  178  A 4.000  2.200  1.000  25.0   5.002   0.002      0.001
+        6   2112 2luz.mr #HG2 VAL  123  A- HD2 HIS  179  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+        6    835 2luz.mr  H   ALA   32  A-1HD  PRO   33  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+        6    764 2luz.mr  HE  ARG   29  A-1HB  GLU  104  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+        6    388 2luz.mr  H   ARG   14  A-1HG  ARG   22  A 4.000  2.200  2.000  25.0   6.003   0.003      0.001
+        6    169 2luz.mr  H   GLN  168  A- O   MET  164  A 1.700  0.000  0.600  25.0   2.303   0.003      0.001
+        6    365 2luz.mr  H   ARG   13  A-2HG  ARG   13  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+        6    730 2luz.mr 1HG  ARG   27  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.503   0.003      0.001
+        6   1771 2luz.mr #HD2 LEU   99  A- H   ARG  100  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+        6   1537 2luz.mr 1HB  GLU   78  A-#HG  ARG   81  A 4.000  2.200  1.000  25.0   5.004   0.004      0.001
+        6     50 2luz.mr  N   ASN   48  A- O   PRO   44  A 2.700  0.000  0.600  25.0   3.304   0.004      0.002
+        6    187 2luz.mr  H   LEU  177  A- O   ALA  173  A 1.700  0.000  0.600  25.0   2.304   0.004      0.002
+        6     56 2luz.mr  N   LEU   58  A- O   ASN   63  A 2.700  0.000  0.600  25.0   3.304   0.004      0.002
+        6    973 2luz.mr  H   TRP   38  A-#HD2 LEU  101  A 4.000  2.200  1.000  25.0   5.004   0.004      0.002
+        6   2498 2luz.mr #HE  MET  164  A-1HE2 GLN  168  A 4.000  2.200  2.000  25.0   6.004   0.004      0.002
+        6     49 2luz.mr  H   ASN   48  A- O   PRO   44  A 1.700  0.000  0.600  25.0   2.305   0.005      0.002
+        6   1094 2luz.mr  HA  ASN   45  A-2HD2 ASN   48  A 4.000  2.200  1.000  25.0   5.005   0.005      0.002
+        6   2258 2luz.mr  HA  PHE  135  A-#HE  MET  138  A 4.000  2.200  1.000  25.0   5.005   0.005      0.003
+        6   1272 2luz.mr  H   GLY   56  A- H   ASP   57  A 4.000  2.200  1.000  25.0   1.795  -0.005      0.003
+        6    179 2luz.mr  H   ALA  173  A- O   GLU  169  A 1.700  0.000  0.600  25.0   2.305   0.006      0.003
+        6    966 2luz.mr #HG2 VAL   37  A- HA  THR  108  A 4.000  2.200  1.000  25.0   5.006   0.006      0.003
+        6   2037 2luz.mr 2HB  GLN  120  A- H   MET  121  A 3.000  1.200  0.500  25.0   3.506   0.006      0.004
+        6   1561 2luz.mr 2HB  ARG   82  A- H   LEU   99  A 4.000  2.200  2.000  25.0   6.006   0.006      0.004
+        6    101 2luz.mr  H   SER  102  A- O   LEU  109  A 1.700  0.000  0.600  25.0   2.307   0.007      0.005
+        6   1774 2luz.mr #HD1 LEU   99  A- HG  LEU  110  A 3.000  1.200  0.500  25.0   3.507   0.007      0.005
+        6   1673 2luz.mr 1HB  TYR   89  A-1HD  LYS   92  A 4.000  2.200  1.000  25.0   5.007   0.007      0.005
+        6   2393 2luz.mr 1HB  PRO  150  A- H   GLU  151  A 3.000  1.200  0.500  25.0   3.507   0.007      0.006
+        6    324 2luz.mr #HD1 LEU   11  A-1HB  LEU  177  A 4.000  2.200  1.000  25.0   5.007   0.007      0.006
+        6   1699 2luz.mr  H   LYS   92  A-1HD  LYS   92  A 4.000  2.200  1.000  25.0   5.007   0.007      0.006
+        6   2027 2luz.mr 1HG  GLU  119  A- H   GLN  120  A 4.000  2.200  1.000  25.0   5.008   0.008      0.006
+        6    383 2luz.mr 1HG  ARG   13  A- HA  ARG   14  A 4.000  2.200  1.000  25.0   5.008   0.008      0.006
+        6   1245 2luz.mr  HA  PRO   54  A- HA  LEU   66  A 4.000  2.200  1.000  25.0   5.008   0.008      0.006
+        6   1287 2luz.mr  H   ASP   57  A- H   ASN   63  A 4.000  2.200  1.000  25.0   5.008   0.008      0.007
+        6    796 2luz.mr  HD# TYR   30  A- HA  LEU  109  A 4.000  2.200  1.000  25.0   5.009   0.009      0.008
+        6   1124 2luz.mr  H   ILE   47  A-1HD  PRO   54  A 4.000  2.200  2.000  25.0   6.009   0.009      0.008
+        6   2513 2luz.mr 1HG  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.509   0.009      0.008
+        6    797 2luz.mr  HD# TYR   30  A- H   LEU  110  A 4.000  2.200  1.000  25.0   5.009   0.009      0.009
+        6   1244 2luz.mr  HA  PRO   54  A- H   ALA   65  A 4.000  2.200  1.000  25.0   5.009   0.009      0.009
+        6     43 2luz.mr  H   THR   42  A- O   TRP   38  A 1.700  0.000  0.600  25.0   2.309   0.009      0.009
+        6   2616 2luz.mr 1HB  TRP  174  A- H   LEU  177  A 4.000  2.200  1.000  25.0   5.009   0.009      0.009
+        6   2531 2luz.mr #HD1 ILE  166  A-1HG  GLU  169  A 4.000  2.200  2.000  25.0   6.010   0.010      0.009
+        6   2449 2luz.mr  H   SER  160  A-#HE  MET  164  A 4.000  2.200  2.000  25.0   6.010   0.010      0.010
+        6   1252 2luz.mr 1HB  PRO   54  A- H   ALA   65  A 4.000  2.200  1.000  25.0   5.010   0.010      0.011
+        6   2262 2luz.mr  HE# PHE  135  A-#HE  MET  138  A 4.000  2.200  1.000  25.0   5.010   0.010      0.011
+        6    157 2luz.mr  H   ILE  140  A- O   LEU  136  A 1.700  0.000  0.600  25.0   2.311   0.011      0.012
+        6   1184 2luz.mr  HZ3 TRP   50  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.011   0.011      0.013
+        6   2028 2luz.mr 1HG  GLU  119  A-#HG1 VAL  178  A 3.000  1.200  0.500  25.0   3.511   0.011      0.013
+        6   2123 2luz.mr 1HB  GLU  124  A- H   VAL  125  A 3.000  1.200  0.500  25.0   3.512   0.012      0.015
+        6    880 2luz.mr  HB  VAL   34  A-1HG  GLU  103  A 3.000  1.200  0.500  25.0   3.512   0.012      0.016
+        6    769 2luz.mr #HD  ARG   29  A-1HG  GLU  104  A 4.000  2.200  1.000  25.0   5.012   0.012      0.016
+        6   1341 2luz.mr  HA  ASN   63  A-1HG1 ILE   74  A 4.000  2.200  1.000  25.0   5.012   0.012      0.016
+        6   1221 2luz.mr #HD1 ILE   52  A-1HD2 ASN   69  A 4.000  2.200  1.000  25.0   5.013   0.013      0.017
+        6    753 2luz.mr  H   ARG   29  A-1HB  ARG   29  A 3.000  1.200  0.500  25.0   3.513   0.013      0.017
+        6    814 2luz.mr  HE# TYR   30  A-#HD1 LEU  133  A 4.000  2.200  1.000  25.0   5.013   0.013      0.018
+        6   1344 2luz.mr 1HB  ASN   63  A-2HD2 ASN   63  A 3.000  1.200  0.500  25.0   3.513   0.013      0.018
+        6   2347 2luz.mr 1HG  ARG  141  A- H   GLY  142  A 4.000  2.200  1.000  25.0   5.013   0.013      0.019
+        6    808 2luz.mr  HD# TYR   30  A-#HG2 VAL   37  A 3.000  1.200  0.500  25.0   3.514   0.014      0.021
+        6   2215 2luz.mr #HE  MET  131  A- H   ALA  132  A 4.000  2.200  2.000  25.0   6.014   0.014      0.021
+        6   1700 2luz.mr  H   LYS   92  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.515   0.015      0.022
+        6    461 2luz.mr #HG1 ILE   16  A- H   ALA   21  A 3.000  1.200  0.500  25.0   3.515   0.015      0.022
+        6   2102 2luz.mr #HG1 VAL  123  A- HA  ALA  175  A 3.000  1.200  0.500  25.0   3.515   0.015      0.025
+        6   1253 2luz.mr  H   LYS   55  A-1HB  LYS   55  A 3.000  1.200  0.500  25.0   3.516   0.016      0.026
+        6    917 2luz.mr  H   ASP   35  A-1HB  ASP   35  A 3.000  1.200  0.500  25.0   3.517   0.017      0.029
+        6    904 2luz.mr #HG2 VAL   34  A- HA  SER  102  A 3.000  1.200  0.500  25.0   3.517   0.017      0.029
+        6   1212 2luz.mr  HB  ILE   52  A-#HD1 LEU   66  A 4.000  2.200  1.000  25.0   5.017   0.017      0.031
+        6   1168 2luz.mr  HE1 TRP   50  A- HG  LEU  136  A 4.000  2.200  2.000  25.0   6.018   0.018      0.033
+        6   1055 2luz.mr 1HB  CYS   41  A-#HD1 LEU   99  A 3.000  1.200  0.500  25.0   3.519   0.019      0.036
+        6   2413 2luz.mr  H   ALA  153  A- H   ALA  154  A 3.000  1.200  0.500  25.0   3.519   0.019      0.038
+        6   1777 2luz.mr #HD1 LEU   99  A- H   LEU  112  A 4.000  2.200  1.000  25.0   5.019   0.019      0.039
+        6   1340 2luz.mr  HA  ASN   63  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.020   0.020      0.040
+        6   1392 2luz.mr 1HB  LEU   66  A-#HB  ALA   70  A 4.000  2.200  2.000  25.0   6.020   0.020      0.040
+        6    886 2luz.mr #HG1 VAL   34  A- HA  GLU  103  A 4.000  2.200  1.000  25.0   5.020   0.020      0.042
+        6    998 2luz.mr  HE1 TRP   38  A-1HB  PRO   79  A 4.000  2.200  1.000  25.0   5.020   0.020      0.042
+        6   2617 2luz.mr 1HB  TRP  174  A- H   VAL  178  A 4.000  2.200  1.000  25.0   5.020   0.020      0.044
+        6   2684 2luz.mr  H   HIS  179  A-2HB  HIS  179  A 3.000  1.200  0.500  25.0   3.520   0.020      0.044
+        6   2299 2luz.mr #HE  MET  138  A-1HB  ASP  143  A 4.000  2.200  1.000  25.0   5.021   0.021      0.045
+        6   2511 2luz.mr 1HB  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.521   0.021      0.047
+        6   1683 2luz.mr  HE# TYR   89  A-1HB  GLU   90  A 4.000  2.200  1.000  25.0   5.022   0.022      0.051
+        6   2551 2luz.mr 1HB  GLN  168  A-1HE2 GLN  168  A 4.000  2.200  1.000  25.0   5.022   0.022      0.052
+        6   1243 2luz.mr  HA  PRO   54  A- H   LYS   55  A 3.000  1.200  0.500  25.0   3.522   0.022      0.052
+        6   1373 2luz.mr #HB  ALA   65  A- H   LEU   66  A 3.000  1.200  0.500  25.0   3.523   0.023      0.056
+        6   1265 2luz.mr 1HB  LYS   55  A- H   GLY   56  A 3.000  1.200  0.500  25.0   3.525   0.025      0.063
+        6    407 2luz.mr 1HD  ARG   14  A- H   THR   15  A 4.000  2.200  1.000  25.0   5.025   0.025      0.063
+        6   1178 2luz.mr  HH2 TRP   50  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.025   0.025      0.064
+        6     59 2luz.mr  H   GLY   62  A- O   ARG   59  A 1.700  0.000  0.600  25.0   2.325   0.025      0.066
+        6    772 2luz.mr #HG  ARG   29  A-1HB  LEU  109  A 4.000  2.200  1.000  25.0   5.025   0.025      0.068
+        6    107 2luz.mr  H   LEU  110  A- O   GLN   28  A 1.700  0.000  0.600  25.0   2.326   0.026      0.073
+        6     32 2luz.mr  N   TYR   30  A- O   THR  108  A 2.700  0.000  0.600  25.0   3.327   0.027      0.074
+        6   2415 2luz.mr #HB  ALA  153  A- H   ALA  154  A 3.000  1.200  0.500  25.0   3.527   0.027      0.079
+        6   1643 2luz.mr  HE3 TRP   87  A-#HE  MET  121  A 4.000  2.200  2.000  25.0   6.028   0.028      0.082
+        6   1128 2luz.mr #HD1 ILE   47  A-1HD  PRO   54  A 4.000  2.200  1.000  25.0   5.030   0.030      0.095
+        6   1195 2luz.mr  HD# PHE   51  A-#HD1 ILE   52  A 4.000  2.200  1.000  25.0   5.031   0.031      0.100
+        6   1448 2luz.mr #HB  SER   71  A- HB  VAL   88  A 4.000  2.200  1.000  25.0   5.033   0.033      0.116
+        6    936 2luz.mr #HB  GLU   36  A-#HD1 ILE  140  A 4.000  2.200  1.000  25.0   5.035   0.035      0.130
+        6    955 2luz.mr #HG1 VAL   37  A-#HG2 THR  108  A 3.000  1.200  0.500  25.0   3.536   0.036      0.132
+        6     27 2luz.mr  H   GLN   28  A- O   LEU  110  A 1.700  0.000  0.600  25.0   2.336   0.036      0.133
+        6    793 2luz.mr  HD# TYR   30  A-#HD1 LEU  101  A 4.000  2.200  2.000  25.0   6.036   0.036      0.136
+        6    726 2luz.mr #HB  ARG   27  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.537   0.037      0.141
+        6     31 2luz.mr  H   TYR   30  A- O   THR  108  A 1.700  0.000  0.600  25.0   2.338   0.038      0.148
+        6    757 2luz.mr  HA  ARG   29  A- H   THR  108  A 4.000  2.200  1.000  25.0   5.039   0.039      0.158
+        6   1391 2luz.mr 1HB  LEU   66  A- H   ALA   70  A 4.000  2.200  1.000  25.0   5.039   0.039      0.158
+        6   1249 2luz.mr 1HG  PRO   54  A-#HD2 LEU   66  A 4.000  2.200  1.000  25.0   5.046   0.046      0.226
+        6   1416 2luz.mr  HA  ASN   69  A- HE# TYR   89  A 3.000  1.200  0.500  25.0   3.547   0.047      0.234
+        6   1250 2luz.mr 2HG  PRO   54  A-#HD2 LEU   66  A 4.000  2.200  1.000  25.0   5.049   0.049      0.250
+        6   1328 2luz.mr  H   GLY   61  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.064   0.064      0.434
+        6    813 2luz.mr  HE# TYR   30  A-#HD2 LEU  110  A 4.000  2.200  1.000  25.0   5.068   0.068      0.480
+        6    809 2luz.mr  HE# TYR   30  A- H   LEU  110  A 4.000  2.200  1.000  25.0   5.070   0.070      0.515
+        6    763 2luz.mr  HA  ARG   29  A- HD# TYR   30  A 4.000  2.200  1.000  25.0   5.072   0.072      0.537
+        6    770 2luz.mr #HD  ARG   29  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.576   0.076      0.609
+        6   1251 2luz.mr 1HB  PRO   54  A-#HB  PHE   64  A 4.000  2.200  1.000  25.0   5.077   0.077      0.623
+        6     55 2luz.mr  H   LEU   58  A- O   ASN   63  A 1.700  0.000  0.600  25.0   2.380   0.080      0.662
+        6    767 2luz.mr  HE  ARG   29  A-#HD2 LEU  109  A 4.000  2.200  1.000  25.0   5.082   0.082      0.696
+        6    798 2luz.mr  HD# TYR   30  A- HA  LEU  110  A 4.000  2.200  2.000  25.0   6.082   0.082      0.699
+        6   1306 2luz.mr #HD2 LEU   58  A- H   ALA   65  A 4.000  2.200  2.000  25.0   6.099   0.099      1.034
+        6   1377 2luz.mr #HB  ALA   65  A-#HB  SER   71  A 3.000  1.200  0.500  25.0   3.600   0.100      1.037
+        6   1268 2luz.mr 1HB  LYS   55  A-#HB  ALA   65  A 4.000  2.200  1.000  25.0   5.110   0.110      1.274
+        6   1393 2luz.mr #HD1 LEU   66  A-1HB  ASN   69  A 4.000  2.200  1.000  25.0   5.120   0.120      1.510
+        6   1808 2luz.mr #HD2 LEU  101  A-1HB  LEU  109  A 4.000  2.200  1.000  25.0   5.126   0.126      1.659
+        6   1540 2luz.mr  HA  PRO   79  A-1HB  PRO   80  A 4.000  2.200  1.000  25.0   5.184   0.184      3.539
+        6   1307 2luz.mr #HD2 LEU   58  A-#HD1 ILE   74  A 3.000  1.200  0.500  25.0   3.994   0.494     25.520
+      Of 132 listed distance restraints, 132 (100.00%) are violated with a total energy of 44.934 kJ/mol
+ 
+  Ensemble structure 7:
+    Total energy                   -74897.036  kJ/mol 
+      Restraint violation energy:  74.518  kJ/mol 
+        Distance restraints:       74.518  kJ/mol 
+          Maximum violation:       0.477 A
+        Dihedral angle restraints: 0.000  kJ/mol 
+          Maximum violation:       0.000 degrees
+        RDC restraints:            0.000  kJ/mol 
+          Maximum violation:       0.000 Hz
+      Force field energy:          -74971.554  kJ/mol 
+        Internal solute energy:    -39285.570  kJ/mol 
+        Electrostatic solv.energy: -36152.815  kJ/mol 
+        Van der Waals solv.energy: 466.831  kJ/mol 
+    Model Quality Z-score:         -2.318
+    Backbone RMSD from average:    3.331 A
+    List of violated restraints:
+
+      Obj Number Class   Atom/Residue 1   Atom/Residue 2    d      d-     d+    Scale   dNow   dViol  E[kJ/mol]
+      =========================================================================================================
+        7    823 2luz.mr  HA  ASP   31  A- H   GLY  107  A 4.000  2.200  1.000  25.0   5.000   0.000      0.000
+        7    181 2luz.mr  H   TRP  174  A- O   ARG  170  A 1.700  0.000  0.600  25.0   2.301   0.001      0.000
+        7    322 2luz.mr 1HB  LEU   11  A-#HD1 ILE   25  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        7    830 2luz.mr  H   ALA   32  A-2HA  GLY  107  A 4.000  2.200  1.000  25.0   5.002   0.002      0.000
+        7   1750 2luz.mr #HG2 VAL   97  A-2HB  HIS  114  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+        7     51 2luz.mr  H   PHE   51  A- O   ILE   47  A 1.700  0.000  0.600  25.0   2.303   0.003      0.001
+        7    175 2luz.mr  H   GLY  171  A- O   SER  167  A 1.700  0.000  0.600  25.0   2.303   0.003      0.001
+        7   2037 2luz.mr 2HB  GLN  120  A- H   MET  121  A 3.000  1.200  0.500  25.0   3.505   0.005      0.002
+        7   1295 2luz.mr  H   LEU   58  A-1HG  ARG   59  A 4.000  2.200  2.000  25.0   6.005   0.005      0.003
+        7   1571 2luz.mr  H   LEU   83  A-1HB  LEU   99  A 4.000  2.200  1.000  25.0   5.006   0.006      0.004
+        7    725 2luz.mr 2HG  ARG   27  A- H   GLN   28  A 4.000  2.200  1.000  25.0   5.006   0.006      0.004
+        7   2393 2luz.mr 1HB  PRO  150  A- H   GLU  151  A 3.000  1.200  0.500  25.0   3.506   0.006      0.004
+        7    123 2luz.mr  H   VAL  123  A- O   GLU  119  A 1.700  0.000  0.600  25.0   2.307   0.007      0.005
+        7   2359 2luz.mr  H   LEU  144  A-1HD  PRO  145  A 4.000  2.200  1.000  25.0   5.007   0.007      0.005
+        7    145 2luz.mr  H   ASP  134  A- O   GLU  130  A 1.700  0.000  0.600  25.0   2.307   0.007      0.005
+        7   2320 2luz.mr  HD# PHE  139  A- HG  LEU  144  A 4.000  2.200  1.000  25.0   5.007   0.007      0.006
+        7   2645 2luz.mr  H   LEU  177  A-2HB  LEU  177  A 3.000  1.200  0.500  25.0   3.508   0.008      0.006
+        7    189 2luz.mr  H   VAL  178  A- O   TRP  174  A 1.700  0.000  0.600  25.0   1.692  -0.008      0.007
+        7   2459 2luz.mr  HA  PRO  161  A-#HE  MET  164  A 4.000  2.200  1.000  25.0   5.009   0.009      0.008
+        7   2112 2luz.mr #HG2 VAL  123  A- HD2 HIS  179  A 4.000  2.200  1.000  25.0   5.009   0.009      0.008
+        7   2262 2luz.mr  HE# PHE  135  A-#HE  MET  138  A 4.000  2.200  1.000  25.0   5.009   0.009      0.009
+        7   1265 2luz.mr 1HB  LYS   55  A- H   GLY   56  A 3.000  1.200  0.500  25.0   3.509   0.009      0.009
+        7     43 2luz.mr  H   THR   42  A- O   TRP   38  A 1.700  0.000  0.600  25.0   2.310   0.010      0.010
+        7   1537 2luz.mr 1HB  GLU   78  A-#HG  ARG   81  A 4.000  2.200  1.000  25.0   5.010   0.010      0.010
+        7     49 2luz.mr  H   ASN   48  A- O   PRO   44  A 1.700  0.000  0.600  25.0   2.311   0.011      0.012
+        7    187 2luz.mr  H   LEU  177  A- O   ALA  173  A 1.700  0.000  0.600  25.0   2.311   0.011      0.012
+        7   2519 2luz.mr  H   ILE  166  A- H   SER  167  A 4.000  2.200  1.000  25.0   1.789  -0.011      0.013
+        7     69 2luz.mr  H   ILE   74  A- O   GLY   62  A 1.700  0.000  0.600  25.0   2.312   0.012      0.016
+        7   1776 2luz.mr #HD1 LEU   99  A- H   GLU  111  A 4.000  2.200  1.000  25.0   5.013   0.013      0.017
+        7    633 2luz.mr #HD1 ILE   25  A- H   HIS  114  A 4.000  2.200  2.000  25.0   6.013   0.013      0.018
+        7   2512 2luz.mr 1HB  ARG  165  A-1HG  GLN  168  A 4.000  2.200  2.000  25.0   6.014   0.014      0.020
+        7   2529 2luz.mr  HB  ILE  166  A-1HG  GLU  169  A 4.000  2.200  2.000  25.0   6.014   0.014      0.022
+        7   2452 2luz.mr  HA  SER  160  A- H   MET  163  A 4.000  2.200  1.000  25.0   5.015   0.015      0.022
+        7   1178 2luz.mr  HH2 TRP   50  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.015   0.015      0.023
+        7   1617 2luz.mr #HD1 ILE   85  A-1HB  LEU   99  A 4.000  2.200  1.000  25.0   5.016   0.016      0.026
+        7   1700 2luz.mr  H   LYS   92  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.516   0.016      0.026
+        7   1676 2luz.mr  HD# TYR   89  A- H   GLU   90  A 4.000  2.200  1.000  25.0   1.784  -0.016      0.027
+        7   1643 2luz.mr  HE3 TRP   87  A-#HE  MET  121  A 4.000  2.200  2.000  25.0   6.017   0.017      0.029
+        7    799 2luz.mr  HD# TYR   30  A- HG  LEU  110  A 4.000  2.200  1.000  25.0   5.018   0.018      0.036
+        7   2258 2luz.mr  HA  PHE  135  A-#HE  MET  138  A 4.000  2.200  1.000  25.0   5.019   0.019      0.037
+        7   2119 2luz.mr  HA  GLU  124  A- HB  VAL  127  A 3.000  1.200  0.500  25.0   3.521   0.021      0.045
+        7    345 2luz.mr #HD2 LEU   11  A- H   HIS  179  A 4.000  2.200  2.000  25.0   6.021   0.021      0.047
+        7   1685 2luz.mr  HE# TYR   89  A-#HG  LYS   92  A 4.000  2.200  1.000  25.0   5.022   0.022      0.052
+        7   2123 2luz.mr 1HB  GLU  124  A- H   VAL  125  A 3.000  1.200  0.500  25.0   3.522   0.022      0.053
+        7    271 2luz.mr 2HG  ARG    9  A- HE1 TRP  174  A 4.000  2.200  2.000  25.0   6.023   0.023      0.054
+        7   1300 2luz.mr  HA  LEU   58  A-1HG1 ILE   74  A 4.000  2.200  1.000  25.0   5.023   0.023      0.054
+        7    119 2luz.mr  H   THR  116  A- O   ARG   22  A 1.700  0.000  0.600  25.0   2.323   0.023      0.055
+        7   2510 2luz.mr 1HB  ARG  165  A-1HD  ARG  165  A 3.000  1.200  0.500  25.0   3.523   0.023      0.055
+        7   2024 2luz.mr 1HB  GLU  119  A- H   GLN  120  A 3.000  1.200  0.500  25.0   3.523   0.023      0.057
+        7     60 2luz.mr  N   GLY   62  A- O   ARG   59  A 2.700  0.000  0.600  25.0   2.673  -0.027      0.075
+        7   2557 2luz.mr  HA  GLU  169  A-1HG  GLU  169  A 3.000  1.200  0.500  25.0   3.527   0.027      0.077
+        7    173 2luz.mr  H   ARG  170  A- O   ILE  166  A 1.700  0.000  0.600  25.0   2.328   0.028      0.082
+        7    346 2luz.mr #HD2 LEU   11  A-1HG  ARG   22  A 4.000  2.200  1.000  25.0   5.028   0.028      0.082
+        7   2458 2luz.mr  HA  PRO  161  A-#HB  MET  164  A 4.000  2.200  1.000  25.0   5.029   0.029      0.087
+        7   2616 2luz.mr 1HB  TRP  174  A- H   LEU  177  A 4.000  2.200  1.000  25.0   5.029   0.029      0.090
+        7   1310 2luz.mr  H   ARG   59  A- H   ASN   63  A 4.000  2.200  1.000  25.0   5.030   0.030      0.096
+        7    120 2luz.mr  N   THR  116  A- O   ARG   22  A 2.700  0.000  0.600  25.0   3.331   0.031      0.099
+        7    461 2luz.mr #HG1 ILE   16  A- H   ALA   21  A 3.000  1.200  0.500  25.0   3.532   0.032      0.104
+        7   1341 2luz.mr  HA  ASN   63  A-1HG1 ILE   74  A 4.000  2.200  1.000  25.0   5.032   0.032      0.108
+        7    904 2luz.mr #HG2 VAL   34  A- HA  SER  102  A 3.000  1.200  0.500  25.0   3.533   0.033      0.117
+        7   2551 2luz.mr 1HB  GLN  168  A-1HE2 GLN  168  A 4.000  2.200  1.000  25.0   5.034   0.034      0.118
+        7   1219 2luz.mr #HD1 ILE   52  A- HA  ASN   69  A 4.000  2.200  1.000  25.0   5.035   0.035      0.127
+        7   1546 2luz.mr 1HD  PRO   80  A- H   ARG   81  A 4.000  2.200  1.000  25.0   1.764  -0.036      0.134
+        7   2684 2luz.mr  H   HIS  179  A-2HB  HIS  179  A 3.000  1.200  0.500  25.0   3.536   0.036      0.135
+        7   1681 2luz.mr  HD# TYR   89  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.539   0.039      0.157
+        7   1294 2luz.mr  H   LEU   58  A-#HD2 LEU   58  A 4.000  2.200  1.000  25.0   1.761  -0.039      0.162
+        7   2475 2luz.mr  H   MET  163  A-1HG  MET  164  A 4.000  2.200  2.000  25.0   6.040   0.040      0.171
+        7   1298 2luz.mr  HA  LEU   58  A-#HD2 LEU   58  A 3.000  1.200  0.500  25.0   3.540   0.040      0.171
+        7   1985 2luz.mr #HG2 THR  116  A-1HB  MET  121  A 3.000  1.200  0.500  25.0   3.541   0.041      0.173
+        7   1080 2luz.mr 1HG  PRO   44  A-#HD1 LEU   58  A 4.000  2.200  1.000  25.0   5.042   0.042      0.188
+        7    264 2luz.mr 1HB  ARG    9  A-#HD2 LEU  177  A 4.000  2.200  1.000  25.0   5.043   0.043      0.197
+        7     55 2luz.mr  H   LEU   58  A- O   ASN   63  A 1.700  0.000  0.600  25.0   2.346   0.046      0.225
+        7   2532 2luz.mr #HD1 ILE  166  A-1HG  ARG  170  A 4.000  2.200  2.000  25.0   6.048   0.048      0.239
+        7    541 2luz.mr  HA  SER   23  A-#HB  ALA  115  A 4.000  2.200  1.000  25.0   1.751  -0.049      0.252
+        7    600 2luz.mr 1HG1 ILE   24  A- HZ3 TRP  174  A 4.000  2.200  1.000  25.0   5.050   0.050      0.262
+        7   1707 2luz.mr 1HD  LYS   92  A-1HD  PRO   93  A 4.000  2.200  1.000  25.0   5.050   0.050      0.264
+        7   1972 2luz.mr  HA  ALA  115  A-#HD2 LEU  122  A 4.000  2.200  1.000  25.0   5.054   0.054      0.300
+        7    172 2luz.mr  N   GLU  169  A- O   ARG  165  A 2.700  0.000  0.600  25.0   2.646  -0.054      0.302
+        7   2617 2luz.mr 1HB  TRP  174  A- H   VAL  178  A 4.000  2.200  1.000  25.0   5.054   0.054      0.309
+        7    770 2luz.mr #HD  ARG   29  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.555   0.055      0.318
+        7   1213 2luz.mr #HD1 ILE   52  A- HA  LEU   66  A 4.000  2.200  1.000  25.0   5.059   0.059      0.362
+        7    169 2luz.mr  H   GLN  168  A- O   MET  164  A 1.700  0.000  0.600  25.0   2.361   0.061      0.387
+        7   1558 2luz.mr  HA  ARG   82  A- H   LEU  101  A 4.000  2.200  1.000  25.0   5.070   0.070      0.514
+        7   1291 2luz.mr 1HB  ASP   57  A- H   ASN   63  A 4.000  2.200  1.000  25.0   5.075   0.075      0.582
+        7   1077 2luz.mr 1HD  PRO   44  A-#HD1 LEU   58  A 4.000  2.200  1.000  25.0   5.076   0.076      0.604
+        7    170 2luz.mr  N   GLN  168  A- O   MET  164  A 2.700  0.000  0.600  25.0   3.380   0.080      0.678
+        7   1677 2luz.mr  HD# TYR   89  A-#HG  GLU   90  A 4.000  2.200  1.000  25.0   5.082   0.082      0.710
+        7   2463 2luz.mr 1HG  PRO  161  A- H   GLU  162  A 3.000  1.200  0.500  25.0   3.585   0.085      0.761
+        7   1393 2luz.mr #HD1 LEU   66  A-2HB  ASN   69  A 4.000  2.200  1.000  25.0   5.091   0.091      0.858
+        7   2540 2luz.mr #HG2 ILE  166  A-1HB  GLU  169  A 4.000  2.200  1.000  25.0   5.091   0.091      0.862
+        7   2513 2luz.mr 1HG  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.593   0.093      0.902
+        7   1299 2luz.mr  HA  LEU   58  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.098   0.098      0.996
+        7    563 2luz.mr  H   ILE   24  A- HA  ALA  115  A 4.000  2.200  1.000  25.0   5.100   0.100      1.050
+        7   1292 2luz.mr  H   LEU   58  A- HG  LEU   58  A 3.000  1.200  0.500  25.0   3.601   0.101      1.067
+        7   2479 2luz.mr  HA  MET  163  A-2HG1 ILE  166  A 4.000  2.200  2.000  25.0   6.103   0.103      1.108
+        7   2461 2luz.mr  HA  PRO  161  A- H   ARG  165  A 4.000  2.200  1.000  25.0   5.104   0.104      1.122
+        7    168 2luz.mr  N   SER  167  A- O   MET  163  A 2.700  0.000  0.600  25.0   3.406   0.106      1.168
+        7     59 2luz.mr  H   GLY   62  A- O   ARG   59  A 1.700  0.000  0.600  25.0   2.415   0.115      1.395
+        7    167 2luz.mr  H   SER  167  A- O   MET  163  A 1.700  0.000  0.600  25.0   2.422   0.122      1.548
+        7    163 2luz.mr  H   ARG  165  A- O   PRO  161  A 1.700  0.000  0.600  25.0   2.436   0.136      1.940
+        7    165 2luz.mr  H   ILE  166  A- O   GLU  162  A 1.700  0.000  0.600  25.0   2.448   0.148      2.287
+        7   1540 2luz.mr  HA  PRO   79  A-1HB  PRO   80  A 4.000  2.200  1.000  25.0   5.171   0.171      3.058
+        7   2451 2luz.mr  HA  SER  160  A-#HD  PRO  161  A 3.000  1.200  0.500  25.0   3.678   0.178      3.327
+        7    999 2luz.mr  HE1 TRP   38  A-#HG  PRO   79  A 4.000  2.200  1.000  25.0   5.180   0.180      3.371
+        7   2534 2luz.mr 2HG1 ILE  166  A- HA  SER  167  A 4.000  2.200  2.000  25.0   6.219   0.219      5.027
+        7   2480 2luz.mr  HA  MET  163  A-#HG2 ILE  166  A 4.000  2.200  1.000  25.0   5.292   0.292      8.927
+        7   1307 2luz.mr #HD2 LEU   58  A-#HD1 ILE   74  A 3.000  1.200  0.500  25.0   3.977   0.477     23.751
+      Of 107 listed distance restraints, 107 (100.00%) are violated with a total energy of 74.517 kJ/mol
+ 
+  Ensemble structure 8:
+    Total energy                   -71779.006  kJ/mol 
+      Restraint violation energy:  87.173  kJ/mol 
+        Distance restraints:       87.173  kJ/mol 
+          Maximum violation:       0.478 A
+        Dihedral angle restraints: 0.000  kJ/mol 
+          Maximum violation:       0.000 degrees
+        RDC restraints:            0.000  kJ/mol 
+          Maximum violation:       0.000 Hz
+      Force field energy:          -71866.179  kJ/mol 
+        Internal solute energy:    -36648.382  kJ/mol 
+        Electrostatic solv.energy: -35801.290  kJ/mol 
+        Van der Waals solv.energy: 583.494  kJ/mol 
+    Model Quality Z-score:         -2.980
+    Backbone RMSD from average:    2.394 A
+    List of violated restraints:
+
+      Obj Number Class   Atom/Residue 1   Atom/Residue 2    d      d-     d+    Scale   dNow   dViol  E[kJ/mol]
+      =========================================================================================================
+        8   2404 2luz.mr #HG  GLU  151  A- H   ALA  153  A 4.000  2.200  1.000  25.0   5.000   0.000      0.000
+        8   2359 2luz.mr  H   LEU  144  A-1HD  PRO  145  A 4.000  2.200  1.000  25.0   5.000   0.000      0.000
+        8   1411 2luz.mr  H   GLY   68  A- H   ASN   69  A 3.000  1.200  0.500  25.0   3.500   0.000      0.000
+        8     41 2luz.mr  H   CYS   41  A- O   VAL   37  A 1.700  0.000  0.600  25.0   2.301   0.001      0.000
+        8    156 2luz.mr  N   PHE  139  A- O   PHE  135  A 2.700  0.000  0.600  25.0   2.699  -0.001      0.000
+        8   2532 2luz.mr #HD1 ILE  166  A-1HG  ARG  170  A 4.000  2.200  2.000  25.0   6.001   0.001      0.000
+        8    835 2luz.mr  H   ALA   32  A-1HD  PRO   33  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        8    121 2luz.mr  H   LEU  122  A- O   SER  118  A 1.700  0.000  0.600  25.0   2.301   0.001      0.000
+        8    880 2luz.mr  HB  VAL   34  A-1HG  GLU  103  A 3.000  1.200  0.500  25.0   3.501   0.001      0.000
+        8    179 2luz.mr  H   ALA  173  A- O   GLU  169  A 1.700  0.000  0.600  25.0   2.301   0.001      0.000
+        8   2512 2luz.mr 1HB  ARG  165  A-1HG  GLN  168  A 4.000  2.200  2.000  25.0   6.001   0.001      0.000
+        8   1131 2luz.mr 1HG1 ILE   47  A- HE1 TRP   50  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        8     47 2luz.mr  H   ILE   47  A- O   ASP   43  A 1.700  0.000  0.600  25.0   2.301   0.001      0.000
+        8    172 2luz.mr  N   GLU  169  A- O   ARG  165  A 2.700  0.000  0.600  25.0   2.699  -0.001      0.000
+        8    123 2luz.mr  H   VAL  123  A- O   GLU  119  A 1.700  0.000  0.600  25.0   2.301   0.001      0.000
+        8   2415 2luz.mr #HB  ALA  153  A- H   ALA  154  A 3.000  1.200  0.500  25.0   3.501   0.001      0.000
+        8   1838 2luz.mr 2HG  GLU  103  A- H   GLU  104  A 4.000  2.200  1.000  25.0   5.002   0.002      0.000
+        8   2257 2luz.mr  HA  PHE  135  A- H   MET  138  A 4.000  2.200  1.000  25.0   5.002   0.002      0.000
+        8    823 2luz.mr  HA  ASP   31  A- H   GLY  107  A 4.000  2.200  1.000  25.0   5.002   0.002      0.001
+        8    371 2luz.mr  HA  ARG   13  A-1HD  ARG   13  A 4.000  2.200  1.000  25.0   5.002   0.002      0.001
+        8    769 2luz.mr #HD  ARG   29  A-1HG  GLU  104  A 4.000  2.200  1.000  25.0   5.002   0.002      0.001
+        8   1560 2luz.mr 1HB  ARG   82  A- H   LEU   99  A 4.000  2.200  2.000  25.0   6.002   0.002      0.001
+        8     29 2luz.mr  H   ARG   29  A- O   ALA    6  A 1.700  0.000  0.600  25.0   2.302   0.002      0.001
+        8   1300 2luz.mr  HA  LEU   58  A-1HG1 ILE   74  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+        8   2498 2luz.mr #HE  MET  164  A-1HE2 GLN  168  A 4.000  2.200  2.000  25.0   6.003   0.003      0.001
+        8   1672 2luz.mr 1HB  TYR   89  A-1HB  LYS   92  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+        8   2487 2luz.mr #HE  MET  163  A- H   SER  167  A 4.000  2.200  2.000  25.0   6.003   0.003      0.001
+        8   2119 2luz.mr  HA  GLU  124  A- HB  VAL  127  A 3.000  1.200  0.500  25.0   3.503   0.003      0.001
+        8   2028 2luz.mr 1HG  GLU  119  A-#HG1 VAL  178  A 3.000  1.200  0.500  25.0   3.503   0.003      0.001
+        8    163 2luz.mr  H   ARG  165  A- O   PRO  161  A 1.700  0.000  0.600  25.0   2.303   0.003      0.001
+        8      8 2luz.mr  N   ARG   14  A- O   ALA   21  A 2.700  0.000  0.600  25.0   2.697  -0.003      0.001
+        8    391 2luz.mr  HA  ARG   14  A- H   THR   15  A 2.000  0.200  0.700  25.0   2.703   0.003      0.001
+        8   1154 2luz.mr  H   ARG   49  A- H   TRP   50  A 4.000  2.200  1.000  25.0   1.797  -0.003      0.001
+        8   2197 2luz.mr  H   GLU  130  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.004   0.004      0.002
+        8   2393 2luz.mr 1HB  PRO  150  A- H   GLU  151  A 3.000  1.200  0.500  25.0   3.505   0.005      0.002
+        8   1768 2luz.mr  HG  LEU   99  A-#HD1 LEU  112  A 4.000  2.200  1.000  25.0   5.005   0.005      0.002
+        8   2459 2luz.mr  HA  PRO  161  A-#HE  MET  164  A 4.000  2.200  1.000  25.0   5.005   0.005      0.002
+        8   2037 2luz.mr 2HB  GLN  120  A- H   MET  121  A 3.000  1.200  0.500  25.0   3.505   0.005      0.002
+        8     15 2luz.mr  H   ARG   22  A- O   THR  116  A 1.700  0.000  0.600  25.0   2.305   0.005      0.002
+        8    374 2luz.mr  HA  ARG   13  A- HA  ARG   22  A 3.000  1.200  0.500  25.0   3.505   0.005      0.003
+        8    169 2luz.mr  H   GLN  168  A- O   MET  164  A 1.700  0.000  0.600  25.0   2.305   0.005      0.003
+        8   1106 2luz.mr  HA  ARG   46  A-#HD  ARG   49  A 4.000  2.200  2.000  25.0   6.005   0.005      0.003
+        8    191 2luz.mr  H   HIS  179  A- O   ALA  175  A 1.700  0.000  0.600  25.0   2.306   0.006      0.003
+        8    171 2luz.mr  H   GLU  169  A- O   ARG  165  A 1.700  0.000  0.600  25.0   1.694  -0.006      0.003
+        8   2025 2luz.mr 1HB  GLU  119  A-#HD1 LEU  122  A 4.000  2.200  1.000  25.0   5.006   0.006      0.003
+        8   1699 2luz.mr  H   LYS   92  A-1HD  LYS   92  A 4.000  2.200  1.000  25.0   5.006   0.006      0.003
+        8   2027 2luz.mr 1HG  GLU  119  A- H   GLN  120  A 4.000  2.200  1.000  25.0   5.006   0.006      0.004
+        8   1985 2luz.mr #HG2 THR  116  A-1HB  MET  121  A 3.000  1.200  0.500  25.0   3.506   0.006      0.004
+        8   1274 2luz.mr  H   GLY   56  A-#HD1 LEU   58  A 4.000  2.200  1.000  25.0   5.006   0.006      0.004
+        8   2322 2luz.mr  HD# PHE  139  A-#HD1 LEU  144  A 4.000  2.200  1.000  25.0   5.006   0.006      0.004
+        8    270 2luz.mr 1HG  ARG    9  A- HA  TRP  174  A 4.000  2.200  2.000  25.0   6.007   0.007      0.005
+        8   2300 2luz.mr #HE  MET  138  A-2HB  ASP  143  A 4.000  2.200  1.000  25.0   5.007   0.007      0.005
+        8   1285 2luz.mr  H   ASP   57  A- H   LEU   58  A 4.000  2.200  1.000  25.0   1.793  -0.007      0.006
+        8   1194 2luz.mr  HD# PHE   51  A- H   ILE   52  A 4.000  2.200  1.000  25.0   1.792  -0.008      0.006
+        8   2616 2luz.mr 1HB  TRP  174  A- H   LEU  177  A 4.000  2.200  1.000  25.0   5.008   0.008      0.006
+        8   2123 2luz.mr 1HB  GLU  124  A- H   VAL  125  A 3.000  1.200  0.500  25.0   3.508   0.008      0.007
+        8   2347 2luz.mr 1HG  ARG  141  A- H   GLY  142  A 4.000  2.200  1.000  25.0   5.008   0.008      0.007
+        8    410 2luz.mr 2HG  ARG   14  A-#HG2 ILE   16  A 3.000  1.200  0.500  25.0   3.508   0.008      0.007
+        8   1361 2luz.mr  HE# PHE   64  A-#HD1 LEU   66  A 4.000  2.200  1.000  25.0   5.009   0.009      0.008
+        8    500 2luz.mr  HA  ALA   21  A- HA  THR  117  A 3.000  1.200  0.500  25.0   3.509   0.009      0.009
+        8    466 2luz.mr #HG2 ILE   16  A-1HD  PRO   17  A 4.000  2.200  1.000  25.0   5.009   0.009      0.009
+        8   1643 2luz.mr  HE3 TRP   87  A-#HE  MET  121  A 4.000  2.200  2.000  25.0   6.010   0.010      0.010
+        8   1124 2luz.mr  H   ILE   47  A-1HD  PRO   54  A 4.000  2.200  2.000  25.0   6.010   0.010      0.010
+        8   2510 2luz.mr 1HB  ARG  165  A-1HD  ARG  165  A 3.000  1.200  0.500  25.0   3.510   0.010      0.011
+        8    189 2luz.mr  H   VAL  178  A- O   TRP  174  A 1.700  0.000  0.600  25.0   1.690  -0.010      0.011
+        8   1403 2luz.mr  HA  GLN   67  A- H   GLY   68  A 3.000  1.200  0.500  25.0   3.511   0.011      0.012
+        8   1359 2luz.mr  HD# PHE   64  A-1HG1 ILE   74  A 4.000  2.200  1.000  25.0   5.011   0.011      0.012
+        8   1700 2luz.mr  H   LYS   92  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.511   0.011      0.014
+        8   1150 2luz.mr 1HB  ASN   48  A-1HG  GLU   53  A 4.000  2.200  1.000  25.0   5.012   0.012      0.014
+        8    302 2luz.mr  H   LEU   11  A-#HD1 LEU  177  A 4.000  2.200  1.000  25.0   5.012   0.012      0.015
+        8   2311 2luz.mr  HA  PHE  139  A-#HD1 LEU  144  A 4.000  2.200  1.000  25.0   5.012   0.012      0.016
+        8   1186 2luz.mr  HZ3 TRP   50  A- HD# PHE   51  A 4.000  2.200  1.000  25.0   5.013   0.013      0.018
+        8    886 2luz.mr #HG1 VAL   34  A- HA  GLU  103  A 4.000  2.200  1.000  25.0   5.013   0.013      0.018
+        8   2318 2luz.mr  HD# PHE  139  A-#HD1 ILE  140  A 4.000  2.200  1.000  25.0   5.013   0.013      0.019
+        8    335 2luz.mr #HD1 LEU   11  A-1HD  ARG   22  A 4.000  2.200  1.000  25.0   5.014   0.014      0.019
+        8   1228 2luz.mr #HG2 ILE   52  A- H   LEU   66  A 4.000  2.200  2.000  25.0   6.014   0.014      0.020
+        8   2513 2luz.mr 1HG  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.515   0.015      0.023
+        8   2684 2luz.mr  H   HIS  179  A-2HB  HIS  179  A 3.000  1.200  0.500  25.0   3.515   0.015      0.024
+        8   1219 2luz.mr #HD1 ILE   52  A- HA  ASN   69  A 4.000  2.200  1.000  25.0   5.015   0.015      0.024
+        8    926 2luz.mr 1HB  ASP   35  A- HD1 TRP   38  A 4.000  2.200  2.000  25.0   6.015   0.015      0.024
+        8    459 2luz.mr #HG1 ILE   16  A- H   GLY   19  A 3.000  1.200  0.500  25.0   3.516   0.016      0.026
+        8     49 2luz.mr  H   ASN   48  A- O   PRO   44  A 1.700  0.000  0.600  25.0   2.316   0.016      0.027
+        8    324 2luz.mr #HD1 LEU   11  A-1HB  LEU  177  A 4.000  2.200  1.000  25.0   5.016   0.016      0.028
+        8    539 2luz.mr  H   SER   23  A-#HD1 ILE   25  A 4.000  2.200  2.000  25.0   6.016   0.016      0.028
+        8    633 2luz.mr #HD1 ILE   25  A- H   HIS  114  A 4.000  2.200  2.000  25.0   6.017   0.017      0.029
+        8   1176 2luz.mr  HH2 TRP   50  A-#HB  ALA  132  A 4.000  2.200  1.000  25.0   5.017   0.017      0.029
+        8    904 2luz.mr #HG2 VAL   34  A- HA  SER  102  A 3.000  1.200  0.500  25.0   3.517   0.017      0.030
+        8   1143 2luz.mr #HG2 ILE   47  A-1HD  PRO   54  A 4.000  2.200  1.000  25.0   5.017   0.017      0.030
+        8   1141 2luz.mr #HG2 ILE   47  A- H   ILE   52  A 4.000  2.200  1.000  25.0   5.017   0.017      0.030
+        8    399 2luz.mr  HE  ARG   14  A- H   THR   15  A 4.000  2.200  1.000  25.0   5.017   0.017      0.031
+        8    434 2luz.mr  HA  ILE   16  A-1HB  GLU   96  A 4.000  2.200  2.000  25.0   6.017   0.017      0.032
+        8   1233 2luz.mr #HG2 ILE   52  A-1HB  GLN   67  A 3.000  1.200  0.500  25.0   3.518   0.018      0.033
+        8    322 2luz.mr 1HB  LEU   11  A-#HD1 ILE   25  A 4.000  2.200  1.000  25.0   5.018   0.018      0.035
+        8   1080 2luz.mr 1HG  PRO   44  A-#HD1 LEU   58  A 4.000  2.200  1.000  25.0   5.018   0.018      0.036
+        8   1373 2luz.mr #HB  ALA   65  A- H   LEU   66  A 3.000  1.200  0.500  25.0   3.519   0.019      0.037
+        8   2496 2luz.mr #HE  MET  164  A- H   ARG  165  A 4.000  2.200  1.000  25.0   5.020   0.020      0.043
+        8    418 2luz.mr  HA  THR   15  A- HA  GLU   20  A 3.000  1.200  0.500  25.0   3.520   0.020      0.043
+        8    482 2luz.mr  H   ALA   18  A-#HG2 THR  117  A 4.000  2.200  2.000  25.0   1.779  -0.021      0.046
+        8   1409 2luz.mr #HG  GLN   67  A- H   GLY   68  A 4.000  2.200  1.000  25.0   5.021   0.021      0.046
+        8   2514 2luz.mr 1HG  ARG  165  A-1HG  GLU  169  A 4.000  2.200  1.000  25.0   5.021   0.021      0.046
+        8   2310 2luz.mr  HA  PHE  139  A- HG  LEU  144  A 4.000  2.200  2.000  25.0   6.022   0.022      0.050
+        8    770 2luz.mr #HD  ARG   29  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.522   0.022      0.052
+        8    452 2luz.mr #HD1 ILE   16  A- H   ALA   21  A 4.000  2.200  1.000  25.0   5.023   0.023      0.053
+        8   2330 2luz.mr  HB  ILE  140  A- H   ARG  141  A 3.000  1.200  0.500  25.0   3.523   0.023      0.054
+        8    462 2luz.mr #HG1 ILE   16  A- HA  ALA   21  A 4.000  2.200  1.000  25.0   1.776  -0.024      0.058
+        8   2405 2luz.mr #HG  GLU  151  A-#HB  ALA  153  A 4.000  2.200  1.000  25.0   5.024   0.024      0.058
+        8     11 2luz.mr  H   GLY   19  A- O   ILE   16  A 1.700  0.000  0.600  25.0   2.326   0.026      0.070
+        8    408 2luz.mr 1HD  ARG   14  A-#HG2 ILE   16  A 4.000  2.200  1.000  25.0   5.026   0.026      0.071
+        8   2617 2luz.mr 1HB  TRP  174  A- H   VAL  178  A 4.000  2.200  1.000  25.0   5.026   0.026      0.072
+        8     13 2luz.mr  H   ALA   21  A- O   ARG   14  A 1.700  0.000  0.600  25.0   2.327   0.027      0.076
+        8   1213 2luz.mr #HD1 ILE   52  A- HA  LEU   66  A 4.000  2.200  1.000  25.0   5.029   0.029      0.086
+        8   1945 2luz.mr #HD2 LEU  112  A- HG  LEU  133  A 4.000  2.200  2.000  25.0   6.032   0.032      0.109
+        8    392 2luz.mr 2HB  ARG   14  A-#HB  ALA  115  A 4.000  2.200  1.000  25.0   5.034   0.034      0.118
+        8    484 2luz.mr #HB  ALA   18  A- H   THR  117  A 4.000  2.200  2.000  25.0   6.034   0.034      0.120
+        8    273 2luz.mr 1HG  ARG    9  A-#HD1 LEU  177  A 3.000  1.200  0.500  25.0   3.535   0.035      0.129
+        8   1328 2luz.mr  H   GLY   61  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.037   0.037      0.147
+        8     51 2luz.mr  H   PHE   51  A- O   ILE   47  A 1.700  0.000  0.600  25.0   2.338   0.038      0.152
+        8    458 2luz.mr #HG1 ILE   16  A- H   ALA   18  A 3.000  1.200  0.500  25.0   3.543   0.043      0.189
+        8     12 2luz.mr  N   GLY   19  A- O   ILE   16  A 2.700  0.000  0.600  25.0   3.345   0.045      0.212
+        8   2368 2luz.mr 1HA  GLY  146  A- H   GLY  147  A 3.000  1.200  0.500  25.0   3.546   0.046      0.219
+        8    486 2luz.mr #HB  ALA   18  A- H   GLY   19  A 3.000  1.200  0.500  25.0   3.547   0.047      0.226
+        8    416 2luz.mr  HA  THR   15  A-#HG1 ILE   16  A 4.000  2.200  1.000  25.0   5.047   0.047      0.235
+        8   1540 2luz.mr  HA  PRO   79  A-1HB  PRO   80  A 4.000  2.200  1.000  25.0   5.048   0.048      0.243
+        8    405 2luz.mr 2HB  ARG   14  A-1HB  SER   23  A 4.000  2.200  2.000  25.0   6.051   0.051      0.276
+        8   2264 2luz.mr  HA  LEU  136  A-#HD1 LEU  136  A 3.000  1.200  0.500  25.0   3.557   0.057      0.340
+        8    420 2luz.mr #HG2 THR   15  A- H   ILE   16  A 3.000  1.200  0.500  25.0   3.557   0.057      0.344
+        8    497 2luz.mr  H   ALA   21  A-#HG2 THR  117  A 4.000  2.200  1.000  25.0   5.059   0.059      0.358
+        8    426 2luz.mr  H   ILE   16  A-#HG1 ILE   16  A 3.000  1.200  0.500  25.0   3.562   0.062      0.399
+        8   2226 2luz.mr #HB  ALA  132  A-1HB  PHE  135  A 4.000  2.200  1.000  25.0   5.062   0.062      0.408
+        8    492 2luz.mr  H   GLU   20  A-#HG2 THR  117  A 4.000  2.200  1.000  25.0   5.066   0.066      0.455
+        8   1250 2luz.mr 1HG  PRO   54  A-#HD2 LEU   66  A 4.000  2.200  1.000  25.0   5.072   0.072      0.539
+        8    448 2luz.mr #HD1 ILE   16  A-2HD  PRO   17  A 4.000  2.200  2.000  25.0   6.075   0.075      0.592
+        8   1306 2luz.mr #HD2 LEU   58  A- H   ALA   65  A 4.000  2.200  2.000  25.0   6.079   0.079      0.645
+        8    488 2luz.mr 1HA  GLY   19  A-#HG2 THR  117  A 4.000  2.200  1.000  25.0   5.094   0.094      0.919
+        8    394 2luz.mr 2HB  ARG   14  A-#HG2 ILE   16  A 4.000  2.200  1.000  25.0   5.109   0.109      1.243
+        8   1249 2luz.mr 2HG  PRO   54  A-#HD2 LEU   66  A 4.000  2.200  1.000  25.0   5.112   0.112      1.323
+        8   1268 2luz.mr 1HB  LYS   55  A-#HB  ALA   65  A 4.000  2.200  1.000  25.0   5.123   0.123      1.594
+        8    501 2luz.mr  HA  ALA   21  A-#HG2 THR  117  A 3.000  1.200  0.500  25.0   3.640   0.140      2.060
+        8    390 2luz.mr  HA  ARG   14  A-2HG  ARG   14  A 3.000  1.200  0.500  25.0   3.643   0.143      2.132
+        8    417 2luz.mr  HA  THR   15  A-#HG2 ILE   16  A 4.000  2.200  1.000  25.0   5.168   0.168      2.960
+        8   1142 2luz.mr #HG2 ILE   47  A- HA  GLU   53  A 4.000  2.200  1.000  25.0   5.172   0.172      3.082
+        8    450 2luz.mr #HD1 ILE   16  A-#HB  ALA   18  A 3.000  1.200  0.500  25.0   3.694   0.194      3.934
+        8    490 2luz.mr 2HA  GLY   19  A-#HG2 THR  117  A 4.000  2.200  1.000  25.0   5.206   0.206      4.419
+        8    463 2luz.mr #HG2 ILE   16  A-#HB  ALA  115  A 3.000  1.200  0.500  25.0   3.817   0.317     10.540
+        8    508 2luz.mr #HB  ALA   21  A-#HG2 THR  117  A 3.000  1.200  0.500  25.0   3.946   0.446     20.778
+        8   1307 2luz.mr #HD2 LEU   58  A-#HD1 ILE   74  A 3.000  1.200  0.500  25.0   3.978   0.478     23.891
+      Of 146 listed distance restraints, 146 (100.00%) are violated with a total energy of 87.171 kJ/mol
+ 
+  Ensemble structure 9:
+    Total energy                   -72234.473  kJ/mol 
+      Restraint violation energy:  316.696  kJ/mol 
+        Distance restraints:       316.696  kJ/mol 
+          Maximum violation:       0.463 A
+        Dihedral angle restraints: 0.000  kJ/mol 
+          Maximum violation:       0.000 degrees
+        RDC restraints:            0.000  kJ/mol 
+          Maximum violation:       0.000 Hz
+      Force field energy:          -72551.169  kJ/mol 
+        Internal solute energy:    -34859.641  kJ/mol 
+        Electrostatic solv.energy: -38424.640  kJ/mol 
+        Van der Waals solv.energy: 733.113  kJ/mol 
+    Model Quality Z-score:         -3.401
+    Backbone RMSD from average:    2.582 A
+    List of violated restraints:
+
+      Obj Number Class   Atom/Residue 1   Atom/Residue 2    d      d-     d+    Scale   dNow   dViol  E[kJ/mol]
+      =========================================================================================================
+        9    797 2luz.mr  HD# TYR   30  A- H   LEU  110  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+        9     53 2luz.mr  H   LYS   55  A- O   ALA   65  A 1.700  0.000  0.600  25.0   2.304   0.004      0.002
+        9   1207 2luz.mr  H   ILE   52  A-#HG1 ILE   52  A 4.000  2.200  1.000  25.0   1.796  -0.004      0.002
+        9   1537 2luz.mr 1HB  GLU   78  A-#HG  ARG   81  A 4.000  2.200  1.000  25.0   5.005   0.005      0.003
+        9    409 2luz.mr 1HG  ARG   14  A- H   THR   15  A 4.000  2.200  1.000  25.0   1.795  -0.005      0.003
+        9    129 2luz.mr  H   GLY  126  A- O   LEU  122  A 1.700  0.000  0.600  25.0   2.305   0.005      0.003
+        9   1316 2luz.mr 1HG  ARG   59  A-1HA  GLY   62  A 4.000  2.200  2.000  25.0   6.006   0.006      0.003
+        9   1543 2luz.mr 1HB  PRO   79  A- HA  PRO   80  A 4.000  2.200  1.000  25.0   5.006   0.006      0.003
+        9   1561 2luz.mr 2HB  ARG   82  A- H   LEU   99  A 4.000  2.200  2.000  25.0   6.009   0.009      0.008
+        9    731 2luz.mr 1HG  ARG   27  A-#HD2 LEU  109  A 3.000  1.200  0.500  25.0   3.509   0.009      0.009
+        9   2036 2luz.mr 1HB  GLN  120  A- H   MET  121  A 3.000  1.200  0.500  25.0   3.511   0.011      0.012
+        9    445 2luz.mr #HD1 ILE   16  A- HB  THR  117  A 4.000  2.200  1.000  25.0   5.012   0.012      0.016
+        9    510 2luz.mr #HB  ALA   21  A- H   SER   23  A 4.000  2.200  2.000  25.0   6.012   0.012      0.016
+        9    109 2luz.mr  H   GLU  111  A- O   ARG  100  A 1.700  0.000  0.600  25.0   2.315   0.015      0.023
+        9    304 2luz.mr  H   LEU   11  A- HB  ILE   25  A 4.000  2.200  1.000  25.0   5.016   0.016      0.026
+        9   1014 2luz.mr  HZ3 TRP   38  A- H   ARG   82  A 4.000  2.200  2.000  25.0   6.016   0.016      0.026
+        9   1707 2luz.mr 1HD  LYS   92  A-1HD  PRO   93  A 4.000  2.200  1.000  25.0   5.017   0.017      0.029
+        9   2691 2luz.mr  H   SER  180  A-#HB  SER  180  A 2.000  0.200  0.700  25.0   2.717   0.017      0.030
+        9     71 2luz.mr  H   ARG   76  A- O   THR   84  A 1.700  0.000  0.600  25.0   2.318   0.018      0.034
+        9   1463 2luz.mr  H   ILE   74  A-1HG1 ILE   74  A 3.000  1.200  0.500  25.0   3.521   0.021      0.045
+        9    799 2luz.mr  HD# TYR   30  A- HG  LEU  110  A 4.000  2.200  1.000  25.0   5.022   0.022      0.051
+        9    993 2luz.mr  HD1 TRP   38  A-#HG2 THR   42  A 4.000  2.200  1.000  25.0   5.022   0.022      0.052
+        9    107 2luz.mr  H   LEU  110  A- O   GLN   28  A 1.700  0.000  0.600  25.0   2.323   0.023      0.055
+        9   1846 2luz.mr  HA  GLU  104  A-1HG  GLU  104  A 3.000  1.200  0.500  25.0   3.523   0.023      0.055
+        9   2632 2luz.mr #HB  ALA  175  A- HD2 HIS  179  A 4.000  2.200  1.000  25.0   5.023   0.023      0.055
+        9   1300 2luz.mr  HA  LEU   58  A-1HG1 ILE   74  A 4.000  2.200  1.000  25.0   5.024   0.024      0.060
+        9   1359 2luz.mr  HD# PHE   64  A-1HG1 ILE   74  A 4.000  2.200  1.000  25.0   5.025   0.025      0.063
+        9    123 2luz.mr  H   VAL  123  A- O   GLU  119  A 1.700  0.000  0.600  25.0   2.325   0.025      0.066
+        9    345 2luz.mr #HD2 LEU   11  A- H   HIS  179  A 4.000  2.200  2.000  25.0   6.025   0.025      0.067
+        9    880 2luz.mr  HB  VAL   34  A-1HG  GLU  103  A 3.000  1.200  0.500  25.0   3.527   0.027      0.078
+        9    115 2luz.mr  H   HIS  114  A- O   ILE   24  A 1.700  0.000  0.600  25.0   2.328   0.028      0.081
+        9    111 2luz.mr  H   LEU  112  A- O   ILE   26  A 1.700  0.000  0.600  25.0   2.329   0.029      0.086
+        9   2645 2luz.mr  H   LEU  177  A-2HB  LEU  177  A 3.000  1.200  0.500  25.0   3.530   0.030      0.092
+        9    412 2luz.mr  H   THR   15  A- HB  THR   15  A 3.000  1.200  0.500  25.0   3.530   0.030      0.093
+        9   2147 2luz.mr 1HA  GLY  126  A- HZ3 TRP  174  A 4.000  2.200  1.000  25.0   5.030   0.030      0.095
+        9   1439 2luz.mr  H   SER   71  A- HA  TRP   87  A 4.000  2.200  1.000  25.0   5.031   0.031      0.099
+        9    793 2luz.mr  HD# TYR   30  A-#HD1 LEU  101  A 4.000  2.200  2.000  25.0   6.031   0.031      0.101
+        9   1394 2luz.mr #HD1 LEU   66  A- H   ALA   70  A 4.000  2.200  1.000  25.0   5.032   0.032      0.106
+        9    598 2luz.mr 1HG1 ILE   24  A-#HG1 VAL  125  A 4.000  2.200  2.000  25.0   6.033   0.033      0.111
+        9    391 2luz.mr  HA  ARG   14  A- H   THR   15  A 2.000  0.200  0.700  25.0   2.734   0.034      0.118
+        9   2123 2luz.mr 1HB  GLU  124  A- H   VAL  125  A 3.000  1.200  0.500  25.0   3.534   0.034      0.118
+        9   2319 2luz.mr  HD# PHE  139  A-1HG1 ILE  140  A 4.000  2.200  1.000  25.0   5.035   0.035      0.125
+        9   1774 2luz.mr #HD1 LEU   99  A- HG  LEU  110  A 3.000  1.200  0.500  25.0   3.535   0.035      0.126
+        9     76 2luz.mr  N   ARG   82  A- O   GLU   78  A 2.700  0.000  0.600  25.0   3.335   0.035      0.131
+        9   1178 2luz.mr  HH2 TRP   50  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.036   0.036      0.137
+        9   1624 2luz.mr  HA  SER   86  A- H   TRP   87  A 3.000  1.200  0.500  25.0   3.537   0.037      0.143
+        9    886 2luz.mr #HG1 VAL   34  A- HA  GLU  103  A 4.000  2.200  1.000  25.0   5.038   0.038      0.148
+        9    101 2luz.mr  H   SER  102  A- O   LEU  109  A 1.700  0.000  0.600  25.0   2.339   0.039      0.159
+        9    753 2luz.mr  H   ARG   29  A-1HB  ARG   29  A 3.000  1.200  0.500  25.0   3.539   0.039      0.159
+        9   2684 2luz.mr  H   HIS  179  A-2HB  HIS  179  A 3.000  1.200  0.500  25.0   3.540   0.040      0.168
+        9     20 2luz.mr  N   ILE   24  A- O   HIS  114  A 2.700  0.000  0.600  25.0   3.341   0.041      0.172
+        9   2024 2luz.mr 1HB  GLU  119  A- H   GLN  120  A 3.000  1.200  0.500  25.0   3.541   0.041      0.178
+        9    997 2luz.mr  HE1 TRP   38  A-1HB  PRO   79  A 4.000  2.200  1.000  25.0   5.042   0.042      0.185
+        9      9 2luz.mr  H   ILE   16  A- O   GLY   19  A 1.700  0.000  0.600  25.0   2.347   0.047      0.229
+        9     97 2luz.mr  H   ARG  100  A- O   GLU  111  A 1.700  0.000  0.600  25.0   2.348   0.048      0.241
+        9    388 2luz.mr  H   ARG   14  A-1HG  ARG   22  A 4.000  2.200  2.000  25.0   6.048   0.048      0.243
+        9    955 2luz.mr #HG1 VAL   37  A-#HG2 THR  108  A 3.000  1.200  0.500  25.0   3.548   0.048      0.245
+        9   2616 2luz.mr 1HB  TRP  174  A- H   LEU  177  A 4.000  2.200  1.000  25.0   5.050   0.050      0.260
+        9    209 2luz.mr  HA  THR    7  A- H   ARG   29  A 4.000  2.200  1.000  25.0   5.051   0.051      0.271
+        9    511 2luz.mr  H   ARG   22  A- H   THR  116  A 4.000  2.200  1.000  25.0   1.748  -0.052      0.283
+        9    749 2luz.mr #HB  GLN   28  A- HE# TYR   30  A 3.000  1.200  0.500  25.0   3.552   0.052      0.288
+        9   2311 2luz.mr  HA  PHE  139  A-#HD1 LEU  144  A 4.000  2.200  1.000  25.0   5.053   0.053      0.290
+        9   1210 2luz.mr  HA  ILE   52  A- H   GLU   53  A 3.000  1.200  0.500  25.0   3.556   0.056      0.323
+        9   2393 2luz.mr 1HB  PRO  150  A- H   GLU  151  A 3.000  1.200  0.500  25.0   3.557   0.057      0.337
+        9    902 2luz.mr #HG2 VAL   34  A- H   LEU  101  A 4.000  2.200  2.000  25.0   6.057   0.057      0.337
+        9   2511 2luz.mr 1HB  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.558   0.058      0.347
+        9    992 2luz.mr  HD1 TRP   38  A- HA  SER   39  A 4.000  2.200  1.000  25.0   5.058   0.058      0.352
+        9   2112 2luz.mr #HG2 VAL  123  A- HD2 HIS  179  A 4.000  2.200  1.000  25.0   5.059   0.059      0.360
+        9    533 2luz.mr  H   SER   23  A-#HB  ALA  115  A 4.000  2.200  2.000  25.0   6.059   0.059      0.370
+        9   1265 2luz.mr 1HB  LYS   55  A- H   GLY   56  A 3.000  1.200  0.500  25.0   3.561   0.061      0.383
+        9     89 2luz.mr  H   GLU   96  A- O   ALA  115  A 1.700  0.000  0.600  25.0   2.361   0.061      0.384
+        9   2534 2luz.mr 1HG1 ILE  166  A- HA  SER  167  A 4.000  2.200  2.000  25.0   6.061   0.061      0.394
+        9   2617 2luz.mr 1HB  TRP  174  A- H   VAL  178  A 4.000  2.200  1.000  25.0   5.063   0.063      0.413
+        9    901 2luz.mr #HG1 VAL   34  A-1HG  PRO   80  A 4.000  2.200  1.000  25.0   5.064   0.064      0.435
+        9    530 2luz.mr 1HD  ARG   22  A- H   SER   23  A 4.000  2.200  1.000  25.0   5.065   0.065      0.446
+        9     43 2luz.mr  H   THR   42  A- O   TRP   38  A 1.700  0.000  0.600  25.0   2.366   0.066      0.453
+        9    519 2luz.mr  HA  ARG   22  A-1HD  ARG   22  A 4.000  2.200  1.000  25.0   5.066   0.066      0.453
+        9   1011 2luz.mr  HZ2 TRP   38  A-2HB  PRO   79  A 4.000  2.200  1.000  25.0   5.066   0.066      0.456
+        9    817 2luz.mr  HE# TYR   30  A-#HD1 ILE  140  A 4.000  2.200  1.000  25.0   5.067   0.067      0.463
+        9   1336 2luz.mr  HA  ASN   63  A- H   PHE   64  A 3.000  1.200  0.500  25.0   3.570   0.070      0.506
+        9    698 2luz.mr #HG2 ILE   26  A- HE1 TRP  174  A 4.000  2.200  2.000  25.0   6.072   0.072      0.539
+        9   2322 2luz.mr  HD# PHE  139  A-#HD1 LEU  144  A 4.000  2.200  1.000  25.0   5.074   0.074      0.577
+        9     10 2luz.mr  N   ILE   16  A- O   GLY   19  A 2.700  0.000  0.600  25.0   3.375   0.075      0.581
+        9    994 2luz.mr  HD1 TRP   38  A-1HB  PRO   80  A 4.000  2.200  2.000  25.0   6.076   0.076      0.600
+        9   2243 2luz.mr 2HB  LEU  133  A-1HB  LEU  136  A 4.000  2.200  1.000  25.0   5.081   0.081      0.692
+        9   1240 2luz.mr #HB  GLU   53  A-1HD  PRO   54  A 4.000  2.200  1.000  25.0   5.083   0.083      0.718
+        9   2531 2luz.mr #HD1 ILE  166  A-1HG  GLU  169  A 4.000  2.200  2.000  25.0   6.084   0.084      0.734
+        9    714 2luz.mr 1HD  ARG   27  A-#HD1 LEU  109  A 4.000  2.200  1.000  25.0   5.091   0.091      0.874
+        9    973 2luz.mr  H   TRP   38  A-#HD2 LEU  101  A 4.000  2.200  1.000  25.0   5.092   0.092      0.888
+        9   2310 2luz.mr  HA  PHE  139  A- HG  LEU  144  A 4.000  2.200  2.000  25.0   6.093   0.093      0.897
+        9   2496 2luz.mr #HE  MET  164  A- H   ARG  165  A 4.000  2.200  1.000  25.0   5.093   0.093      0.898
+        9    655 2luz.mr  H   ILE   26  A- HA  GLU  111  A 4.000  2.200  1.000  25.0   5.095   0.095      0.945
+        9    765 2luz.mr  HE  ARG   29  A-1HG  GLU  104  A 4.000  2.200  1.000  25.0   5.096   0.096      0.972
+        9   1313 2luz.mr  H   ARG   59  A-#HG2 ILE   74  A 4.000  2.200  1.000  25.0   5.101   0.101      1.073
+        9   1471 2luz.mr #HD1 ILE   74  A- H   LEU   75  A 4.000  2.200  1.000  25.0   5.102   0.102      1.080
+        9    522 2luz.mr  HE  ARG   22  A-#HD1 LEU  122  A 4.000  2.200  2.000  25.0   6.107   0.107      1.188
+        9     32 2luz.mr  N   TYR   30  A- O   THR  108  A 2.700  0.000  0.600  25.0   3.411   0.111      1.299
+        9    374 2luz.mr  HA  ARG   13  A- HA  ARG   22  A 3.000  1.200  0.500  25.0   3.613   0.113      1.340
+        9   1307 2luz.mr #HD2 LEU   58  A-#HD1 ILE   74  A 3.000  1.200  0.500  25.0   3.619   0.119      1.484
+        9   1952 2luz.mr  H   HIS  114  A-#HG2 VAL  125  A 4.000  2.200  2.000  25.0   6.121   0.121      1.535
+        9     31 2luz.mr  H   TYR   30  A- O   THR  108  A 1.700  0.000  0.600  25.0   2.422   0.122      1.562
+        9   2270 2luz.mr 1HB  LEU  136  A-2HB  PHE  139  A 4.000  2.200  2.000  25.0   6.126   0.126      1.650
+        9   1643 2luz.mr  HE3 TRP   87  A-#HE  MET  121  A 4.000  2.200  2.000  25.0   6.127   0.127      1.699
+        9    770 2luz.mr #HD  ARG   29  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.628   0.128      1.712
+        9   1526 2luz.mr  H   GLU   78  A-1HB  PRO   79  A 4.000  2.200  2.000  25.0   6.130   0.130      1.766
+        9   1055 2luz.mr 1HB  CYS   41  A-#HD1 LEU   99  A 3.000  1.200  0.500  25.0   3.630   0.130      1.770
+        9   2459 2luz.mr  HA  PRO  161  A-#HE  MET  164  A 4.000  2.200  1.000  25.0   5.130   0.130      1.774
+        9    461 2luz.mr #HG1 ILE   16  A- H   ALA   21  A 3.000  1.200  0.500  25.0   3.631   0.131      1.807
+        9     19 2luz.mr  H   ILE   24  A- O   HIS  114  A 1.700  0.000  0.600  25.0   2.433   0.133      1.849
+        9   1128 2luz.mr #HD1 ILE   47  A-1HD  PRO   54  A 4.000  2.200  1.000  25.0   5.133   0.133      1.859
+        9   2552 2luz.mr 2HB  GLN  168  A- H   GLU  169  A 3.000  1.200  0.500  25.0   3.637   0.137      1.952
+        9   1334 2luz.mr  H   ASN   63  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.138   0.138      1.981
+        9    331 2luz.mr #HD1 LEU   11  A- H   SER  180  A 4.000  2.200  1.000  25.0   5.150   0.150      2.343
+        9   1700 2luz.mr  H   LYS   92  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.658   0.158      2.623
+        9    757 2luz.mr  HA  ARG   29  A- H   THR  108  A 4.000  2.200  1.000  25.0   5.172   0.172      3.078
+        9   1985 2luz.mr #HG2 THR  116  A-1HB  MET  121  A 3.000  1.200  0.500  25.0   3.673   0.173      3.131
+        9   1453 2luz.mr  H   ASP   73  A-#HD1 ILE   74  A 4.000  2.200  2.000  25.0   6.189   0.189      3.721
+        9    814 2luz.mr  HE# TYR   30  A-#HD1 LEU  133  A 4.000  2.200  1.000  25.0   5.190   0.190      3.759
+        9   1982 2luz.mr #HG2 THR  116  A- H   SER  118  A 3.000  1.200  0.500  25.0   3.690   0.190      3.763
+        9   1972 2luz.mr  HA  ALA  115  A-#HD2 LEU  122  A 4.000  2.200  1.000  25.0   5.192   0.192      3.844
+        9    798 2luz.mr  HD# TYR   30  A- HA  LEU  110  A 4.000  2.200  2.000  25.0   6.198   0.198      4.118
+        9    346 2luz.mr #HD2 LEU   11  A-1HG  ARG   22  A 4.000  2.200  1.000  25.0   5.200   0.200      4.181
+        9    207 2luz.mr  HA  THR    7  A- H   ARG   27  A 4.000  2.200  1.000  25.0   5.202   0.202      4.272
+        9   1777 2luz.mr #HD1 LEU   99  A- H   LEU  112  A 4.000  2.200  1.000  25.0   5.204   0.204      4.366
+        9    736 2luz.mr  H   GLN   28  A- HA  GLU  111  A 4.000  2.200  1.000  25.0   5.209   0.209      4.590
+        9   1010 2luz.mr  HZ2 TRP   38  A-1HB  PRO   79  A 4.000  2.200  1.000  25.0   5.216   0.216      4.860
+        9    763 2luz.mr  HA  ARG   29  A- HD# TYR   30  A 4.000  2.200  1.000  25.0   5.223   0.223      5.211
+        9    334 2luz.mr #HD1 LEU   11  A- HE  ARG   22  A 4.000  2.200  2.000  25.0   6.229   0.229      5.503
+        9   1213 2luz.mr #HD1 ILE   52  A- HA  LEU   66  A 4.000  2.200  1.000  25.0   5.231   0.231      5.566
+        9    767 2luz.mr  HE  ARG   29  A-#HD2 LEU  109  A 4.000  2.200  1.000  25.0   5.233   0.233      5.679
+        9   1064 2luz.mr #HG2 THR   42  A-#HD1 LEU   99  A 4.000  2.200  1.000  25.0   5.238   0.238      5.903
+        9   1542 2luz.mr  HA  PRO   79  A- H   ARG   82  A 4.000  2.200  1.000  25.0   5.244   0.244      6.243
+        9    813 2luz.mr  HE# TYR   30  A-#HD2 LEU  110  A 4.000  2.200  1.000  25.0   5.257   0.257      6.905
+        9   2080 2luz.mr #HD2 LEU  122  A- HB  VAL  125  A 4.000  2.200  2.000  25.0   6.280   0.280      8.201
+        9    605 2luz.mr #HG2 ILE   24  A-1HB  LEU  122  A 4.000  2.200  1.000  25.0   5.311   0.311     10.125
+        9    772 2luz.mr #HG  ARG   29  A-2HB  LEU  109  A 4.000  2.200  1.000  25.0   5.317   0.317     10.524
+        9   1540 2luz.mr  HA  PRO   79  A-1HB  PRO   80  A 4.000  2.200  1.000  25.0   5.323   0.323     10.880
+        9    809 2luz.mr  HE# TYR   30  A- H   LEU  110  A 4.000  2.200  1.000  25.0   5.333   0.333     11.591
+        9    418 2luz.mr  HA  THR   15  A- HA  GLU   20  A 3.000  1.200  0.500  25.0   3.856   0.356     13.274
+        9    565 2luz.mr  H   ILE   24  A-#HG2 VAL  125  A 4.000  2.200  1.000  25.0   5.381   0.381     15.173
+        9    119 2luz.mr  H   THR  116  A- O   ARG   22  A 1.700  0.000  0.600  25.0   2.684   0.384     15.424
+        9    582 2luz.mr 2HG1 ILE   24  A-#HG2 VAL  125  A 4.000  2.200  1.000  25.0   5.389   0.389     15.836
+        9   1681 2luz.mr  HD# TYR   89  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.910   0.410     17.586
+        9    120 2luz.mr  N   THR  116  A- O   ARG   22  A 2.700  0.000  0.600  25.0   3.719   0.419     18.358
+        9   1992 2luz.mr #HG2 THR  116  A-#HD2 LEU  122  A 3.000  1.200  0.500  25.0   3.963   0.463     22.380
+      Of 145 listed distance restraints, 145 (100.00%) are violated with a total energy of 316.691 kJ/mol
+ 
+  Ensemble structure 10:
+    Total energy                   -70795.961  kJ/mol 
+      Restraint violation energy:  188.243  kJ/mol 
+        Distance restraints:       188.243  kJ/mol 
+          Maximum violation:       0.482 A
+        Dihedral angle restraints: 0.000  kJ/mol 
+          Maximum violation:       0.000 degrees
+        RDC restraints:            0.000  kJ/mol 
+          Maximum violation:       0.000 Hz
+      Force field energy:          -70984.205  kJ/mol 
+        Internal solute energy:    -36345.361  kJ/mol 
+        Electrostatic solv.energy: -35114.437  kJ/mol 
+        Van der Waals solv.energy: 475.594  kJ/mol 
+    Model Quality Z-score:         -3.362
+    Backbone RMSD from average:    3.223 A
+    List of violated restraints:
+
+      Obj Number Class   Atom/Residue 1   Atom/Residue 2    d      d-     d+    Scale   dNow   dViol  E[kJ/mol]
+      =========================================================================================================
+       10   1191 2luz.mr  HZ  PHE   51  A-#HD1 LEU   66  A 4.000  2.200  1.000  25.0   5.000   0.000      0.000
+       10    191 2luz.mr  H   HIS  179  A- O   ALA  175  A 1.700  0.000  0.600  25.0   2.300   0.000      0.000
+       10    638 2luz.mr #HG2 ILE   25  A-1HB  GLU  111  A 4.000  2.200  1.000  25.0   5.001   0.001      0.000
+       10   2359 2luz.mr  H   LEU  144  A-1HD  PRO  145  A 4.000  2.200  1.000  25.0   5.002   0.002      0.000
+       10     66 2luz.mr  N   SER   71  A- O   VAL   88  A 2.700  0.000  0.600  25.0   3.302   0.002      0.000
+       10   2510 2luz.mr 1HB  ARG  165  A-1HD  ARG  165  A 3.000  1.200  0.500  25.0   3.502   0.002      0.000
+       10   2450 2luz.mr  H   SER  160  A-1HG  MET  164  A 4.000  2.200  1.000  25.0   5.002   0.002      0.000
+       10   1697 2luz.mr  H   GLY   91  A- H   LYS   92  A 3.000  1.200  0.500  25.0   3.502   0.002      0.000
+       10    407 2luz.mr 1HD  ARG   14  A- H   THR   15  A 4.000  2.200  1.000  25.0   5.002   0.002      0.000
+       10   1341 2luz.mr  HA  ASN   63  A-1HG1 ILE   74  A 4.000  2.200  1.000  25.0   5.002   0.002      0.000
+       10    867 2luz.mr  H   VAL   34  A-2HG  GLU  103  A 4.000  2.200  1.000  25.0   5.002   0.002      0.000
+       10   1985 2luz.mr #HG2 THR  116  A-1HB  MET  121  A 3.000  1.200  0.500  25.0   3.503   0.003      0.001
+       10   2037 2luz.mr 2HB  GLN  120  A- H   MET  121  A 3.000  1.200  0.500  25.0   3.503   0.003      0.001
+       10   1744 2luz.mr #HG1 VAL   97  A- HH2 TRP  129  A 4.000  2.200  1.000  25.0   5.003   0.003      0.001
+       10   2463 2luz.mr 1HG  PRO  161  A- H   GLU  162  A 3.000  1.200  0.500  25.0   3.503   0.003      0.001
+       10    137 2luz.mr  H   GLU  130  A- O   GLY  126  A 1.700  0.000  0.600  25.0   2.303   0.003      0.001
+       10   1640 2luz.mr  HE1 TRP   87  A-2HB  TYR   89  A 4.000  2.200  2.000  25.0   6.003   0.003      0.001
+       10   1302 2luz.mr 1HB  LEU   58  A-1HG  ARG   59  A 4.000  2.200  1.000  25.0   5.004   0.004      0.001
+       10   1404 2luz.mr  HA  GLN   67  A- H   ASN   69  A 4.000  2.200  1.000  25.0   5.004   0.004      0.001
+       10   2027 2luz.mr 1HG  GLU  119  A- H   GLN  120  A 4.000  2.200  1.000  25.0   5.004   0.004      0.002
+       10    119 2luz.mr  H   THR  116  A- O   ARG   22  A 1.700  0.000  0.600  25.0   2.304   0.004      0.002
+       10    698 2luz.mr #HG2 ILE   26  A- HE1 TRP  174  A 4.000  2.200  2.000  25.0   6.005   0.005      0.002
+       10    835 2luz.mr  H   ALA   32  A-1HD  PRO   33  A 4.000  2.200  1.000  25.0   5.005   0.005      0.003
+       10   2393 2luz.mr 1HB  PRO  150  A- H   GLU  151  A 3.000  1.200  0.500  25.0   3.506   0.006      0.003
+       10   1463 2luz.mr  H   ILE   74  A-1HG1 ILE   74  A 3.000  1.200  0.500  25.0   3.506   0.006      0.004
+       10   2278 2luz.mr #HD1 LEU  136  A-#HD1 ILE  140  A 3.000  1.200  0.500  25.0   3.506   0.006      0.004
+       10   2514 2luz.mr 1HG  ARG  165  A-1HG  GLU  169  A 4.000  2.200  1.000  25.0   5.006   0.006      0.004
+       10    324 2luz.mr #HD1 LEU   11  A-1HB  LEU  177  A 4.000  2.200  1.000  25.0   5.007   0.007      0.005
+       10     25 2luz.mr  H   ARG   27  A- O   GLU    8  A 1.700  0.000  0.600  25.0   2.307   0.007      0.005
+       10   1616 2luz.mr #HD1 ILE   85  A- H   LEU   99  A 4.000  2.200  2.000  25.0   6.007   0.007      0.005
+       10   1747 2luz.mr #HG1 VAL   97  A- H   LEU   99  A 4.000  2.200  1.000  25.0   5.007   0.007      0.005
+       10   2222 2luz.mr  HA  ALA  132  A- HD# PHE  135  A 4.000  2.200  1.000  25.0   5.007   0.007      0.005
+       10    823 2luz.mr  HA  ASP   31  A- H   GLY  107  A 4.000  2.200  1.000  25.0   5.007   0.007      0.006
+       10    282 2luz.mr  H   ALA   10  A-#HD1 ILE   25  A 4.000  2.200  1.000  25.0   5.007   0.007      0.006
+       10    175 2luz.mr  H   GLY  171  A- O   SER  167  A 1.700  0.000  0.600  25.0   2.307   0.008      0.006
+       10   1503 2luz.mr #HD2 LEU   75  A-1HB  SER   86  A 3.000  1.200  0.500  25.0   3.508   0.008      0.006
+       10   2377 2luz.mr  H   VAL  149  A-#HG2 VAL  149  A 3.000  1.200  0.500  25.0   1.792  -0.008      0.006
+       10     86 2luz.mr  N   TRP   87  A- O   SER   95  A 2.700  0.000  0.600  25.0   2.691  -0.009      0.009
+       10   2266 2luz.mr 2HB  LEU  136  A- H   GLY  137  A 4.000  2.200  2.000  25.0   1.791  -0.009      0.009
+       10    829 2luz.mr  H   ALA   32  A-1HA  GLY  107  A 4.000  2.200  1.000  25.0   5.010   0.010      0.010
+       10   1537 2luz.mr 1HB  GLU   78  A-#HG  ARG   81  A 4.000  2.200  1.000  25.0   5.010   0.010      0.010
+       10   1423 2luz.mr  HA  ALA   70  A- H   SER   71  A 3.000  1.200  0.500  25.0   3.510   0.010      0.011
+       10    172 2luz.mr  N   GLU  169  A- O   ARG  165  A 2.700  0.000  0.600  25.0   2.689  -0.011      0.012
+       10    902 2luz.mr #HG2 VAL   34  A- H   LEU  101  A 4.000  2.200  2.000  25.0   6.011   0.011      0.012
+       10   1659 2luz.mr #HG1 VAL   88  A- HA  ASP   94  A 4.000  2.200  1.000  25.0   5.011   0.011      0.012
+       10   1578 2luz.mr 1HB  LEU   83  A-#HD1 LEU   99  A 4.000  2.200  2.000  25.0   6.011   0.011      0.013
+       10    808 2luz.mr  HD# TYR   30  A-#HG2 VAL   37  A 3.000  1.200  0.500  25.0   3.511   0.011      0.013
+       10   2532 2luz.mr #HD1 ILE  166  A-1HG  ARG  170  A 4.000  2.200  2.000  25.0   6.011   0.011      0.014
+       10   1064 2luz.mr #HG2 THR   42  A-#HD1 LEU   99  A 4.000  2.200  1.000  25.0   5.012   0.012      0.014
+       10   2123 2luz.mr 1HB  GLU  124  A- H   VAL  125  A 3.000  1.200  0.500  25.0   3.512   0.012      0.016
+       10   2616 2luz.mr 1HB  TRP  174  A- H   LEU  177  A 4.000  2.200  1.000  25.0   5.013   0.013      0.017
+       10   1777 2luz.mr #HD1 LEU   99  A- H   LEU  112  A 4.000  2.200  1.000  25.0   5.013   0.013      0.017
+       10   2455 2luz.mr 1HB  SER  160  A- H   MET  163  A 4.000  2.200  1.000  25.0   5.013   0.013      0.019
+       10   2102 2luz.mr #HG1 VAL  123  A- HA  ALA  175  A 3.000  1.200  0.500  25.0   3.514   0.014      0.019
+       10   2275 2luz.mr #HD1 LEU  136  A- H   ILE  140  A 4.000  2.200  1.000  25.0   5.014   0.014      0.020
+       10    270 2luz.mr 1HG  ARG    9  A- HA  TRP  174  A 4.000  2.200  2.000  25.0   6.014   0.014      0.020
+       10   1392 2luz.mr 1HB  LEU   66  A-#HB  ALA   70  A 4.000  2.200  2.000  25.0   6.015   0.015      0.023
+       10    302 2luz.mr  H   LEU   11  A-#HD1 LEU  177  A 4.000  2.200  1.000  25.0   5.015   0.015      0.025
+       10   2028 2luz.mr 1HG  GLU  119  A-#HG1 VAL  178  A 3.000  1.200  0.500  25.0   3.516   0.016      0.025
+       10    353 2luz.mr #HD2 LEU   11  A- HA  ILE   25  A 4.000  2.200  2.000  25.0   6.016   0.016      0.026
+       10   1673 2luz.mr 1HB  TYR   89  A-1HD  LYS   92  A 4.000  2.200  1.000  25.0   5.016   0.016      0.027
+       10   2515 2luz.mr  H   ILE  166  A- HB  ILE  166  A 3.000  1.200  0.500  25.0   1.783  -0.017      0.030
+       10    262 2luz.mr 2HG  ARG    9  A- H   ALA   10  A 4.000  2.200  1.000  25.0   5.018   0.018      0.034
+       10   1681 2luz.mr  HD# TYR   89  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.518   0.018      0.035
+       10   2557 2luz.mr  HA  GLU  169  A-1HG  GLU  169  A 3.000  1.200  0.500  25.0   3.518   0.018      0.035
+       10   1077 2luz.mr 1HD  PRO   44  A-#HD1 LEU   58  A 4.000  2.200  1.000  25.0   5.019   0.019      0.036
+       10    633 2luz.mr #HD1 ILE   25  A- H   HIS  114  A 4.000  2.200  2.000  25.0   6.019   0.019      0.037
+       10   1354 2luz.mr  HD# PHE   64  A- H   LEU   66  A 4.000  2.200  1.000  25.0   5.019   0.019      0.039
+       10    966 2luz.mr #HG2 VAL   37  A- HA  THR  108  A 4.000  2.200  1.000  25.0   5.019   0.019      0.039
+       10   1221 2luz.mr #HD1 ILE   52  A-1HD2 ASN   69  A 4.000  2.200  1.000  25.0   5.019   0.019      0.040
+       10    997 2luz.mr  HE1 TRP   38  A-1HB  PRO   79  A 4.000  2.200  1.000  25.0   5.020   0.020      0.043
+       10    461 2luz.mr #HG1 ILE   16  A- H   ALA   21  A 3.000  1.200  0.500  25.0   3.520   0.020      0.044
+       10    189 2luz.mr  H   VAL  178  A- O   TRP  174  A 1.700  0.000  0.600  25.0   1.680  -0.020      0.044
+       10   1439 2luz.mr  H   SER   71  A- HA  TRP   87  A 4.000  2.200  1.000  25.0   5.021   0.021      0.045
+       10   1222 2luz.mr #HD1 ILE   52  A-1HB  ASN   69  A 3.000  1.200  0.500  25.0   3.522   0.022      0.049
+       10    666 2luz.mr  HB  ILE   26  A-#HD2 LEU  110  A 4.000  2.200  1.000  25.0   5.022   0.022      0.052
+       10    173 2luz.mr  H   ARG  170  A- O   ILE  166  A 1.700  0.000  0.600  25.0   2.322   0.022      0.052
+       10    690 2luz.mr 1HG1 ILE   26  A-#HD2 LEU  112  A 4.000  2.200  1.000  25.0   5.022   0.022      0.052
+       10   1055 2luz.mr 1HB  CYS   41  A-#HD1 LEU   99  A 3.000  1.200  0.500  25.0   3.523   0.023      0.054
+       10    770 2luz.mr #HD  ARG   29  A-#HD1 LEU  109  A 3.000  1.200  0.500  25.0   3.523   0.023      0.055
+       10    731 2luz.mr 1HG  ARG   27  A-#HD2 LEU  109  A 3.000  1.200  0.500  25.0   3.524   0.024      0.058
+       10   1001 2luz.mr  HE3 TRP   38  A-#HD1 LEU   99  A 4.000  2.200  1.000  25.0   5.024   0.024      0.059
+       10   2443 2luz.mr  HA  GLU  158  A- H   SER  160  A 4.000  2.200  2.000  25.0   6.024   0.024      0.060
+       10    162 2luz.mr  N   MET  164  A- O   SER  160  A 2.700  0.000  0.600  25.0   2.676  -0.024      0.060
+       10   1769 2luz.mr 1HB  LEU   99  A-#HD1 LEU  112  A 4.000  2.200  1.000  25.0   5.024   0.024      0.062
+       10    193 2luz.mr  H   GLN    5  A-1HB  GLN    5  A 3.000  1.200  0.500  25.0   3.524   0.024      0.062
+       10     43 2luz.mr  H   THR   42  A- O   TRP   38  A 1.700  0.000  0.600  25.0   2.324   0.025      0.063
+       10    684 2luz.mr #HD1 ILE   26  A-#HD2 LEU  133  A 3.000  1.200  0.500  25.0   3.526   0.026      0.073
+       10   1451 2luz.mr 1HA  GLY   72  A- H   VAL   88  A 4.000  2.200  2.000  25.0   6.026   0.026      0.073
+       10    579 2luz.mr 2HG1 ILE   24  A- H   HIS  114  A 4.000  2.200  1.000  25.0   5.028   0.028      0.080
+       10   2335 2luz.mr #HG2 ILE  140  A-1HG  ARG  141  A 4.000  2.200  2.000  25.0   6.028   0.028      0.081
+       10   2684 2luz.mr  H   HIS  179  A-2HB  HIS  179  A 3.000  1.200  0.500  25.0   3.529   0.029      0.088
+       10   1429 2luz.mr #HB  ALA   70  A- HD1 TRP   87  A 4.000  2.200  2.000  25.0   1.769  -0.032      0.104
+       10   2552 2luz.mr 2HB  GLN  168  A- H   GLU  169  A 3.000  1.200  0.500  25.0   3.532   0.032      0.109
+       10   1565 2luz.mr #HD  ARG   82  A-1HB  ARG  100  A 4.000  2.200  1.000  25.0   5.033   0.033      0.112
+       10   1377 2luz.mr #HB  ALA   65  A-#HB  SER   71  A 3.000  1.200  0.500  25.0   3.533   0.033      0.114
+       10   1334 2luz.mr  H   ASN   63  A-#HD1 ILE   74  A 4.000  2.200  1.000  25.0   5.036   0.036      0.135
+       10    168 2luz.mr  N   SER  167  A- O   MET  163  A 2.700  0.000  0.600  25.0   3.337   0.037      0.145
+       10    169 2luz.mr  H   GLN  168  A- O   MET  164  A 1.700  0.000  0.600  25.0   2.337   0.037      0.147
+       10   1649 2luz.mr  H   VAL   88  A-#HG2 VAL   88  A 4.000  2.200  1.000  25.0   1.762  -0.038      0.148
+       10     87 2luz.mr  H   SER   95  A- O   TRP   87  A 1.700  0.000  0.600  25.0   2.338   0.038      0.149
+       10   2490 2luz.mr  H   MET  164  A-1HG  MET  164  A 3.000  1.200  0.500  25.0   1.762  -0.038      0.151
+       10   2276 2luz.mr #HD1 LEU  136  A-1HG1 ILE  140  A 4.000  2.200  1.000  25.0   5.039   0.039      0.163
+       10   2236 2luz.mr  HA  LEU  133  A-1HB  LEU  136  A 4.000  2.200  1.000  25.0   5.040   0.040      0.167
+       10   1356 2luz.mr  HD# PHE   64  A-#HD1 LEU   66  A 4.000  2.200  1.000  25.0   5.040   0.040      0.170
+       10     67 2luz.mr  H   GLY   72  A- O   PHE   64  A 1.700  0.000  0.600  25.0   2.343   0.043      0.198
+       10   2479 2luz.mr  HA  MET  163  A-1HG1 ILE  166  A 4.000  2.200  2.000  25.0   6.044   0.044      0.199
+       10    598 2luz.mr 2HG1 ILE   24  A-#HG1 VAL  125  A 4.000  2.200  2.000  25.0   6.045   0.045      0.208
+       10   1701 2luz.mr  HA  LYS   92  A-1HD  LYS   92  A 3.000  1.200  0.500  25.0   3.547   0.047      0.231
+       10    167 2luz.mr  H   SER  167  A- O   MET  163  A 1.700  0.000  0.600  25.0   2.348   0.048      0.240
+       10   2238 2luz.mr  HA  LEU  133  A-#HD2 LEU  136  A 4.000  2.200  1.000  25.0   5.048   0.048      0.245
+       10   2617 2luz.mr 1HB  TRP  174  A- H   VAL  178  A 4.000  2.200  1.000  25.0   5.049   0.049      0.246
+       10   1453 2luz.mr  H   ASP   73  A-#HD1 ILE   74  A 4.000  2.200  2.000  25.0   6.049   0.049      0.252
+       10     65 2luz.mr  H   SER   71  A- O   VAL   88  A 1.700  0.000  0.600  25.0   2.350   0.051      0.267
+       10   1232 2luz.mr #HG2 ILE   52  A- H   GLN   67  A 3.000  1.200  0.500  25.0   1.749  -0.051      0.267
+       10   2283 2luz.mr  H   MET  138  A-#HE  MET  138  A 4.000  2.200  1.000  25.0   5.051   0.051      0.271
+       10   2454 2luz.mr 1HB  SER  160  A- H   GLU  162  A 4.000  2.200  1.000  25.0   5.053   0.053      0.298
+       10   2263 2luz.mr  H   LEU  136  A- H   GLY  137  A 4.000  2.200  2.000  25.0   1.744  -0.056      0.333
+       10   1840 2luz.mr #HB  GLU  103  A- H   GLY  105  A 4.000  2.200  1.000  25.0   5.057   0.057      0.340
+       10   1390 2luz.mr 1HB  LEU   66  A-1HB  ASN   69  A 4.000  2.200  1.000  25.0   5.059   0.059      0.359
+       10   1637 2luz.mr  HD1 TRP   87  A-#HG2 VAL   97  A 4.000  2.200  1.000  25.0   5.059   0.059      0.366
+       10    279 2luz.mr  H   ALA   10  A- HB  ILE   24  A 4.000  2.200  2.000  25.0   6.061   0.061      0.383
+       10   2513 2luz.mr 1HG  ARG  165  A- H   ILE  166  A 3.000  1.200  0.500  25.0   3.562   0.062      0.404
+       10    273 2luz.mr 1HG  ARG    9  A-#HD1 LEU  177  A 3.000  1.200  0.500  25.0   3.567   0.067      0.464
+       10    151 2luz.mr  H   GLY  137  A- O   LEU  133  A 1.700  0.000  0.600  25.0   2.367   0.067      0.476
+       10   2498 2luz.mr #HE  MET  164  A-1HE2 GLN  168  A 4.000  2.200  2.000  25.0   6.068   0.068      0.487
+       10   1219 2luz.mr #HD1 ILE   52  A- HA  ASN   69  A 4.000  2.200  1.000  25.0   5.069   0.069      0.493
+       10   1662 2luz.mr #HG2 VAL   88  A-1HB  ASP   94  A 4.000  2.200  1.000  25.0   5.071   0.071      0.521
+       10   1471 2luz.mr #HD1 ILE   74  A- H   LEU   75  A 4.000  2.200  1.000  25.0   5.072   0.072      0.549
+       10   2192 2luz.mr  HE3 TRP  129  A-#HB  ALA  132  A 4.000  2.200  1.000  25.0   5.073   0.073      0.555
+       10   2224 2luz.mr #HB  ALA  132  A-#HD1 LEU  133  A 4.000  2.200  1.000  25.0   5.076   0.076      0.603
+       10    152 2luz.mr  N   GLY  137  A- O   LEU  133  A 2.700  0.000  0.600  25.0   3.377   0.077      0.617
+       10    143 2luz.mr  H   LEU  133  A- O   TRP  129  A 1.700  0.000  0.600  25.0   2.377   0.077      0.623
+       10   2456 2luz.mr  HA  PRO  161  A- H   MET  163  A 4.000  2.200  2.000  25.0   1.716  -0.084      0.736
+       10   1139 2luz.mr #HG2 ILE   47  A-#HB  PHE   51  A 4.000  2.200  1.000  25.0   5.086   0.086      0.771
+       10   2534 2luz.mr 1HG1 ILE  166  A- HA  SER  167  A 4.000  2.200  2.000  25.0   6.087   0.087      0.798
+       10   2415 2luz.mr #HB  ALA  153  A- H   ALA  154  A 3.000  1.200  0.500  25.0   3.589   0.089      0.824
+       10    166 2luz.mr  N   ILE  166  A- O   GLU  162  A 2.700  0.000  0.600  25.0   3.390   0.090      0.842
+       10    164 2luz.mr  N   ARG  165  A- O   PRO  161  A 2.700  0.000  0.600  25.0   3.393   0.093      0.897
+       10   2460 2luz.mr  HA  PRO  161  A-1HG  MET  164  A 4.000  2.200  1.000  25.0   5.093   0.093      0.897
+       10    150 2luz.mr  N   LEU  136  A- O   ALA  132  A 2.700  0.000  0.600  25.0   3.395   0.095      0.949
+       10   1448 2luz.mr #HB  SER   71  A- HB  VAL   88  A 4.000  2.200  1.000  25.0   5.096   0.096      0.954
+       10    153 2luz.mr  H   MET  138  A- O   ASP  134  A 1.700  0.000  0.600  25.0   2.397   0.097      0.984
+       10    793 2luz.mr  HD# TYR   30  A-#HD1 LEU  101  A 4.000  2.200  2.000  25.0   6.099   0.099      1.021
+       10   2237 2luz.mr  HA  LEU  133  A-#HD1 LEU  136  A 4.000  2.200  2.000  25.0   6.100   0.100      1.039
+       10   1609 2luz.mr #HD1 ILE   85  A- HH2 TRP  129  A 4.000  2.200  1.000  25.0   5.102   0.102      1.090
+       10   2540 2luz.mr #HG2 ILE  166  A-1HB  GLU  169  A 4.000  2.200  1.000  25.0   5.108   0.108      1.212
+       10    145 2luz.mr  H   ASP  134  A- O   GLU  130  A 1.700  0.000  0.600  25.0   2.409   0.109      1.245
+       10   1395 2luz.mr #HD1 LEU   66  A-#HB  ALA   70  A 4.000  2.200  1.000  25.0   5.114   0.114      1.353
+       10   2496 2luz.mr #HE  MET  164  A- H   ARG  165  A 4.000  2.200  1.000  25.0   5.117   0.117      1.439
+       10    163 2luz.mr  H   ARG  165  A- O   PRO  161  A 1.700  0.000  0.600  25.0   2.419   0.119      1.483
+       10    149 2luz.mr  H   LEU  136  A- O   ALA  132  A 1.700  0.000  0.600  25.0   2.427   0.127      1.681
+       10    146 2luz.mr  N   ASP  134  A- O   GLU  130  A 2.700  0.000  0.600  25.0   3.432   0.132      1.824
+       10   2478 2luz.mr  HA  MET  163  A-#HD1 ILE  166  A 4.000  2.200  1.000  25.0   5.134   0.134      1.875
+       10   2189 2luz.mr  HA  TRP  129  A-#HB  ALA  132  A 4.000  2.200  1.000  25.0   5.134   0.134      1.886
+       10    165 2luz.mr  H   ILE  166  A- O   GLU  162  A 1.700  0.000  0.600  25.0   2.435   0.135      1.905
+       10   1670 2luz.mr 1HB  TYR   89  A-#HE  MET  121  A 4.000  2.200  1.000  25.0   5.139   0.139      2.013
+       10   1700 2luz.mr  H   LYS   92  A-#HG  LYS   92  A 3.000  1.200  0.500  25.0   3.641   0.141      2.092
+       10   1540 2luz.mr  HA  PRO   79  A-1HB  PRO   80  A 4.000  2.200  1.000  25.0   5.146   0.146      2.239
+       10   1184 2luz.mr  HZ3 TRP   50  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.151   0.151      2.387
+       10   1642 2luz.mr  HE1 TRP   87  A- HE# TYR   89  A 4.000  2.200  1.000  25.0   5.160   0.160      2.678
+       10    154 2luz.mr  N   MET  138  A- O   ASP  134  A 2.700  0.000  0.600  25.0   3.462   0.162      2.733
+       10   2452 2luz.mr  HA  SER  160  A- H   MET  163  A 4.000  2.200  1.000  25.0   5.162   0.162      2.741
+       10    147 2luz.mr  H   PHE  135  A- O   MET  131  A 1.700  0.000  0.600  25.0   2.465   0.165      2.833
+       10   2225 2luz.mr #HB  ALA  132  A-#HD2 LEU  133  A 4.000  2.200  1.000  25.0   5.192   0.192      3.861
+       10   1201 2luz.mr  HE# PHE   51  A-#HB  ALA  132  A 4.000  2.200  1.000  25.0   5.210   0.210      4.592
+       10    141 2luz.mr  H   ALA  132  A- O   GLY  128  A 1.700  0.000  0.600  25.0   2.538   0.238      5.922
+       10   2488 2luz.mr #HE  MET  163  A-#HB  SER  167  A 4.000  2.200  2.000  25.0   6.256   0.256      6.880
+       10   2234 2luz.mr  HA  LEU  133  A- H   PHE  135  A 4.000  2.200  1.000  25.0   5.269   0.269      7.551
+       10   2193 2luz.mr  HZ3 TRP  129  A-#HB  ALA  132  A 4.000  2.200  1.000  25.0   5.274   0.274      7.849
+       10   1436 2luz.mr #HB  ALA   70  A- HD# TYR   89  A 3.000  1.200  0.500  25.0   3.779   0.279      8.113
+       10   1661 2luz.mr #HG2 VAL   88  A- HA  ASP   94  A 4.000  2.200  1.000  25.0   5.283   0.283      8.400
+       10   1176 2luz.mr  HH2 TRP   50  A-#HB  ALA  132  A 4.000  2.200  1.000  25.0   5.354   0.354     13.127
+       10   1193 2luz.mr  HD# PHE   51  A-#HB  ALA  132  A 4.000  2.200  1.000  25.0   5.375   0.375     14.742
+       10   2480 2luz.mr  HA  MET  163  A-#HG2 ILE  166  A 4.000  2.200  1.000  25.0   5.449   0.449     21.042
+       10   2486 2luz.mr #HE  MET  163  A-#HG2 ILE  166  A 3.000  1.200  0.500  25.0   3.982   0.482     24.311
+      Of 176 listed distance restraints, 176 (100.00%) are violated with a total energy of 188.239 kJ/mol
+ 
+
+Ensemble average results for 10 members:
+  Total energy                   -75303.349  kJ/mol 
+    Restraint violation energy:  127.343  kJ/mol 
+      Distance restraints:       127.343  kJ/mol 
+      Dihedral angle restraints: 0.000  kJ/mol 
+      RDC restraints:            0.000  kJ/mol 
+    Force field energy:          -75430.692  kJ/mol 
+      Internal solute energy:    -38708.503  kJ/mol 
+      Electrostatic solv.energy: -37311.339  kJ/mol 
+      Van der Waals solv.energy: 589.150  kJ/mol 
+  Model Quality Z-score:         -2.460
+  Backbone RMSD from average:    2.794 A
